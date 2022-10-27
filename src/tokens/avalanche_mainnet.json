@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Aave Token",
+		"address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+		"symbol": "AAVE.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Binance USD",
+		"address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+		"symbol": "BUSD.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "The Biometric Financial Token",
+		"address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
+		"symbol": "BioFi",
+		"decimals": 6,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "ChainLink Token",
+		"address": "0x5947BB275c521040051D82396192181b413227A3",
+		"symbol": "LINK.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Dai Stablecoin",
+		"address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+		"symbol": "DAI.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Frax",
+		"address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+		"symbol": "FRAX",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Frax Share",
+		"address": "0x214DB107654fF987AD859F34125307783fC8e387",
+		"symbol": "FXS",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "GMX",
+		"address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+		"symbol": "GMX",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Jade Protocol",
+		"address": "0x80B010450fDAf6a3f8dF033Ee296E92751D603B3",
+		"symbol": "JADE",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "JoeToken",
+		"address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+		"symbol": "JOE",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Magic Internet Money",
+		"address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+		"symbol": "MIM",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Mai Stablecoin",
+		"address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+		"symbol": "MAI",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Qi Dao",
+		"address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
+		"symbol": "QI",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Sifu",
+		"address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+		"symbol": "SIFU",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Spell Token",
+		"address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+		"symbol": "SPELL",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Synapse",
+		"address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+		"symbol": "SYN",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Tether USD",
+		"address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+		"symbol": "USDT.e",
+		"decimals": 6,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Time",
+		"address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+		"symbol": "TIME",
+		"decimals": 9,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "TrueUSD",
+		"address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+		"symbol": "TUSD",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "USD Coin",
+		"address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+		"symbol": "USDC",
+		"decimals": 6,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "USDCe-TIC SLP",
+		"address": "0x416494bD4FbEe227313b76a07A1e859928D7bA47",
+		"symbol": "USDCe-TIC-SLP.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Wootrade Network",
+		"address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+		"symbol": "WOO.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Wrapped Bitcoin",
+		"address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+		"symbol": "WBTC.e",
+		"decimals": 8,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Wrapped Ether",
+		"address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+		"symbol": "WETH.e",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "token-logo-uri"
+	}
+]

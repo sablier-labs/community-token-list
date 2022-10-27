@@ -1,18 +1,26 @@
 [
-  {
-    "name": "Wrapped Ether",
-    "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-    "symbol": "WETH",
-    "decimals": 18,
-    "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
-  },
-  {
-    "name": "Uniswap",
-    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-    "symbol": "UNI",
-    "decimals": 18,
-    "chainId": 5,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-  }
+	{
+		"name": "Dai Stablecoin",
+		"address": "0x97cb342Cf2F6EcF48c1285Fb8668f5a4237BF862",
+		"symbol": "DAI",
+		"decimals": 18,
+		"chainId": 42,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "Hydra DAO",
+		"address": "0xAA862603660e863733D5410856c6069AA89e1699",
+		"symbol": "HYDRA",
+		"decimals": 18,
+		"chainId": 42,
+		"logoURI": "token-logo-uri"
+	},
+	{
+		"name": "USD Coin",
+		"address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+		"symbol": "USDC",
+		"decimals": 6,
+		"chainId": 42,
+		"logoURI": "token-logo-uri"
+	}
 ]

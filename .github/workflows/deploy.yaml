@@ -25,27 +25,27 @@ jobs:
       - name: Build list
         run: yarn build
 
-      - name: Publish to NPM
-        uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
-        with:
-          token: ${{ secrets.NPM_TOKEN }}
+      # - name: Publish to NPM
+      #   uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
+      #   with:
+      #     token: ${{ secrets.NPM_TOKEN }}
 
       - name: Pin to IPFS
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
         with:
-          pin-name: Uniswap Default Token List
-          path: 'build/uniswap-default.tokenlist.json'
+          pin-name: Sablier Default Token List
+          path: 'build/sablier-default.tokenlist.json'
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
-      - name: Update DNS with new IPFS hash
-        env:
-          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-          RECORD_DOMAIN: 'uniswap.org'
-          RECORD_NAME: '_dnslink.tokens'
-          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-        uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
-        with:
-          cid: ${{ steps.upload.outputs.hash }}
+      # - name: Update DNS with new IPFS hash
+      #   env:
+      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+      #     RECORD_DOMAIN: 'uniswap.org'
+      #     RECORD_NAME: '_dnslink.tokens'
+      #     CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+      #   uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
+      #   with:
+      #     cid: ${{ steps.upload.outputs.hash }}
 
