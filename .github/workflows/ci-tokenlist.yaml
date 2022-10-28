@@ -22,13 +22,5 @@ jobs:
       - name: "Install the dependencies"
         run: "yarn install --immutable"
 
-      - name: "Lint the code with Prettier, Stylelint and ESLint"
-        run: "yarn g:all-check"
-
-      - name: "Add lint summary"
-        run: |
-          echo "## Lint results" >> $GITHUB_STEP_SUMMARY
-          echo "✅ Passed" >> $GITHUB_STEP_SUMMARY
-
       - name: "Build the client app"
         run: "yarn build"
