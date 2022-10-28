@@ -4,15 +4,15 @@
 		"address": "0x3C4e17b9056272Ce1b49F6900d8cFD6171a1869d",
 		"symbol": "AXS",
 		"decimals": 18,
-		"chainId": 3,
-		"logoURI": "token-logo-uri"
+		"chainId": 2021,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0x3C4e17b9056272Ce1b49F6900d8cFD6171a1869d/logo.png"
 	},
 	{
 		"name": "Wrapped Ether",
 		"address": "0x29C6F8349A028E1bdfC68BFa08BDee7bC5D47E16",
 		"symbol": "WETH",
 		"decimals": 18,
-		"chainId": 3,
-		"logoURI": "token-logo-uri"
+		"chainId": 2021,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0x29C6F8349A028E1bdfC68BFa08BDee7bC5D47E16/logo.png"
 	}
 ]

@@ -4,375 +4,375 @@
 		"address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
 		"symbol": "AAVE",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
 	},
 	{
 		"name": "Amp",
 		"address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
 		"symbol": "AMP",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0621d647cecbFb64b79E44302c1933cB4f27054d/logo.png"
 	},
 	{
 		"name": "Artizen",
 		"address": "0xD7F3aaC7557c213b035C19Bd89bd693396accCD6",
 		"symbol": "ART",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD7F3aaC7557c213b035C19Bd89bd693396accCD6/logo.png"
 	},
 	{
 		"name": "Wrapped Banano",
-		"address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+		"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
 		"symbol": "pWBAN",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034/logo.png"
 	},
 	{
 		"name": "BANK",
 		"address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
 		"symbol": "BANK",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab/logo.png"
 	},
 	{
 		"name": "Binance USD",
 		"address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
 		"symbol": "BUSD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7/logo.png"
 	},
 	{
 		"name": "BNB",
 		"address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
 		"symbol": "BNB",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3/logo.png"
 	},
 	{
 		"name": "ChainLink Token",
 		"address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
 		"symbol": "LINK",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
 	},
 	{
 		"name": "CherryBlossom",
 		"address": "0xf35a85C493c49f19bCC176E718865b148958a130",
 		"symbol": "CBL",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xf35a85C493c49f19bCC176E718865b148958a130/logo.png"
 	},
 	{
 		"name": "Compound",
 		"address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
 		"symbol": "COMP",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c/logo.png"
 	},
 	{
 		"name": "CRV",
 		"address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
 		"symbol": "CRV",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
 	},
 	{
 		"name": "Dai Stablecoin",
 		"address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
 		"symbol": "DAI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
 	},
 	{
 		"name": "Dank Token",
 		"address": "0xfdF80c001f182E76894DEA7dD10e52D9Fb0F9715",
 		"symbol": "DANK",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xfdF80c001f182E76894DEA7dD10e52D9Fb0F9715/logo.png"
 	},
 	{
 		"name": "dHedge",
 		"address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
 		"symbol": "DHT",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292/logo.png"
 	},
 	{
 		"name": "dHedge Stablecoin Yield",
 		"address": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
 		"symbol": "DUSD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE/logo.png"
 	},
 	{
 		"name": "ETHA",
 		"address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
 		"symbol": "ETHA",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x59E9261255644c411AfDd00bD89162d09D862e38/logo.png"
 	},
 	{
 		"name": "FantomStarter",
 		"address": "0x525b43A49bE2Ed530e3516C22bd7ECbcF1586AD4",
 		"symbol": "FS",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x525b43A49bE2Ed530e3516C22bd7ECbcF1586AD4/logo.png"
 	},
 	{
 		"name": "Fantom Token",
 		"address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
 		"symbol": "FTM",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1/logo.png"
 	},
 	{
 		"name": "FFWOOL",
 		"address": "0x10b1c123183E191E8e2d5B209323DE51c655e384",
 		"symbol": "FFWOOL",
 		"decimals": 9,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x10b1c123183E191E8e2d5B209323DE51c655e384/logo.png"
 	},
 	{
 		"name": "Golden Council",
 		"address": "0xD8D9Ce0E4574028EA265cf4eB71d051337979d5A",
 		"symbol": "GC",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD8D9Ce0E4574028EA265cf4eB71d051337979d5A/logo.png"
 	},
 	{
 		"name": "GCR",
 		"address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
 		"symbol": "GCR",
 		"decimals": 4,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xa69d14d6369E414a32a5C7E729B7afbAfd285965/logo.png"
 	},
 	{
 		"name": "Graph Token",
 		"address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
 		"symbol": "GRT",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
 	},
 	{
 		"name": "Jarvis Synthetic British Pound",
 		"address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
 		"symbol": "jGBP",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c/logo.png"
 	},
 	{
 		"name": "Jarvis Synthetic Canadian Dollar",
 		"address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3",
 		"symbol": "jCAD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8ca194A3b22077359b5732DE53373D4afC11DeE3/logo.png"
 	},
 	{
 		"name": "Jarvis Synthetic Euro",
 		"address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
 		"symbol": "jEUR",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c/logo.png"
 	},
 	{
 		"name": "Jarvis Synthetic Singapore Dollar",
 		"address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
 		"symbol": "jSGD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503/logo.png"
 	},
 	{
 		"name": "Jarvis Synthetic Swiss Franc",
 		"address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
 		"symbol": "jCHF",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xbD1463F02f61676d53fd183C2B19282BFF93D099/logo.png"
 	},
 	{
 		"name": "Mai Stablecoin",
-		"address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+		"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
 		"symbol": "MAI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
 	},
 	{
 		"name": "Maker",
 		"address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
 		"symbol": "MKR",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x6f7C932e7684666C9fd1d44527765433e01fF61d/logo.png"
 	},
 	{
 		"name": "Meta",
 		"address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
 		"symbol": "MTA",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0/logo.png"
 	},
 	{
 		"name": "Metas",
 		"address": "0x747033ea841324d3e8295bc31CcdBeC58E76165f",
 		"symbol": "METAS",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x747033ea841324d3e8295bc31CcdBeC58E76165f/logo.png"
 	},
 	{
 		"name": "mStable USD",
 		"address": "0xE840B73E5287865EEc17d250bFb1536704B43B21",
 		"symbol": "mUSD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xE840B73E5287865EEc17d250bFb1536704B43B21/logo.png"
 	},
 	{
 		"name": "Pods Option Put ETH:USDC 2500",
 		"address": "0xedD4d0080EAb2D7db66b409c124c6A8D964B0555",
 		"symbol": "pETHUSDC",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xedD4d0080EAb2D7db66b409c124c6A8D964B0555/logo.png"
 	},
 	{
 		"name": "Qi Dao",
 		"address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
 		"symbol": "QI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
 	},
 	{
 		"name": "Super Human Fathers",
 		"address": "0x63a81936F9B9081Fac97506188e7ed9c7359ca9E",
 		"symbol": "SHF",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x63a81936F9B9081Fac97506188e7ed9c7359ca9E/logo.png"
 	},
 	{
 		"name": "SushiToken",
 		"address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
 		"symbol": "SUSHI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png"
 	},
 	{
 		"name": "Synthetix Network Token",
 		"address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
 		"symbol": "SNX",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
 	},
 	{
 		"name": "Tether USD",
 		"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
 		"symbol": "USDT",
 		"decimals": 6,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
 	},
 	{
 		"name": "Theta Token",
 		"address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
 		"symbol": "THETA",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xB46E0ae620EFd98516f49bb00263317096C114b2/logo.png"
 	},
 	{
 		"name": "TrueUSD",
 		"address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
 		"symbol": "TUSD",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756/logo.png"
 	},
 	{
 		"name": "PureFi",
 		"address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
 		"symbol": "UFI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3c205C8B3e02421Da82064646788c82f7bd753B9/logo.png"
 	},
 	{
 		"name": "Uniswap",
 		"address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
 		"symbol": "UNI",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png"
 	},
 	{
 		"name": "Unlock Discount Token",
 		"address": "0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876",
 		"symbol": "UDT",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876/logo.png"
 	},
 	{
 		"name": "USD Coin",
 		"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
 		"symbol": "USDC",
 		"decimals": 6,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
 	},
 	{
 		"name": "Wrapped BTC",
 		"address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
 		"symbol": "WBTC",
 		"decimals": 8,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
 	},
 	{
 		"name": "Wrapped ETH",
 		"address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
 		"symbol": "WETH",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
 	},
 	{
 		"name": "Wrapped MATIC",
 		"address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
 		"symbol": "WMATIC",
 		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "token-logo-uri"
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
 	}
 ]

@@ -1,35 +1,36 @@
-name: Deploy
+name: Client Deployment on Vercel
+
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_TOKEN_LIST_ID }}
+
 on:
-  # manual trigger
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
+  ci:
+    uses: ./.github/workflows/ci-tokenlist.yml
   deploy:
-    name: Deploy
+    needs: ci
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
+      - name: "Check out the repo"
+        uses: "actions/checkout@v3"
 
-      - name: Setup Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12'
+      - name: "Install the dependencies"
+        run: "yarn install --immutable"
 
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
+      - name: Pull Vercel Environment Information
+        run: yarn vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
 
-      - name: Tests pass
-        run: yarn test
+      - name: Build Project Artifacts
+        run: yarn vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
 
-      - name: Build list
-        run: yarn build
 
-      # - name: Publish to NPM
-      #   uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
-      #   with:
-      #     token: ${{ secrets.NPM_TOKEN }}
-
+      - name: Deploy Project Artifacts to Vercel
+        run: yarn vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN}}
       - name: Pin to IPFS
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
@@ -38,14 +39,3 @@ jobs:
           path: 'build/sablier-default.tokenlist.json'
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
-
-      # - name: Update DNS with new IPFS hash
-      #   env:
-      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-      #     RECORD_DOMAIN: 'uniswap.org'
-      #     RECORD_NAME: '_dnslink.tokens'
-      #     CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-      #   uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
-      #   with:
-      #     cid: ${{ steps.upload.outputs.hash }}
-

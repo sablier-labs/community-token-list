@@ -4,55 +4,55 @@
 		"address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
 		"symbol": "LINK",
 		"decimals": 18,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png"
 	},
 	{
 		"name": "Dai Stablecoin",
 		"address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
 		"symbol": "DAI",
 		"decimals": 18,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
 	},
 	{
 		"name": "Synthetix Network Token",
 		"address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
 		"symbol": "SNX",
 		"decimals": 18,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png"
 	},
 	{
 		"name": "Tether USD",
 		"address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
 		"symbol": "USDT",
 		"decimals": 6,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
 	},
 	{
 		"name": "USD Coin",
 		"address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
 		"symbol": "USDC",
 		"decimals": 6,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
 	},
 	{
 		"name": "Wrapped BTC",
 		"address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
 		"symbol": "WBTC",
 		"decimals": 8,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png"
 	},
 	{
 		"name": "Wrapped Ether",
 		"address": "0x4200000000000000000000000000000000000006",
 		"symbol": "WETH",
 		"decimals": 18,
-		"chainId": 137,
-		"logoURI": "token-logo-uri"
+		"chainId": 10,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
 	}
 ]

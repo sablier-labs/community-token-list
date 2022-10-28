@@ -4,7 +4,7 @@
 		"address": "0x5eD8BD53B0c3fa3dEaBd345430B1A3a6A4e8BD7C",
 		"symbol": "DAI",
 		"decimals": 18,
-		"chainId": 2020,
-		"logoURI": "token-logo-uri"
+		"chainId": 4,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5eD8BD53B0c3fa3dEaBd345430B1A3a6A4e8BD7C/logo.png"
 	}
 ]

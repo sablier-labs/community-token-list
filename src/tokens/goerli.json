@@ -4,23 +4,23 @@
 		"address": "0x97cb342Cf2F6EcF48c1285Fb8668f5a4237BF862",
 		"symbol": "DAI",
 		"decimals": 18,
-		"chainId": 42,
-		"logoURI": "token-logo-uri"
+		"chainId": 5,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x97cb342Cf2F6EcF48c1285Fb8668f5a4237BF862/logo.png"
 	},
 	{
 		"name": "Hydra DAO",
 		"address": "0xAA862603660e863733D5410856c6069AA89e1699",
 		"symbol": "HYDRA",
 		"decimals": 18,
-		"chainId": 42,
-		"logoURI": "token-logo-uri"
+		"chainId": 5,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAA862603660e863733D5410856c6069AA89e1699/logo.png"
 	},
 	{
 		"name": "USD Coin",
 		"address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
 		"symbol": "USDC",
 		"decimals": 6,
-		"chainId": 42,
-		"logoURI": "token-logo-uri"
+		"chainId": 5,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png"
 	}
 ]
