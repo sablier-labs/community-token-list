@@ -5,6 +5,6 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 42,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x79dfab686Ef87cd2c871D5182F08538589234189/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
 	}
 ]

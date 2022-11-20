@@ -77,7 +77,7 @@
 		"symbol": "ALCX",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ALCX.png"
 	},
 	{
 		"name": "Aragon Network Token",
@@ -93,7 +93,7 @@
 		"symbol": "ARCX",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1321f1f1aa541A56C31682c57b80ECfCCd9bB288/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ARCX.png"
 	},
 	{
 		"name": "Aurora",
@@ -101,7 +101,7 @@
 		"symbol": "AURORA",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaAAAA20D9E0e2461697782ef11675f668207961/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/AURORA.png"
 	},
 	{
 		"name": "Axie Infinity Shard Token",
@@ -157,7 +157,7 @@
 		"symbol": "BEN",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3112E6EEb095791CDa8271c25a02A1E66018ade7/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BEN.png"
 	},
 	{
 		"name": "Bet Protocol Token",
@@ -173,7 +173,7 @@
 		"symbol": "BTP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4E672e34B6db16dD5307a6bFD4f343998Aac55E1/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BTP.png"
 	},
 	{
 		"name": "bZx Protocol Token",
@@ -189,7 +189,7 @@
 		"symbol": "CW",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd55236D48606c295adEbF129dAD04Fc74BFaA708/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CW.png"
 	},
 	{
 		"name": "Centaurify",
@@ -197,7 +197,7 @@
 		"symbol": "CENT",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x08ba718F288c3b12B01146816bef9FA03cC635bc/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CENT.png"
 	},
 	{
 		"name": "Chai",
@@ -221,7 +221,7 @@
 		"symbol": "CIRUS",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA01199c61841Fce3b3daFB83FeFC1899715c8756/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CIRUS.png"
 	},
 	{
 		"name": "Colizeum",
@@ -229,7 +229,7 @@
 		"symbol": "ZEUM",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x436dA116249044E8B4464F0Cf21Dd93311d88190/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ZEUM.png"
 	},
 	{
 		"name": "Collectors",
@@ -237,7 +237,7 @@
 		"symbol": "COLL",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC926F9a6521879D30696101F2e1A8cf5da91818B/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/COLL.png"
 	},
 	{
 		"name": "Compound",
@@ -269,7 +269,7 @@
 		"symbol": "CRE8R",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaa61D5dec73971CD4a026ef2820bB87b4a4Ed8d6/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CRE8R.png"
 	},
 	{
 		"name": "Crypto Franc",
@@ -301,7 +301,7 @@
 		"symbol": "CWAP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CWAP.png"
 	},
 	{
 		"name": "Design",
@@ -325,7 +325,7 @@
 		"symbol": "DHP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc40F23A3E9613E012944f7957edCe97899Fa920d/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DHP.png"
 	},
 	{
 		"name": "dHedge",
@@ -341,7 +341,7 @@
 		"symbol": "DSU",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x605D26FBd5be761089281d5cec2Ce86eeA667109/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DSU.png"
 	},
 	{
 		"name": "Digix Gold Token",
@@ -381,7 +381,7 @@
 		"symbol": "EEFI",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x92915c346287DdFbcEc8f86c8EB52280eD05b3A3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/EEFI.png"
 	},
 	{
 		"name": "Element Finance",
@@ -389,7 +389,7 @@
 		"symbol": "ELFI",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ELFI.png"
 	},
 	{
 		"name": "Ethereum Name Service",
@@ -405,7 +405,7 @@
 		"symbol": "ETHA",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x59E9261255644c411AfDd00bD89162d09D862e38/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ETHA.png"
 	},
 	{
 		"name": "Fantom Token",
@@ -429,7 +429,7 @@
 		"symbol": "PRINTS",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dd28568D05f09b02220b09C2cb307bFd837cb95/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PRINTS.png"
 	},
 	{
 		"name": "FLOAT",
@@ -453,7 +453,7 @@
 		"symbol": "FLX",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3Ea8ea4237344C9931214796d9417Af1A1180770/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FLX.png"
 	},
 	{
 		"name": "Forefront",
@@ -461,7 +461,7 @@
 		"symbol": "FF",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7E9D8f07A64e363e97A648904a89fb4cd5fB94CD/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FF.png"
 	},
 	{
 		"name": "FOX",
@@ -477,7 +477,7 @@
 		"symbol": "FRAK",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f81f8f262714cc932141c7C79495B481eF27258/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FRAK.png"
 	},
 	{
 		"name": "Frontier Token",
@@ -493,7 +493,7 @@
 		"symbol": "COMBO",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfFffFffF2ba8F66D4e51811C5190992176930278/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/COMBO.png"
 	},
 	{
 		"name": "GameSwap",
@@ -501,7 +501,7 @@
 		"symbol": "GSWAP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaac41EC512808d64625576EDdd580e7Ea40ef8B2/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GSWAP.png"
 	},
 	{
 		"name": "GCR",
@@ -509,7 +509,7 @@
 		"symbol": "GCR",
 		"decimals": 4,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6307B25A665Efc992EC1C1bC403c38F3dDd7c661/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GCR.png"
 	},
 	{
 		"name": "Gelato Network Token",
@@ -517,7 +517,7 @@
 		"symbol": "GEL",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GEL.png"
 	},
 	{
 		"name": "GDAO",
@@ -525,7 +525,7 @@
 		"symbol": "GDAO",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GDAO.png"
 	},
 	{
 		"name": "GDT",
@@ -533,7 +533,7 @@
 		"symbol": "GDT",
 		"decimals": 8,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GDT.png"
 	},
 	{
 		"name": "Graph Token",
@@ -581,7 +581,7 @@
 		"symbol": "IAG",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x40EB746DEE876aC1E78697b7Ca85142D178A1Fc8/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/IAG.png"
 	},
 	{
 		"name": "IceToken",
@@ -629,7 +629,7 @@
 		"symbol": "jGBP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7409856CAE628f5d578B285B45669b36E7005283/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/jGBP.png"
 	},
 	{
 		"name": "Jarvis Synthetic Euro",
@@ -637,7 +637,7 @@
 		"symbol": "jEUR",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/jEUR.png"
 	},
 	{
 		"name": "Jarvis Synthetic Swiss Franc",
@@ -645,7 +645,7 @@
 		"symbol": "jCHF",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/jCHF.png"
 	},
 	{
 		"name": "Jelly Token",
@@ -653,7 +653,7 @@
 		"symbol": "JELLY",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf5f06fFa53Ad7F5914F493F16E57B56C8dd2eA80/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JELLY.png"
 	},
 	{
 		"name": "JPEG'd Governance Token",
@@ -661,7 +661,7 @@
 		"symbol": "JPEG",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JPEG.png"
 	},
 	{
 		"name": "KiloAmple",
@@ -669,7 +669,7 @@
 		"symbol": "kMPL",
 		"decimals": 9,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe8D17542dfe79Ff4FBd4b850f2d39DC69c4489a2/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/kMPL.png"
 	},
 	{
 		"name": "Kromatika",
@@ -677,7 +677,7 @@
 		"symbol": "KROM",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/KROM.png"
 	},
 	{
 		"name": "Kyber Network Crystal",
@@ -693,7 +693,7 @@
 		"symbol": "LETSGO",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA6586E19EF681b1AC0ED3D46413D199a555dBB95/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/LETSGO.png"
 	},
 	{
 		"name": "Liquity",
@@ -733,7 +733,7 @@
 		"symbol": "MPL",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33349B282065b0284d756F0577FB39c158F935e6/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MPL.png"
 	},
 	{
 		"name": "MarginSwap",
@@ -741,7 +741,7 @@
 		"symbol": "MFI",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAa4e3edb11AFa93c41db59842b29de64b72E355B/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MFI.png"
 	},
 	{
 		"name": "Meta",
@@ -765,7 +765,7 @@
 		"symbol": "MM",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MM.png"
 	},
 	{
 		"name": "mStable USD",
@@ -781,7 +781,7 @@
 		"symbol": "MUSE",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MUSE.png"
 	},
 	{
 		"name": "Nation3",
@@ -789,7 +789,7 @@
 		"symbol": "NATION",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x333A4823466879eeF910A04D473505da62142069/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/NATION.png"
 	},
 	{
 		"name": "NFTX",
@@ -797,7 +797,7 @@
 		"symbol": "NFTX",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/NFTX.png"
 	},
 	{
 		"name": "Nodeseeds Token",
@@ -805,7 +805,7 @@
 		"symbol": "NDS",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x747f564d258612ec5c4E24742C5fd4110bCbe46B/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/NDS.png"
 	},
 	{
 		"name": "Numeraire",
@@ -845,7 +845,7 @@
 		"symbol": "OGV",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9c354503C38481a7A7a51629142963F98eCC12D0/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/OGV.png"
 	},
 	{
 		"name": "Olyseum",
@@ -853,7 +853,7 @@
 		"symbol": "OLY",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/OLY.png"
 	},
 	{
 		"name": "Orchid",
@@ -901,7 +901,7 @@
 		"symbol": "PERC",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PERC.png"
 	},
 	{
 		"name": "Perpetual",
@@ -925,7 +925,7 @@
 		"symbol": "DOUGH",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xad32A8e6220741182940c5aBF610bDE99E737b2D/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DOUGH.png"
 	},
 	{
 		"name": "PlayChip",
@@ -965,7 +965,7 @@
 		"symbol": "D2D",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/D2D.png"
 	},
 	{
 		"name": "Pupper",
@@ -973,7 +973,7 @@
 		"symbol": "PUP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x81dBc1c8e40C3095071949Eda9800C2209a7279A/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PUP.png"
 	},
 	{
 		"name": "PUSd",
@@ -981,7 +981,7 @@
 		"symbol": "PUSd",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x466a756E9A7401B5e2444a3fCB3c2C12FBEa0a54/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PUSd.png"
 	},
 	{
 		"name": "Rai Reflex Index",
@@ -997,7 +997,7 @@
 		"symbol": "xRNBW",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x47BE779De87de6580d0548cde80710a93c502405/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/xRNBW.png"
 	},
 	{
 		"name": "Rainbow Token",
@@ -1005,7 +1005,7 @@
 		"symbol": "RNBW",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE94B97b6b43639E238c851A7e693F50033EfD75C/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/RNBW.png"
 	},
 	{
 		"name": "Rally",
@@ -1021,7 +1021,7 @@
 		"symbol": "RELI",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0E58ED58E150dba5fd8e5D4A49F54C7e1E880124/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/RELI.png"
 	},
 	{
 		"name": "Republic Token",
@@ -1096,14 +1096,6 @@
 		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
 	},
 	{
-		"name": "Sifu",
-		"address": "0x29127fE04ffa4c32AcAC0fFe17280ABD74eAC313",
-		"symbol": "SIFU",
-		"decimals": 18,
-		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x29127fE04ffa4c32AcAC0fFe17280ABD74eAC313/logo.png"
-	},
-	{
 		"name": "Shroom.Finance",
 		"address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
 		"symbol": "SHROOM",
@@ -1117,7 +1109,7 @@
 		"symbol": "SOLOS",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8872332b988152D485028dDB68E7Da98962958cd/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SOLOS.png"
 	},
 	{
 		"name": "Spell",
@@ -1165,7 +1157,7 @@
 		"symbol": "SLP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7FF546c6CbC87Ad9f6F557db5A0df5c742cA440/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SLP.png"
 	},
 	{
 		"name": "SushiSwap:ALCX<>ETH",
@@ -1173,7 +1165,7 @@
 		"symbol": "SLP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC3f279090a47e80990Fe3a9c30d24Cb117EF91a8/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SLP.png"
 	},
 	{
 		"name": "Sushi Token",
@@ -1193,11 +1185,11 @@
 	},
 	{
 		"name": "Synth sUSD",
-		"address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+		"address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
 		"symbol": "sUSD",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1E02fEE23774580C119740129eAC7081e9D3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
 	},
 	{
 		"name": "Synthetix Network Token",
@@ -1229,7 +1221,7 @@
 		"symbol": "DOG",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DOG.png"
 	},
 	{
 		"name": "THEOS",
@@ -1237,7 +1229,7 @@
 		"symbol": "THEOS",
 		"decimals": 6,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9e10f61749c4952C320412A6B26901605Ff6Da1d/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/THEOS.png"
 	},
 	{
 		"name": "THORChain",
@@ -1253,15 +1245,7 @@
 		"symbol": "TIME",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x869d1b8610c038A6C4F37bD757135d4C29ae8917/logo.png"
-	},
-	{
-		"name": "TORN Token",
-		"address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
-		"symbol": "TORN",
-		"decimals": 18,
-		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/TIME.png"
 	},
 	{
 		"name": "TrueUSD",
@@ -1277,7 +1261,7 @@
 		"symbol": "UBQ",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4e38D89362f7e5db0096CE44ebD021c3962aA9a0/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UBQ.png"
 	},
 	{
 		"name": "Ubiquity Algorithmic Dollar",
@@ -1285,7 +1269,7 @@
 		"symbol": "uAD",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F644658510c95CB46955e55D7BA9DDa9E9fBEc6/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/uAD.png"
 	},
 	{
 		"name": "Ubiquity Auto Redeem",
@@ -1293,7 +1277,7 @@
 		"symbol": "uAR",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5894cFEbFdEdBe61d01F20140f41c5c49AedAe97/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/uAR.png"
 	},
 	{
 		"name": "PureFi",
@@ -1301,7 +1285,7 @@
 		"symbol": "UFI",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcDa4e840411C00a614aD9205CAEC807c7458a0E3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UFI.png"
 	},
 	{
 		"name": "Unisocks v0",
@@ -1325,7 +1309,7 @@
 		"symbol": "UNIWKS",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB48d05476AB93a2E74e3589D95Cb3811dD77E8Cd/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UNIWKS.png"
 	},
 	{
 		"name": "Unlock Discount Token",
@@ -1352,14 +1336,6 @@
 		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png"
 	},
 	{
-		"name": "UwU Lend",
-		"address": "0x55C08ca52497e2f1534B59E2917BF524D4765257",
-		"symbol": "UwU",
-		"decimals": 18,
-		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55C08ca52497e2f1534B59E2917BF524D4765257/logo.png"
-	},
-	{
 		"name": "Vesper",
 		"address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
 		"symbol": "VSP",
@@ -1373,7 +1349,7 @@
 		"symbol": "vFOX",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x24265E2976571Be945FBBC6d7Ddda024Ad377c60/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/vFOX.png"
 	},
 	{
 		"name": "Vodra",
@@ -1381,7 +1357,7 @@
 		"symbol": "VDR",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd3D4e446A96dC3b181B64B75c3c70dA41dC3CBe/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/VDR.png"
 	},
 	{
 		"name": "Wrapped OUSD",
@@ -1389,7 +1365,7 @@
 		"symbol": "wOUSD",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/wOUSD.png"
 	},
 	{
 		"name": "Wrapped Bitcoin",
@@ -1445,7 +1421,7 @@
 		"symbol": "XIDR",
 		"decimals": 6,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xebF2096E01455108bAdCbAF86cE30b6e5A72aa52/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/XIDR.png"
 	},
 	{
 		"name": "XMON",
@@ -1453,7 +1429,7 @@
 		"symbol": "XMON",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/XMON.png"
 	},
 	{
 		"name": "XSGD",
@@ -1485,7 +1461,7 @@
 		"symbol": "yUSDC",
 		"decimals": 6,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x597aD1e0c13Bfe8025993D9e79C69E1c0233522e/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/yUSDC.png"
 	},
 	{
 		"name": "Yup",
@@ -1493,6 +1469,6 @@
 		"symbol": "YUP",
 		"decimals": 18,
 		"chainId": 1,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/YUP.png"
 	}
 ]

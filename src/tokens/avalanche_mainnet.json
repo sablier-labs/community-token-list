@@ -21,7 +21,7 @@
 		"symbol": "BioFi",
 		"decimals": 6,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x9366d30FeBA284E62900f6295BC28c9906f33172/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BioFi.png"
 	},
 	{
 		"name": "ChainLink Token",
@@ -61,7 +61,7 @@
 		"symbol": "GMX",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GMX.png"
 	},
 	{
 		"name": "Jade Protocol",
@@ -69,7 +69,7 @@
 		"symbol": "JADE",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x80B010450fDAf6a3f8dF033Ee296E92751D603B3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JADE.png"
 	},
 	{
 		"name": "JoeToken",
@@ -77,7 +77,7 @@
 		"symbol": "JOE",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JOE.png"
 	},
 	{
 		"name": "Magic Internet Money",
@@ -85,7 +85,7 @@
 		"symbol": "MIM",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MIM.png"
 	},
 	{
 		"name": "Mai Stablecoin",
@@ -93,7 +93,7 @@
 		"symbol": "MAI",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MAI.png"
 	},
 	{
 		"name": "Qi Dao",
@@ -101,7 +101,7 @@
 		"symbol": "QI",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/QI.png"
 	},
 	{
 		"name": "Sifu",
@@ -109,15 +109,7 @@
 		"symbol": "SIFU",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x237917E8a998b37759c8EE2fAa529D60c66c2927/logo.png"
-	},
-	{
-		"name": "Spell Token",
-		"address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
-		"symbol": "SPELL",
-		"decimals": 18,
-		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SIFU.png"
 	},
 	{
 		"name": "Synapse",
@@ -125,7 +117,7 @@
 		"symbol": "SYN",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SYN.png"
 	},
 	{
 		"name": "Tether USD",
@@ -141,7 +133,7 @@
 		"symbol": "TIME",
 		"decimals": 9,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/TIME.png"
 	},
 	{
 		"name": "TrueUSD",
@@ -165,7 +157,7 @@
 		"symbol": "USDCe-TIC-SLP.e",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x416494bD4FbEe227313b76a07A1e859928D7bA47/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDCe-TIC-SLP.e.png"
 	},
 	{
 		"name": "Wootrade Network",
@@ -173,7 +165,7 @@
 		"symbol": "WOO.e",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WOO.e.png"
 	},
 	{
 		"name": "Wrapped Bitcoin",
@@ -189,6 +181,6 @@
 		"symbol": "WETH.e",
 		"decimals": 18,
 		"chainId": 43114,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WETH.e.png"
 	}
 ]

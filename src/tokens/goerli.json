@@ -5,7 +5,7 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 5,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x97cb342Cf2F6EcF48c1285Fb8668f5a4237BF862/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
 	},
 	{
 		"name": "Hydra DAO",
@@ -13,7 +13,7 @@
 		"symbol": "HYDRA",
 		"decimals": 18,
 		"chainId": 5,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAA862603660e863733D5410856c6069AA89e1699/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/HYDRA.png"
 	},
 	{
 		"name": "USD Coin",
@@ -21,6 +21,6 @@
 		"symbol": "USDC",
 		"decimals": 6,
 		"chainId": 5,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
 	}
 ]

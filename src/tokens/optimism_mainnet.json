@@ -13,7 +13,7 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 10,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
 	},
 	{
 		"name": "Synthetix Network Token",
@@ -29,7 +29,7 @@
 		"symbol": "USDT",
 		"decimals": 6,
 		"chainId": 10,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDT.png"
 	},
 	{
 		"name": "USD Coin",
@@ -37,7 +37,7 @@
 		"symbol": "USDC",
 		"decimals": 6,
 		"chainId": 10,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
 	},
 	{
 		"name": "Wrapped BTC",
@@ -45,7 +45,7 @@
 		"symbol": "WBTC",
 		"decimals": 8,
 		"chainId": 10,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WBTC.png"
 	},
 	{
 		"name": "Wrapped Ether",

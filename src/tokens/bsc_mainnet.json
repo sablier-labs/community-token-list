@@ -5,7 +5,7 @@
 		"symbol": "1INCH",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/1INCH.png"
 	},
 	{
 		"name": "Axie Infinity Shard Token",
@@ -13,7 +13,7 @@
 		"symbol": "AXS",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/AXS.png"
 	},
 	{
 		"name": "Wrapped Banano",
@@ -21,7 +21,7 @@
 		"symbol": "bWBAN",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/bWBAN.png"
 	},
 	{
 		"name": "Binance-Peg Ether",
@@ -29,7 +29,7 @@
 		"symbol": "ETH",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ETH.png"
 	},
 	{
 		"name": "BUSD Token",
@@ -37,7 +37,7 @@
 		"symbol": "BUSD",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BUSD.png"
 	},
 	{
 		"name": "Dai Stablecoin",
@@ -45,7 +45,7 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
 	},
 	{
 		"name": "ChainLink Token",
@@ -53,7 +53,7 @@
 		"symbol": "LINK",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/LINK.png"
 	},
 	{
 		"name": "Compound",
@@ -61,7 +61,7 @@
 		"symbol": "COMP",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/COMP.png"
 	},
 	{
 		"name": "FantomStarter",
@@ -69,7 +69,7 @@
 		"symbol": "FS",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x1935C03bB7DbC3623bD992CE599bC26bD30A43EB/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FS.png"
 	},
 	{
 		"name": "Fantom Token",
@@ -77,7 +77,7 @@
 		"symbol": "FTM",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xAD29AbB318791D579433D831ed122aFeAf29dcfe/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FTM.png"
 	},
 	{
 		"name": "Hot Cross Token",
@@ -85,7 +85,7 @@
 		"symbol": "HOTCROSS",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/HOTCROSS.png"
 	},
 	{
 		"name": "Jade Protocol",
@@ -93,7 +93,7 @@
 		"symbol": "JADE",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x7ad7242A99F21aa543F9650A56D141C57e4F6081/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JADE.png"
 	},
 	{
 		"name": "Mai Stablecoin",
@@ -101,7 +101,7 @@
 		"symbol": "MAI",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MAI.png"
 	},
 	{
 		"name": "Maker",
@@ -109,7 +109,7 @@
 		"symbol": "MKR",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MKR.png"
 	},
 	{
 		"name": "PancakeSwap Token",
@@ -117,7 +117,7 @@
 		"symbol": "CAKE",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CAKE.png"
 	},
 	{
 		"name": "Pax Dollar Token",
@@ -125,7 +125,7 @@
 		"symbol": "USDP",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xb3c11196A4f3b1da7c23d9FB0A3dDE9c6340934F/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDP.png"
 	},
 	{
 		"name": "Paxos Standard",
@@ -133,7 +133,7 @@
 		"symbol": "PAX",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xb7F8Cd00C5A06c0537E2aBfF0b58033d02e5E094/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PAX.png"
 	},
 	{
 		"name": "Polkamarkets",
@@ -141,7 +141,7 @@
 		"symbol": "POLK",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/POLK.png"
 	},
 	{
 		"name": "Synthetix Network Token",
@@ -149,7 +149,7 @@
 		"symbol": "SNX",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x9Ac983826058b8a9C7Aa1C9171441191232E8404/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SNX.png"
 	},
 	{
 		"name": "Tether USD",
@@ -157,7 +157,7 @@
 		"symbol": "USDT",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDT.png"
 	},
 	{
 		"name": "PureFi",
@@ -165,7 +165,7 @@
 		"symbol": "UFI",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UFI.png"
 	},
 	{
 		"name": "Uniswap",
@@ -173,7 +173,7 @@
 		"symbol": "UNI",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UNI.png"
 	},
 	{
 		"name": "USD Coin",
@@ -181,7 +181,7 @@
 		"symbol": "USDC",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
 	},
 	{
 		"name": "Wrapped BNB",
@@ -189,7 +189,7 @@
 		"symbol": "WBNB",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WBNB.png"
 	},
 	{
 		"name": "Wrapped UST Token",
@@ -197,7 +197,7 @@
 		"symbol": "UST",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x23396cF899Ca06c4472205fC903bDB4de249D6fC/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UST.png"
 	},
 	{
 		"name": "yearn.finance",
@@ -205,6 +205,6 @@
 		"symbol": "YFI",
 		"decimals": 18,
 		"chainId": 56,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/YFI.png"
 	}
 ]

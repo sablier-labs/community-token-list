@@ -13,7 +13,7 @@
 		"symbol": "USDC",
 		"decimals": 6,
 		"chainId": 2020,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
 	},
 	{
 		"name": "Wrapped Ether",
