@@ -1,41 +1,37 @@
-name: Client Deployment on Vercel
+name: "Tokenlist IPFS Deployment"
 
-env:
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_TOKEN_LIST_ID }}
-
-on:
-  push:
-    branches:
-      - main
+on: [push]
 
 jobs:
   ci:
-    uses: ./.github/workflows/ci-tokenlist.yml
-  deploy:
-    needs: ci
-    runs-on: ubuntu-latest
+    runs-on: "ubuntu-latest"
     steps:
       - name: "Check out the repo"
         uses: "actions/checkout@v3"
 
+      - name: "Install Node.js"
+        uses: "actions/setup-node@v3"
+        with:
+          cache: "yarn"
+          node-version: "lts/*"
+
       - name: "Install the dependencies"
         run: "yarn install --immutable"
 
-      - name: Pull Vercel Environment Information
-        run: yarn vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
-
-      - name: Build Project Artifacts
-        run: yarn vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-
-      - name: Deploy Project Artifacts to Vercel
-        run: yarn vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN}}
+      - name: "Build the client app"
+        run: "yarn build"
 
       - name: Pin to IPFS
         id: upload
-        uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
+        uses: aquiladev/ipfs-action@master
         with:
-          pin-name: Sablier Default Token List
           path: 'build/sablier-default.tokenlist.json'
-          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
-          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
+          service: 'infura'
+          pinName: 'tokenlist'
+          infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
+          infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
+
+      - name: Create commit comment with IPFS hash
+        uses: peter-evans/commit-comment@v2
+        with:
+          body: 'Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{ steps.upload.outputs.hash }})'
