@@ -1,20 +1,23 @@
-name: Tests
+name: "Tests"
 
-on: [push, pull_request]
-
+on: 
+  push:
+  pull_request:
+    
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: "ubuntu-latest"
 
-    name: Unit Tests
+    name: "Unit Tests"
     steps:
-      - uses: actions/checkout@v2
+      - uses: "actions/checkout@v3"
 
-      - name: Setup node
-        uses: actions/setup-node@v1
+      - name: "Install Node.js"
+        uses: "actions/setup-node@v3"
         with:
-          node-version: 12
+          cache: "yarn"
+          node-version: "lts/*"
 
-      - run: yarn install --frozen-lockfile
+      - run: "yarn install --frozen-lockfile"
 
-      - run: yarn test
+      - run: "yarn test"

@@ -1,6 +1,7 @@
 name: "Tokenlist IPFS Deployment"
 
-on: [push]
+on: 
+  push:
 
 jobs:
   ci:
