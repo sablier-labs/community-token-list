@@ -5,22 +5,25 @@ const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
 const buildList = require('../src/buildList');
 
-const ajv = new Ajv({ allErrors: true, format: 'full' });
+const ajv = new Ajv({ allErrors: true, format: 'full', verbose: true });
 const validator = ajv.compile(schema);
 let defaultTokenList;
 
 before(async function () {
+  // https://stackoverflow.com/questions/44149096
   this.timeout(120000);
   defaultTokenList = await buildList();
 });
 
-describe('buildList', () => {
+describe('buildList', function () {
 
-  it('validates', () => {
-    expect(validator(defaultTokenList)).to.equal(true);
+  it('validates', function () {
+    const validated = validator(defaultTokenList)
+    if(!validated) console.error(validator.errors)
+    expect(validated).to.equal(true);
   });
 
-  it('contains no duplicate addresses', () => {
+  it('contains no duplicate addresses', function () {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.address}`;
@@ -30,9 +33,9 @@ describe('buildList', () => {
     }
   });
 
-  it('contains no duplicate symbols', () => {
+  it('contains no duplicate symbols', function () {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = ["ust"];
+    const approvedDuplicateSymbols = [];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
@@ -48,7 +51,7 @@ describe('buildList', () => {
     }
   })
 
-  it('contains no duplicate names', () => {
+  it('contains no duplicate names', function () {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
@@ -58,13 +61,13 @@ describe('buildList', () => {
     }
   })
 
-  it('all addresses are valid and checksummed', () => {
+  it('all addresses are valid and checksummed', function () {
     for (let token of defaultTokenList.tokens) {
       expect(getAddress(token.address)).to.eq(token.address);
     }
   });
 
-  it('version matches package.json', () => {
+  it('version matches package.json', function () {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(`${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`);
   });
