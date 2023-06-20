@@ -2,7 +2,10 @@
   "name": "@sablier/default-token-list",
   "description": "◦ The Sablier default token list",
   "version": "5.2.0",
-  "author": "Sablier",
+  "author": {
+    "name": "Sablier Labs Ltd",
+    "url": "https://sablier.com"
+  },
   "bugs": {
     "url": "https://github.com/sablierhq/default-token-list/issues"
   },
