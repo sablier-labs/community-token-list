@@ -11,7 +11,7 @@ const avalanche_mainnet = require("./tokens/avalanche_mainnet.json");
 const bsc_mainnet = require("./tokens/bsc_mainnet.json");
 const ronin_mainnet = require("./tokens/ronin_mainnet.json");
 const ronin_testnet = require("./tokens/ronin_testnet.json");
-const bridgeUtils = require('@uniswap/token-list-bridge-utils');
+const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -26,7 +26,20 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://sablier.finance/icon.png",
     keywords: ["sablier", "default"],
-    tokens: [...ethereum_mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon_mainnet, ...ronin_mainnet, ...ronin_testnet, ...optimism_mainnet, ...bsc_mainnet, ...avalanche_mainnet, ...arbitrum_mainnet]
+    tokens: [
+      ...ethereum_mainnet,
+      ...ropsten,
+      ...goerli,
+      ...kovan,
+      ...rinkeby,
+      ...polygon_mainnet,
+      ...ronin_mainnet,
+      ...ronin_testnet,
+      ...optimism_mainnet,
+      ...bsc_mainnet,
+      ...avalanche_mainnet,
+      ...arbitrum_mainnet,
+    ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

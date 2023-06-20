@@ -1,26 +1,26 @@
 [
-	{
-		"name": "Axie Infinity Shard",
-		"address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
-		"symbol": "AXS",
-		"decimals": 18,
-		"chainId": 2020,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0x97a9107C1793BC407d6F527b77e7fff4D812bece/logo.png"
-	},
-	{
-		"name": "USD Coin",
-		"address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
-		"symbol": "USDC",
-		"decimals": 6,
-		"chainId": 2020,
-		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
-	},
-	{
-		"name": "Wrapped Ether",
-		"address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
-		"symbol": "WETH",
-		"decimals": 18,
-		"chainId": 2020,
-		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5/logo.png"
-	}
+  {
+    "name": "Axie Infinity Shard",
+    "address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+    "symbol": "AXS",
+    "decimals": 18,
+    "chainId": 2020,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0x97a9107C1793BC407d6F527b77e7fff4D812bece/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 2020,
+    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 2020,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/assets/0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5/logo.png"
+  }
 ]

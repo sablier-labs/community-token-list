@@ -1,6 +1,6 @@
 name: "Tokenlist IPFS Deployment"
 
-on: 
+on:
   push:
 
 jobs:
@@ -26,13 +26,15 @@ jobs:
         id: upload
         uses: aquiladev/ipfs-action@master
         with:
-          path: 'build/sablier-default.tokenlist.json'
-          service: 'infura'
-          pinName: 'tokenlist'
+          path: "build/sablier-default.tokenlist.json"
+          service: "infura"
+          pinName: "tokenlist"
           infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
           infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
 
       - name: Create commit comment with IPFS hash
         uses: peter-evans/commit-comment@v2
         with:
-          body: 'Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{ steps.upload.outputs.hash }})'
+          body:
+            "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
+            steps.upload.outputs.hash }})"

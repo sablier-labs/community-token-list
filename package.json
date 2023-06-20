@@ -1,39 +1,42 @@
 {
   "name": "@sablier/default-token-list",
-  "version": "5.2.0",
   "description": "◦ The Sablier default token list",
-  "main": "build/sablier-default.tokenlist.json",
-  "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/sablier-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
+  "version": "5.2.0",
+  "author": "Sablier",
+  "bugs": {
+    "url": "https://github.com/sablierhq/default-token-list/issues"
+  },
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-list-bridge-utils": "1.1.0",
+    "@uniswap/token-lists": "^1.0.0-beta.29",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "prettier": "^2.8.8",
+    "rimraf": "^3.0.2"
   },
   "files": [
     "build/sablier-default.tokenlist.json"
   ],
+  "homepage": "https://github.com/sablierhq/default-token-list#readme",
+  "keywords": [
+    "default",
+    "list",
+    "sablier",
+    "token"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "build/sablier-default.tokenlist.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sablierhq/default-token-list.git"
   },
-  "keywords": [
-    "sablier",
-    "default",
-    "token",
-    "list"
-  ],
-  "author": "Sablier",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/sablierhq/default-token-list/issues"
-  },
-  "homepage": "https://github.com/sablierhq/default-token-list#readme",
-  "devDependencies": {
-    "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.29",
-    "@uniswap/token-list-bridge-utils": "1.1.0",
-    "ajv": "^6.12.3",
-    "chai": "^4.2.0",
-    "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+  "scripts": {
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/sablier-default.tokenlist.json",
+    "prettier-check": "prettier --check \"**/*.{js,json,md,yml}\" .",
+    "prettier-write": "prettier --write \"**/*.{js,json,md,yml}\" .",
+    "prepublishOnly": "npm test && npm run build",
+    "test": "mocha"
   }
 }

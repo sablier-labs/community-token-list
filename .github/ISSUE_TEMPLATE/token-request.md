@@ -1,9 +1,9 @@
 ---
 name: Token Request
 about: Request a token addition
-title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
+title: "Add {TOKEN_SYMBOL}: {TOKEN_NAME}"
 labels: token request
-assignees: ''
+assignees: ""
 ---
 
 - [ ] I understand that token listing is not required to use the Sablier interface with a token.

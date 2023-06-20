@@ -1,10 +1,10 @@
 [
-	{
-		"name": "Dai Stablecoin",
-		"address": "0x5eD8BD53B0c3fa3dEaBd345430B1A3a6A4e8BD7C",
-		"symbol": "DAI",
-		"decimals": 18,
-		"chainId": 4,
-		"logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
-	}
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x5eD8BD53B0c3fa3dEaBd345430B1A3a6A4e8BD7C",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
+  }
 ]
