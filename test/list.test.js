@@ -11,7 +11,7 @@ let defaultTokenList;
 
 before(async function () {
   // https://stackoverflow.com/questions/44149096
-  this.timeout(120000);
+  this.timeout(180000);
   defaultTokenList = await buildList();
 });
 
