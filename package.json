@@ -1,13 +1,13 @@
 {
-  "name": "@sablier/default-token-list",
-  "description": "◦ The Sablier default token list",
+  "name": "@sablier/community-token-list",
+  "description": "◦ The Sablier community token list",
   "version": "5.2.0",
   "author": {
     "name": "Sablier Labs Ltd",
     "url": "https://sablier.com"
   },
   "bugs": {
-    "url": "https://github.com/sablierhq/default-token-list/issues"
+    "url": "https://github.com/sablierhq/community-token-list/issues"
   },
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
@@ -20,7 +20,7 @@
     "rimraf": "^3.0.2"
   },
   "files": [
-    "build/sablier-default.tokenlist.json"
+    "build/sablier-community.tokenlist.json"
   ],
   "homepage": "https://github.com/sablierhq/default-token-list#readme",
   "keywords": [
@@ -30,13 +30,13 @@
     "token"
   ],
   "license": "GPL-3.0-or-later",
-  "main": "build/sablier-default.tokenlist.json",
+  "main": "build/sablier-community.tokenlist.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sablierhq/default-token-list.git"
   },
   "scripts": {
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/sablier-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/sablier-community.tokenlist.json",
     "prettier-check": "prettier --check \"**/*.{js,json,md,yml}\" .",
     "prettier-write": "prettier --write \"**/*.{js,json,md,yml}\" .",
     "prepublishOnly": "npm test && npm run build",

@@ -1,6 +1,6 @@
 {
   "name": "Sablier Community Default",
-  "timestamp": "2023-07-07T15:09:21.272Z",
+  "timestamp": "2023-07-07T21:02:25.861Z",
   "version": {
     "major": 5,
     "minor": 2,
@@ -2537,11 +2537,20 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x4200000000000000000000000000000000000006"
+          },
           "56": {
             "tokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
           },
+          "100": {
+            "tokenAddress": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+          },
           "137": {
-            "tokenAddress": "0xAe740d42E4ff0C5086b2b5b5d149eB2F9e1A754F"
+            "tokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "2020": {
+            "tokenAddress": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5"
           },
           "42161": {
             "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
@@ -3017,7 +3026,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 10,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
+      }
     },
     {
       "name": "Dai Stablecoin",
@@ -3580,6 +3596,70 @@
           }
         }
       }
+    },
+    {
+      "name": "DAI",
+      "address": "0x44fA8E6f47987339850636F88629646662444217",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x44fA8E6f47987339850636F88629646662444217/logo.png"
+    },
+    {
+      "name": "Gnosis Token",
+      "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+      "symbol": "GNO",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0xdd96B45877d0E8361a4DDb732da741e97f3191Ff/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png"
     },
     {
       "name": "0xBitcoin Token",
@@ -5350,7 +5430,7 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0xAe740d42E4ff0C5086b2b5b5d149eB2F9e1A754F",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 137,
@@ -5362,14 +5442,6 @@
           }
         }
       }
-    },
-    {
-      "name": "Wrapped ETH",
-      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
     },
     {
       "name": "Wrapped Filecoin",
@@ -7027,7 +7099,7 @@
       }
     },
     {
-      "name": "Tether USD",
+      "name": "Bridged Tether USD",
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
       "symbol": "USDT.e",
       "decimals": 6,
@@ -7050,7 +7122,7 @@
       }
     },
     {
-      "name": "Wrapped Ether",
+      "name": "Bridged Wrapped Ether",
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
       "symbol": "WETH.e",
       "decimals": 18,
