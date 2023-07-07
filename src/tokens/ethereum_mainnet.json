@@ -1389,7 +1389,26 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+		"extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x4200000000000000000000000000000000000006"
+        },
+        "137": {
+          "tokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        },
+        "42161": {
+          "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+        },
+        "2020": {
+          "tokenAddress": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5"
+        },
+        "100": {
+          "tokenAddress": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+        }
+      }
+    }
   },
   {
     "name": "Wrapped Filecoin",
