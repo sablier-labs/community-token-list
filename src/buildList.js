@@ -5,6 +5,7 @@ const rinkeby = require("./tokens/rinkeby.json");
 const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
 const polygon_mainnet = require("./tokens/polygon_mainnet.json");
+const gnosis_mainnet = require("./tokens/gnosis_mainnet.json");
 const optimism_mainnet = require("./tokens/optimism_mainnet.json");
 const arbitrum_mainnet = require("./tokens/arbitrum_mainnet.json");
 const avalanche_mainnet = require("./tokens/avalanche_mainnet.json");
@@ -33,6 +34,7 @@ module.exports = function buildList() {
       ...kovan,
       ...rinkeby,
       ...polygon_mainnet,
+      ...gnosis_mainnet,
       ...ronin_mainnet,
       ...ronin_testnet,
       ...optimism_mainnet,
