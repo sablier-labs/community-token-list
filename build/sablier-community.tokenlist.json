@@ -1,6 +1,6 @@
 {
   "name": "Sablier Community Default",
-  "timestamp": "2023-07-07T21:02:25.861Z",
+  "timestamp": "2023-07-23T09:24:01.514Z",
   "version": {
     "major": 5,
     "minor": 2,
@@ -2854,6 +2854,14 @@
           }
         }
       }
+    },
+    {
+      "name": "Exactly",
+      "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+      "symbol": "EXA",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B/logo.png"
     },
     {
       "name": "Kromatika",
