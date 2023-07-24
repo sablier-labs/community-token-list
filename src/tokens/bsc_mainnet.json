@@ -5,7 +5,7 @@
     "symbol": "1INCH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/1INCH.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/1INCH.png"
   },
   {
     "name": "Axie Infinity Shard Token",
@@ -13,7 +13,7 @@
     "symbol": "AXS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/AXS.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/AXS.png"
   },
   {
     "name": "Wrapped Banano",
@@ -21,7 +21,7 @@
     "symbol": "bWBAN",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/bWBAN.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/bWBAN.png"
   },
   {
     "name": "Binance-Peg Ether",
@@ -29,7 +29,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/ETH.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/ETH.png"
   },
   {
     "name": "BUSD Token",
@@ -37,7 +37,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BUSD.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -45,7 +45,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
   },
   {
     "name": "ChainLink Token",
@@ -53,7 +53,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/LINK.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/LINK.png"
   },
   {
     "name": "Compound",
@@ -61,7 +61,7 @@
     "symbol": "COMP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/COMP.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/COMP.png"
   },
   {
     "name": "FantomStarter",
@@ -69,7 +69,7 @@
     "symbol": "FS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FS.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/FS.png"
   },
   {
     "name": "Fantom Token",
@@ -77,7 +77,7 @@
     "symbol": "FTM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/FTM.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/FTM.png"
   },
   {
     "name": "Hot Cross Token",
@@ -85,7 +85,7 @@
     "symbol": "HOTCROSS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/HOTCROSS.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/HOTCROSS.png"
   },
   {
     "name": "Jade Protocol",
@@ -93,7 +93,7 @@
     "symbol": "JADE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JADE.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/JADE.png"
   },
   {
     "name": "Mai Stablecoin",
@@ -101,7 +101,7 @@
     "symbol": "MAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MAI.png"
   },
   {
     "name": "Maker",
@@ -109,7 +109,7 @@
     "symbol": "MKR",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MKR.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MKR.png"
   },
   {
     "name": "PancakeSwap Token",
@@ -117,7 +117,7 @@
     "symbol": "CAKE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/CAKE.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/CAKE.png"
   },
   {
     "name": "Pax Dollar Token",
@@ -125,7 +125,7 @@
     "symbol": "USDP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDP.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDP.png"
   },
   {
     "name": "Paxos Standard",
@@ -133,7 +133,7 @@
     "symbol": "PAX",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PAX.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/PAX.png"
   },
   {
     "name": "Polkamarkets",
@@ -141,7 +141,7 @@
     "symbol": "POLK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/POLK.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/POLK.png"
   },
   {
     "name": "Synthetix Network Token",
@@ -149,7 +149,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SNX.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/SNX.png"
   },
   {
     "name": "Tether USD",
@@ -157,7 +157,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDT.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDT.png"
   },
   {
     "name": "PureFi",
@@ -165,7 +165,7 @@
     "symbol": "UFI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UFI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/UFI.png"
   },
   {
     "name": "Uniswap",
@@ -173,7 +173,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UNI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/UNI.png"
   },
   {
     "name": "USD Coin",
@@ -181,7 +181,7 @@
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
   },
   {
     "name": "Wrapped BNB",
@@ -189,7 +189,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WBNB.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBNB.png"
   },
   {
     "name": "Wrapped UST Token",
@@ -197,7 +197,7 @@
     "symbol": "UST",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/UST.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/UST.png"
   },
   {
     "name": "yearn.finance",
@@ -205,6 +205,6 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/YFI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/YFI.png"
   }
 ]

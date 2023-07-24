@@ -5,7 +5,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
   },
   {
     "name": "Hydra DAO",
@@ -13,7 +13,7 @@
     "symbol": "HYDRA",
     "decimals": 18,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/HYDRA.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/HYDRA.png"
   },
   {
     "name": "USD Coin",
@@ -21,6 +21,6 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
   }
 ]

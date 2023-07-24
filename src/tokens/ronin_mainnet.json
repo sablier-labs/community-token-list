@@ -13,7 +13,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 2020,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
   },
   {
     "name": "Wrapped Ether",

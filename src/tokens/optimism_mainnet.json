@@ -13,7 +13,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
   },
   {
     "name": "Exactly",
@@ -37,7 +37,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDT.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDT.png"
   },
   {
     "name": "USD Coin",
@@ -45,7 +45,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
   },
   {
     "name": "Wrapped BTC",
@@ -53,7 +53,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png"
   },
   {
     "name": "Wrapped Ether",

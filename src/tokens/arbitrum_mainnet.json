@@ -13,7 +13,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/LINK.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/LINK.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -29,7 +29,7 @@
     "symbol": "MAI",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MAI.png"
   },
   {
     "name": "Plutus",
@@ -37,7 +37,7 @@
     "symbol": "PLS",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/PLS.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/PLS.png"
   },
   {
     "name": "Qi Dao",
@@ -45,7 +45,7 @@
     "symbol": "QI",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/QI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/QI.png"
   },
   {
     "name": "Radiant",
@@ -53,7 +53,7 @@
     "symbol": "RDNT",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/RDNT.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/RDNT.png"
   },
   {
     "name": "Tether USD",
@@ -77,7 +77,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png"
   },
   {
     "name": "Wrapped Ether",

@@ -21,7 +21,7 @@
     "symbol": "BioFi",
     "decimals": 6,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/BioFi.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BioFi.png"
   },
   {
     "name": "ChainLink Token",
@@ -61,7 +61,7 @@
     "symbol": "GMX",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/GMX.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/GMX.png"
   },
   {
     "name": "Jade Protocol",
@@ -69,7 +69,7 @@
     "symbol": "JADE",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JADE.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/JADE.png"
   },
   {
     "name": "JoeToken",
@@ -77,7 +77,7 @@
     "symbol": "JOE",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/JOE.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/JOE.png"
   },
   {
     "name": "Magic Internet Money",
@@ -85,7 +85,7 @@
     "symbol": "MIM",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MIM.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MIM.png"
   },
   {
     "name": "Mai Stablecoin",
@@ -93,7 +93,7 @@
     "symbol": "MAI",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/MAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MAI.png"
   },
   {
     "name": "Qi Dao",
@@ -101,7 +101,7 @@
     "symbol": "QI",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/QI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/QI.png"
   },
   {
     "name": "Sifu",
@@ -109,7 +109,7 @@
     "symbol": "SIFU",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SIFU.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/SIFU.png"
   },
   {
     "name": "Synapse",
@@ -117,7 +117,7 @@
     "symbol": "SYN",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/SYN.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/SYN.png"
   },
   {
     "name": "Bridged Tether USD",
@@ -133,7 +133,7 @@
     "symbol": "TIME",
     "decimals": 9,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/TIME.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/TIME.png"
   },
   {
     "name": "TrueUSD",
@@ -157,7 +157,7 @@
     "symbol": "USDCe-TIC-SLP.e",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/USDCe-TIC-SLP.e.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDCe-TIC-SLP.e.png"
   },
   {
     "name": "Wootrade Network",
@@ -165,7 +165,7 @@
     "symbol": "WOO.e",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WOO.e.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WOO.e.png"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -181,6 +181,6 @@
     "symbol": "WETH.e",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WETH.e.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WETH.e.png"
   }
 ]

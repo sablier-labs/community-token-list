@@ -5,7 +5,7 @@
     "symbol": "AXS",
     "decimals": 18,
     "chainId": 2021,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/AXS.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/AXS.png"
   },
   {
     "name": "Wrapped Ether",
@@ -13,6 +13,6 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 2021,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/WETH.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WETH.png"
   }
 ]

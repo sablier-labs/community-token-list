@@ -5,6 +5,6 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/sablierhq/assets/main/tokens/DAI.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
   }
 ]
