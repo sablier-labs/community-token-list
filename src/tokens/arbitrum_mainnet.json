@@ -24,6 +24,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
   },
   {
+    "name": "Ichi",
+    "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
+    "symbol": "ICHI",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png"
+  },
+  {
     "name": "Mai Stablecoin",
     "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
     "symbol": "MAI",
