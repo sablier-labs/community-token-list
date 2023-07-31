@@ -1,28 +1,28 @@
-name: "Tokenlist IPFS Deployment"
+name: "Deploy and Pin"
 
 on:
   push:
 
 jobs:
-  ci:
+  deploy:
     runs-on: "ubuntu-latest"
     steps:
-      - name: "Check out the repo"
+      - name: "Setup: checkout the repo"
         uses: "actions/checkout@v3"
 
-      - name: "Install Node.js"
+      - name: "Dependencies: setup node"
         uses: "actions/setup-node@v3"
         with:
           cache: "yarn"
           node-version: "lts/*"
 
-      - name: "Install the dependencies"
+      - name: "Dependencies: install"
         run: "yarn install --immutable"
 
-      - name: "Build the client app"
+      - name: "List: build project"
         run: "yarn build"
 
-      - name: Pin to IPFS
+      - name: "IPFS: upload bundle and pin"
         id: upload
         uses: aquiladev/ipfs-action@master
         with:
@@ -32,14 +32,14 @@ jobs:
           infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
           infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
 
-      - name: Create commit comment with IPFS hash
+      - name: "IPFS: hash summary"
         uses: peter-evans/commit-comment@v2
         with:
           body:
             "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
             steps.upload.outputs.hash }})"
 
-      - name: Update DNS with new IPFS hash
+      - name: "Cloudflare: update DNS with latest IPFS hash"
         env:
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
           CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
