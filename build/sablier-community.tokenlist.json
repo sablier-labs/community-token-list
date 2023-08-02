@@ -1,6 +1,6 @@
 {
   "name": "Sablier Community Default",
-  "timestamp": "2023-07-30T19:43:54.811Z",
+  "timestamp": "2023-08-02T15:17:23.643Z",
   "version": {
     "major": 5,
     "minor": 2,
@@ -760,6 +760,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png",
       "extensions": {
         "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x65559aA14915a70190438eF90104769e5E890A00"
+          },
           "137": {
             "tokenAddress": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f"
           },
@@ -2597,6 +2600,24 @@
       "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/wOUSD.png"
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD"
+          },
+          "42161": {
+            "tokenAddress": "0x5979D7b546E38E414F7E9822514be443A4800529"
+          }
+        }
+      }
+    },
+    {
       "name": "Crypto Franc",
       "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
       "symbol": "XCHF",
@@ -2838,6 +2859,21 @@
       }
     },
     {
+      "name": "Ethereum Name Service",
+      "address": "0x65559aA14915a70190438eF90104769e5E890A00",
+      "symbol": "ENS",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
+          }
+        }
+      }
+    },
+    {
       "name": "Exactly",
       "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
       "symbol": "EXA",
@@ -3024,6 +3060,14 @@
           }
         }
       }
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -3593,7 +3637,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x44fA8E6f47987339850636F88629646662444217/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "Gnosis Token",
@@ -3601,7 +3645,7 @@
       "symbol": "GNO",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo.png"
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
     },
     {
       "name": "ChainLink Token",
@@ -3609,7 +3653,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "Uniswap",
@@ -3617,7 +3661,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
     },
     {
       "name": "USD Coin",
@@ -3625,7 +3669,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0xdd96B45877d0E8361a4DDb732da741e97f3191Ff/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Tether USD",
@@ -3633,7 +3677,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -3641,7 +3685,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -3649,7 +3693,15 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png"
     },
     {
       "name": "0xBitcoin Token",
@@ -5480,6 +5532,21 @@
       }
     },
     {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+          }
+        }
+      }
+    },
+    {
       "name": "Crypto Franc",
       "address": "0x23A72dfA62Cd95C08Ee116a285aE4f05cBeccd18",
       "symbol": "XCHF",
@@ -6628,6 +6695,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
+      }
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
           }
         }
       }

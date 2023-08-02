@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png"
   }
 ]
