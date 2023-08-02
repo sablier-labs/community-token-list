@@ -1,0 +1,7 @@
+# directories
+.yarn
+**/build
+**/node_modules
+
+# files
+yarn.lock

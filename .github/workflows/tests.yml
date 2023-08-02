@@ -16,7 +16,7 @@ jobs:
           cache: "yarn"
           node-version: "lts/*"
 
-      - name: "Dependencies: install" 
+      - name: "Dependencies: install"
         run: "yarn install --frozen-lockfile"
 
       - name: "Test: run test suite"

@@ -33,10 +33,8 @@ jobs:
           infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
 
       - name: "IPFS: hash summary"
-        uses: peter-evans/commit-comment@v2
-        with:
-          body:
-            "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
+        run: |
+          echo "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
             steps.upload.outputs.hash }})"
 
       - name: "Cloudflare: update DNS with latest IPFS hash"

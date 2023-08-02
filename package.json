@@ -38,7 +38,7 @@
   "scripts": {
     "build": "rimraf build && mkdir -p build && node src/write.js > build/sablier-community.tokenlist.json",
     "prettier-check": "prettier --check \"**/*.{js,json,md,yml}\" .",
-    "prettier-write": "prettier --write \"**/*.{js,json,md,yml}\" .",
+    "prettier-fix": "prettier --write \"**/*.{js,json,md,yml}\" .",
     "prepublishOnly": "npm test && npm run build",
     "test": "mocha"
   }
