@@ -1,17 +1,17 @@
 const { version } = require("../package.json");
-const ethereum_mainnet = require("./tokens/ethereum_mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
-const polygon_mainnet = require("./tokens/polygon_mainnet.json");
-const gnosis_mainnet = require("./tokens/gnosis_mainnet.json");
-const optimism_mainnet = require("./tokens/optimism_mainnet.json");
+
 const arbitrum_mainnet = require("./tokens/arbitrum_mainnet.json");
 const avalanche_mainnet = require("./tokens/avalanche_mainnet.json");
+const base_mainnet = require("./tokens/base_mainnet.json");
 const bsc_mainnet = require("./tokens/bsc_mainnet.json");
+const ethereum_mainnet = require("./tokens/ethereum_mainnet.json");
+const gnosis_mainnet = require("./tokens/gnosis_mainnet.json");
+const goerli = require("./tokens/goerli.json");
+const optimism_mainnet = require("./tokens/optimism_mainnet.json");
+const polygon_mainnet = require("./tokens/polygon_mainnet.json");
 const ronin_mainnet = require("./tokens/ronin_mainnet.json");
 const ronin_testnet = require("./tokens/ronin_testnet.json");
+
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
 module.exports = function buildList() {
@@ -29,18 +29,16 @@ module.exports = function buildList() {
     keywords: ["sablier", "default"],
     tokens: [
       ...ethereum_mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby,
-      ...polygon_mainnet,
-      ...gnosis_mainnet,
-      ...ronin_mainnet,
-      ...ronin_testnet,
-      ...optimism_mainnet,
-      ...bsc_mainnet,
       ...avalanche_mainnet,
       ...arbitrum_mainnet,
+      ...base_mainnet,
+      ...bsc_mainnet,
+      ...goerli,
+      ...gnosis_mainnet,
+      ...optimism_mainnet,
+      ...polygon_mainnet,
+      ...ronin_mainnet,
+      ...ronin_testnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
