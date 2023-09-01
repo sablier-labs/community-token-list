@@ -17,6 +17,7 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "prettier": "^2.8.8",
+    "prettier-plugin-sort-json": "2.0.0",
     "rimraf": "^3.0.2"
   },
   "files": [

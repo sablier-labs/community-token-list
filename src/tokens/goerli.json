@@ -1,26 +1,26 @@
 [
   {
-    "name": "Dai Stablecoin",
     "address": "0x97cb342Cf2F6EcF48c1285Fb8668f5a4237BF862",
-    "symbol": "DAI",
-    "decimals": 18,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
   },
   {
-    "name": "Hydra DAO",
     "address": "0xAA862603660e863733D5410856c6069AA89e1699",
-    "symbol": "HYDRA",
-    "decimals": 18,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/HYDRA.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/HYDRA.png",
+    "name": "Hydra DAO",
+    "symbol": "HYDRA"
   },
   {
-    "name": "USD Coin",
     "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-    "symbol": "USDC",
-    "decimals": 6,
     "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
   }
 ]

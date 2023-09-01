@@ -1,74 +1,74 @@
 [
   {
-    "name": "ChainLink Token",
     "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
-    "symbol": "LINK",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png",
+    "name": "ChainLink Token",
+    "symbol": "LINK"
   },
   {
-    "name": "Dai Stablecoin",
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-    "symbol": "DAI",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
   },
   {
-    "name": "Exactly",
     "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
-    "symbol": "EXA",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/EXA.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/EXA.png",
+    "name": "Exactly",
+    "symbol": "EXA"
   },
   {
-    "name": "Synthetix Network Token",
     "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
-    "symbol": "SNX",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX"
   },
   {
-    "name": "Tether USD",
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-    "symbol": "USDT",
-    "decimals": 6,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDT.png"
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDT.png",
+    "name": "Tether USD",
+    "symbol": "USDT"
   },
   {
-    "name": "USD Coin",
     "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "symbol": "USDC",
+    "chainId": 10,
     "decimals": 6,
-    "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
   },
   {
-    "name": "Wrapped BTC",
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
-    "symbol": "WBTC",
+    "chainId": 10,
     "decimals": 8,
-    "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
   },
   {
-    "name": "Wrapped Ether",
     "address": "0x4200000000000000000000000000000000000006",
-    "symbol": "WETH",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   },
   {
-    "name": "Wrapped liquid staked Ether 2.0",
     "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
-    "symbol": "wstETH",
-    "decimals": 18,
     "chainId": 10,
-    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH"
   }
 ]
