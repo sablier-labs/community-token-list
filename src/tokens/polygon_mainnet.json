@@ -360,6 +360,14 @@
     "symbol": "USDC"
   },
   {
+    "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/VERSE.png",
+    "name": "Verse",
+    "symbol": "VERSE"
+  },
+  {
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
     "chainId": 137,
     "decimals": 8,

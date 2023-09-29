@@ -1360,6 +1360,21 @@
     "symbol": "USHIBA"
   },
   {
+    "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc"
+        }
+      }
+    },
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/VERSE.png",
+    "name": "Verse",
+    "symbol": "VERSE"
+  },
+  {
     "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
     "chainId": 1,
     "decimals": 18,
