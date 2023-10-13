@@ -3,7 +3,7 @@
     "address": "0x3C4e17b9056272Ce1b49F6900d8cFD6171a1869d",
     "chainId": 2021,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/AXS.png",
+    "logoURI": "https://files.sablier.com/tokens/AXS.png",
     "name": "Axie Infinity Shard",
     "symbol": "AXS"
   },
@@ -11,7 +11,7 @@
     "address": "0x29C6F8349A028E1bdfC68BFa08BDee7bC5D47E16",
     "chainId": 2021,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WETH.png",
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   }

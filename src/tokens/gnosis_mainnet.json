@@ -3,7 +3,7 @@
     "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BUSD.png",
+    "logoURI": "https://files.sablier.com/tokens/BUSD.png",
     "name": "Binance USD",
     "symbol": "BUSD"
   },
@@ -11,7 +11,7 @@
     "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/COW.png",
+    "logoURI": "https://files.sablier.com/tokens/COW.png",
     "name": "CoW Protocol",
     "symbol": "COW"
   },
@@ -91,7 +91,7 @@
     "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WXDAI.png",
+    "logoURI": "https://files.sablier.com/tokens/WXDAI.png",
     "name": "Wrapped XDAI",
     "symbol": "WXDAI"
   }

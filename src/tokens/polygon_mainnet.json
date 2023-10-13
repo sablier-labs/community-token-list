@@ -11,7 +11,7 @@
     "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/AMP.png",
+    "logoURI": "https://files.sablier.com/tokens/AMP.png",
     "name": "Amp",
     "symbol": "AMP"
   },
@@ -19,7 +19,7 @@
     "address": "0xD7F3aaC7557c213b035C19Bd89bd693396accCD6",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/ART.png",
+    "logoURI": "https://files.sablier.com/tokens/ART.png",
     "name": "Artizen",
     "symbol": "ART"
   },
@@ -27,7 +27,7 @@
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/pWBAN.png",
+    "logoURI": "https://files.sablier.com/tokens/pWBAN.png",
     "name": "Wrapped Banano",
     "symbol": "pWBAN"
   },
@@ -35,7 +35,7 @@
     "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BANK.png",
+    "logoURI": "https://files.sablier.com/tokens/BANK.png",
     "name": "BANK",
     "symbol": "BANK"
   },
@@ -43,7 +43,7 @@
     "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BUSD.png",
+    "logoURI": "https://files.sablier.com/tokens/BUSD.png",
     "name": "Binance USD",
     "symbol": "BUSD"
   },
@@ -51,7 +51,7 @@
     "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/BNB.png",
+    "logoURI": "https://files.sablier.com/tokens/BNB.png",
     "name": "BNB",
     "symbol": "BNB"
   },
@@ -67,7 +67,7 @@
     "address": "0xf35a85C493c49f19bCC176E718865b148958a130",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/CBL.png",
+    "logoURI": "https://files.sablier.com/tokens/CBL.png",
     "name": "CherryBlossom",
     "symbol": "CBL"
   },
@@ -75,7 +75,7 @@
     "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/COMP.png",
+    "logoURI": "https://files.sablier.com/tokens/COMP.png",
     "name": "Compound",
     "symbol": "COMP"
   },
@@ -99,7 +99,7 @@
     "address": "0xfdF80c001f182E76894DEA7dD10e52D9Fb0F9715",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DANK.png",
+    "logoURI": "https://files.sablier.com/tokens/DANK.png",
     "name": "Dank Token",
     "symbol": "DANK"
   },
@@ -115,7 +115,7 @@
     "address": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DUSD.png",
+    "logoURI": "https://files.sablier.com/tokens/DUSD.png",
     "name": "dHedge Stablecoin Yield",
     "symbol": "DUSD"
   },
@@ -123,7 +123,7 @@
     "address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/ETHA.png",
+    "logoURI": "https://files.sablier.com/tokens/ETHA.png",
     "name": "ETHA",
     "symbol": "ETHA"
   },
@@ -131,7 +131,7 @@
     "address": "0x525b43A49bE2Ed530e3516C22bd7ECbcF1586AD4",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/FS.png",
+    "logoURI": "https://files.sablier.com/tokens/FS.png",
     "name": "FantomStarter",
     "symbol": "FS"
   },
@@ -139,7 +139,7 @@
     "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/FTM.png",
+    "logoURI": "https://files.sablier.com/tokens/FTM.png",
     "name": "Fantom Token",
     "symbol": "FTM"
   },
@@ -147,7 +147,7 @@
     "address": "0x10b1c123183E191E8e2d5B209323DE51c655e384",
     "chainId": 137,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/FFWOOL.png",
+    "logoURI": "https://files.sablier.com/tokens/FFWOOL.png",
     "name": "FFWOOL",
     "symbol": "FFWOOL"
   },
@@ -155,7 +155,7 @@
     "address": "0xD8D9Ce0E4574028EA265cf4eB71d051337979d5A",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/GC.png",
+    "logoURI": "https://files.sablier.com/tokens/GC.png",
     "name": "Golden Council",
     "symbol": "GC"
   },
@@ -163,7 +163,7 @@
     "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
     "chainId": 137,
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/GCR.png",
+    "logoURI": "https://files.sablier.com/tokens/GCR.png",
     "name": "GCR",
     "symbol": "GCR"
   },
@@ -171,7 +171,7 @@
     "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/GRT.png",
+    "logoURI": "https://files.sablier.com/tokens/GRT.png",
     "name": "Graph Token",
     "symbol": "GRT"
   },
@@ -187,7 +187,7 @@
     "address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/jGBP.png",
+    "logoURI": "https://files.sablier.com/tokens/jGBP.png",
     "name": "Jarvis Synthetic British Pound",
     "symbol": "jGBP"
   },
@@ -195,7 +195,7 @@
     "address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/jCAD.png",
+    "logoURI": "https://files.sablier.com/tokens/jCAD.png",
     "name": "Jarvis Synthetic Canadian Dollar",
     "symbol": "jCAD"
   },
@@ -203,7 +203,7 @@
     "address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/jEUR.png",
+    "logoURI": "https://files.sablier.com/tokens/jEUR.png",
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR"
   },
@@ -211,7 +211,7 @@
     "address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/jSGD.png",
+    "logoURI": "https://files.sablier.com/tokens/jSGD.png",
     "name": "Jarvis Synthetic Singapore Dollar",
     "symbol": "jSGD"
   },
@@ -219,7 +219,7 @@
     "address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/jCHF.png",
+    "logoURI": "https://files.sablier.com/tokens/jCHF.png",
     "name": "Jarvis Synthetic Swiss Franc",
     "symbol": "jCHF"
   },
@@ -235,7 +235,7 @@
     "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MKR.png",
+    "logoURI": "https://files.sablier.com/tokens/MKR.png",
     "name": "Maker",
     "symbol": "MKR"
   },
@@ -243,7 +243,7 @@
     "address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MTA.png",
+    "logoURI": "https://files.sablier.com/tokens/MTA.png",
     "name": "Meta",
     "symbol": "MTA"
   },
@@ -251,7 +251,7 @@
     "address": "0x747033ea841324d3e8295bc31CcdBeC58E76165f",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/METAS.png",
+    "logoURI": "https://files.sablier.com/tokens/METAS.png",
     "name": "Metas",
     "symbol": "METAS"
   },
@@ -259,7 +259,7 @@
     "address": "0xE840B73E5287865EEc17d250bFb1536704B43B21",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/mUSD.png",
+    "logoURI": "https://files.sablier.com/tokens/mUSD.png",
     "name": "mStable USD",
     "symbol": "mUSD"
   },
@@ -267,7 +267,7 @@
     "address": "0xedD4d0080EAb2D7db66b409c124c6A8D964B0555",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/pETHUSDC.png",
+    "logoURI": "https://files.sablier.com/tokens/pETHUSDC.png",
     "name": "Pods Option Put ETH:USDC 2500",
     "symbol": "pETHUSDC"
   },
@@ -283,7 +283,7 @@
     "address": "0x63a81936F9B9081Fac97506188e7ed9c7359ca9E",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/SHF.png",
+    "logoURI": "https://files.sablier.com/tokens/SHF.png",
     "name": "Super Human Fathers",
     "symbol": "SHF"
   },
@@ -315,7 +315,7 @@
     "address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/THETA.png",
+    "logoURI": "https://files.sablier.com/tokens/THETA.png",
     "name": "Theta Token",
     "symbol": "THETA"
   },
@@ -323,7 +323,7 @@
     "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/TUSD.png",
+    "logoURI": "https://files.sablier.com/tokens/TUSD.png",
     "name": "TrueUSD",
     "symbol": "TUSD"
   },
@@ -331,7 +331,7 @@
     "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/UFI.png",
+    "logoURI": "https://files.sablier.com/tokens/UFI.png",
     "name": "PureFi",
     "symbol": "UFI"
   },
@@ -347,7 +347,7 @@
     "address": "0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/UDT.png",
+    "logoURI": "https://files.sablier.com/tokens/UDT.png",
     "name": "Unlock Discount Token",
     "symbol": "UDT"
   },
@@ -363,7 +363,7 @@
     "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
     "chainId": 137,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/VERSE.png",
+    "logoURI": "https://files.sablier.com/tokens/VERSE.png",
     "name": "Verse",
     "symbol": "VERSE"
   },
@@ -371,7 +371,7 @@
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
     "chainId": 137,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png",
+    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },

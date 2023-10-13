@@ -11,7 +11,7 @@
     "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
     "chainId": 2020,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png",
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },

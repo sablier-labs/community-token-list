@@ -3,7 +3,7 @@
     "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/ARB.png",
+    "logoURI": "https://files.sablier.com/tokens/ARB.png",
     "name": "Arbitrum",
     "symbol": "ARB"
   },
@@ -19,7 +19,7 @@
     "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/LINK.png",
+    "logoURI": "https://files.sablier.com/tokens/LINK.png",
     "name": "ChainLink Token",
     "symbol": "LINK"
   },
@@ -43,7 +43,7 @@
     "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/MAI.png",
+    "logoURI": "https://files.sablier.com/tokens/MAI.png",
     "name": "Mai Stablecoin",
     "symbol": "MAI"
   },
@@ -51,7 +51,7 @@
     "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/PLS.png",
+    "logoURI": "https://files.sablier.com/tokens/PLS.png",
     "name": "Plutus",
     "symbol": "PLS"
   },
@@ -59,7 +59,7 @@
     "address": "0xB9C8F0d3254007eE4b98970b94544e473Cd610EC",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/QI.png",
+    "logoURI": "https://files.sablier.com/tokens/QI.png",
     "name": "Qi Dao",
     "symbol": "QI"
   },
@@ -67,7 +67,7 @@
     "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
     "chainId": 42161,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/RDNT.png",
+    "logoURI": "https://files.sablier.com/tokens/RDNT.png",
     "name": "Radiant",
     "symbol": "RDNT"
   },
@@ -91,7 +91,7 @@
     "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
     "chainId": 42161,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png",
+    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },

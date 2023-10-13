@@ -11,7 +11,7 @@
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/DAI.png",
+    "logoURI": "https://files.sablier.com/tokens/DAI.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -19,7 +19,7 @@
     "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/EXA.png",
+    "logoURI": "https://files.sablier.com/tokens/EXA.png",
     "name": "Exactly",
     "symbol": "EXA"
   },
@@ -27,7 +27,7 @@
     "address": "0x4200000000000000000000000000000000000042",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/OP.png",
+    "logoURI": "https://files.sablier.com/tokens/OP.png",
     "name": "Optimism",
     "symbol": "OP"
   },
@@ -43,7 +43,7 @@
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDT.png",
+    "logoURI": "https://files.sablier.com/tokens/USDT.png",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -51,7 +51,7 @@
     "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/USDC.png",
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -59,7 +59,7 @@
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
     "chainId": 10,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WBTC.png",
+    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },
