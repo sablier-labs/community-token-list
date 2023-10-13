@@ -120,6 +120,14 @@
     "symbol": "SYN"
   },
   {
+    "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/STEAK.png",
+    "name": "STEAK",
+    "symbol": "STEAK"
+  },
+  {
     "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
     "chainId": 43114,
     "decimals": 6,

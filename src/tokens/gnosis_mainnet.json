@@ -8,6 +8,14 @@
     "symbol": "BUSD"
   },
   {
+    "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/COW.png",
+    "name": "CoW Protocol",
+    "symbol": "COW"
+  },
+  {
     "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
     "chainId": 100,
     "decimals": 18,
@@ -78,5 +86,13 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH"
+  },
+  {
+    "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sablier-labs/assets/main/tokens/WXDAI.png",
+    "name": "Wrapped XDAI",
+    "symbol": "WXDAI"
   }
 ]
