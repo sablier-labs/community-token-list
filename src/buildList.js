@@ -25,7 +25,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://sablier.finance/icon.png",
+    logoURI: "https://files.sablier.com/icon-180x180.png",
     keywords: ["sablier", "default"],
     tokens: [
       ...ethereum_mainnet,

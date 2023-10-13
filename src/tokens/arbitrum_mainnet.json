@@ -1,7 +1,7 @@
 [
   {
     "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-    "chainId": 1,
+    "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/ARB.png",
     "name": "Arbitrum",
