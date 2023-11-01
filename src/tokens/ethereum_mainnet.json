@@ -1563,7 +1563,7 @@
   },
   {
     "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
-    "chainId": 10,
+    "chainId": 1,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/PSP.png",
     "name": "ParaSwap",
