@@ -1568,5 +1568,13 @@
     "logoURI": "https://files.sablier.com/tokens/PSP.png",
     "name": "ParaSwap",
     "symbol": "PSP"
+  },
+  {
+    "address": "0x7CdBfC86A0BFa20F133748B0CF5cEa5b787b182c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TKST.png",
+    "name": "TokenSight",
+    "symbol": "TKST"
   }
 ]
