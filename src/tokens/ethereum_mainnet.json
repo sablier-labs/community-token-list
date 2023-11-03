@@ -936,6 +936,14 @@
     "symbol": "PAPER"
   },
   {
+    "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PSP.png",
+    "name": "ParaSwap",
+    "symbol": "PSP"
+  },
+  {
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
     "chainId": 1,
     "decimals": 18,
@@ -1296,6 +1304,14 @@
     "symbol": "TIME"
   },
   {
+    "address": "0x7CdBfC86A0BFa20F133748B0CF5cEa5b787b182c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TKST.png",
+    "name": "TokenSight",
+    "symbol": "TKST"
+  }
+  {
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "chainId": 1,
     "decimals": 18,
@@ -1560,21 +1576,5 @@
     "logoURI": "https://files.sablier.com/tokens/YUP.png",
     "name": "Yup",
     "symbol": "YUP"
-  },
-  {
-    "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/PSP.png",
-    "name": "ParaSwap",
-    "symbol": "PSP"
-  },
-  {
-    "address": "0x7CdBfC86A0BFa20F133748B0CF5cEa5b787b182c",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/TKST.png",
-    "name": "TokenSight",
-    "symbol": "TKST"
   }
 ]
