@@ -40,7 +40,7 @@
     "symbol": "DAI"
   },
   {
-    "address": "0x063d2db6d348fa5957b78b6141d144426486c68c",
+    "address": "0x063D2DB6D348Fa5957b78B6141d144426486c68C",
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/CAT.png",

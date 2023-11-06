@@ -1578,7 +1578,7 @@
     "symbol": "YUP"
   },
   {
-    "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+    "address": "0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/FLASH.png",
@@ -1586,7 +1586,7 @@
     "symbol": "FLASH"
   },
   {
-    "address": "0x58fb30a61c218a3607e9273d52995a49ff2697ee",
+    "address": "0x58fB30A61C218A3607e9273D52995a49fF2697Ee",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/PINT.png",

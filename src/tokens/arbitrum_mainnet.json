@@ -112,7 +112,7 @@
     "symbol": "wstETH"
   },
   {
-    "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/WAGMI.png",
