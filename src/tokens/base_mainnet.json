@@ -38,5 +38,13 @@
     "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
+  },
+  {
+    "address": "0x063d2db6d348fa5957b78b6141d144426486c68c",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CAT.png",
+    "name": "SocioCat",
+    "symbol": "CAT"
   }
 ]

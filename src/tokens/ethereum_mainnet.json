@@ -1576,5 +1576,21 @@
     "logoURI": "https://files.sablier.com/tokens/YUP.png",
     "name": "Yup",
     "symbol": "YUP"
+  },
+  {
+    "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FLASH.png",
+    "name": "Flashstake",
+    "symbol": "FLASH"
+  },
+  {
+    "address": "0x58fb30a61c218a3607e9273d52995a49ff2697ee",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PINT.png",
+    "name": "PINT",
+    "symbol": "PINT"
   }
 ]

@@ -110,5 +110,13 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH"
+  },
+  {
+    "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WAGMI.png",
+    "name": "Wagmi",
+    "symbol": "WAGMI"
   }
 ]

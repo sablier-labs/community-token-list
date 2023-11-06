@@ -206,5 +206,13 @@
     "logoURI": "https://files.sablier.com/tokens/YFI.png",
     "name": "yearn.finance",
     "symbol": "YFI"
+  },
+  {
+    "address": "0xa3870fbBeb730BA99e4107051612af3465CA9F5e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/STABLE.png",
+    "name": "STABLE",
+    "symbol": "STABLE"
   }
 ]

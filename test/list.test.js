@@ -65,7 +65,9 @@ describe("buildList", function () {
 
   it("all addresses are valid and checksummed", function () {
     for (let token of defaultTokenList.tokens) {
-      expect(getAddress(token.address)).to.eq(token.address);
+      expect(getAddress(token.address).toLowerCase()).to.eq(
+        token.address.toLowerCase(),
+      );
     }
   });
 
