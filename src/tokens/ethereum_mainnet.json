@@ -1592,5 +1592,13 @@
     "logoURI": "https://files.sablier.com/tokens/PINT.png",
     "name": "PINT",
     "symbol": "PINT"
+  },
+  {
+    "address": "0x7391a131ccb43a571a34e09f986080d117b4313c",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MICKEY.png",
+    "name": "Mickey Meme",
+    "symbol": "MICKEY"
   }
 ]
