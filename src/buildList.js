@@ -11,6 +11,7 @@ const optimism_mainnet = require("./tokens/optimism_mainnet.json");
 const polygon_mainnet = require("./tokens/polygon_mainnet.json");
 const ronin_mainnet = require("./tokens/ronin_mainnet.json");
 const ronin_testnet = require("./tokens/ronin_testnet.json");
+const scroll_testnet = require("./tokens/scroll_mainnet.json");
 
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
@@ -39,6 +40,7 @@ module.exports = function buildList() {
       ...polygon_mainnet,
       ...ronin_mainnet,
       ...ronin_testnet,
+      ...scroll_testnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
