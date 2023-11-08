@@ -48,14 +48,6 @@
     "symbol": "AAVE"
   },
   {
-    "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
-    "chainId": 534352,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/CAKE.png",
-    "name": "PancakeSwap Token",
-    "symbol": "CAKE"
-  },
-  {
     "address": "0xb755039edc7910c1f1bd985d48322e55a31ac0bf",
     "chainId": 534352,
     "decimals": 18,
