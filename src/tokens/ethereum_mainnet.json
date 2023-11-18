@@ -1048,6 +1048,14 @@
     "symbol": "RAI"
   },
   {
+    "address": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RDNT.png",
+    "name": "Radiant",
+    "symbol": "RDNT"
+  },
+  {
     "address": "0x47BE779De87de6580d0548cde80710a93c502405",
     "chainId": 1,
     "decimals": 18,
