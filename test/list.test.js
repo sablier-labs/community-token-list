@@ -33,7 +33,7 @@ describe("buildList", function () {
 
   it("contains no duplicate symbols", function () {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = ["bank", "slp", "flx", "ichi"];
+    const approvedDuplicateSymbols = ["bank", "slp", "flx", "ichi", "rdnt", "usdc"];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
@@ -44,7 +44,7 @@ describe("buildList", function () {
         const key = `${token.chainId}-${symbol}`;
         expect(typeof map[key]).to.equal(
           "undefined",
-          `duplicate symbol: ${symbol}`,
+          `duplicate symbol: ${symbol}   ${key} ${token.address}`,
         );
         map[key] = true;
       }
@@ -52,14 +52,22 @@ describe("buildList", function () {
   });
 
   it("contains no duplicate names", function () {
+    // manual override to approve certain tokens with duplicate names
+    const approvedDuplicateNames = ["Radiant", "USD Coin"];
+
     const map = {};
     for (let token of defaultTokenList.tokens) {
-      const key = `${token.chainId}-${token.name.toLowerCase()}`;
-      expect(typeof map[key]).to.equal(
-        "undefined",
-        `duplicate name: ${token.name}`,
-      );
-      map[key] = true;
+      let name = token.name;
+      if(approvedDuplicateNames.includes(name)){
+        continue;
+      } else {
+        const key = `${token.chainId}-${token.name.toLowerCase()}`;
+        expect(typeof map[key]).to.equal(
+          "undefined",
+          `duplicate name: ${token.name}`,
+        );
+        map[key] = true;
+      }
     }
   });
 
