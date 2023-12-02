@@ -920,6 +920,22 @@
     "symbol": "OUSD"
   },
   {
+    "address": "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/OUSG.png",
+    "name": "Ondo Short-Term U.S. Government Bond Fund",
+    "symbol": "OUSG"
+  },
+  {
+    "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/OUSY.png",
+    "name": "Ondo U.S. Dollar Yield",
+    "symbol": "USDY"
+  },
+  {
     "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
     "chainId": 1,
     "decimals": 18,

@@ -272,6 +272,14 @@
     "symbol": "pETHUSDC"
   },
   {
+    "address": "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/OUSG.png",
+    "name": "Ondo Short-Term U.S. Government Bond Fund",
+    "symbol": "OUSG"
+  },
+  {
     "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
     "chainId": 137,
     "decimals": 18,
