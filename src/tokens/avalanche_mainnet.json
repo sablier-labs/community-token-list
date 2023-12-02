@@ -155,7 +155,7 @@
     "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
     "chainId": 43114,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },

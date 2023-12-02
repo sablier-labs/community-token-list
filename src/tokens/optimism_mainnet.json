@@ -3,7 +3,7 @@
     "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/LINK.png",
     "name": "ChainLink Token",
     "symbol": "LINK"
   },

@@ -3,7 +3,7 @@
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/1INCH.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png",
     "name": "1INCH Token",
     "symbol": "1INCH"
   },

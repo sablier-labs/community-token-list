@@ -19,7 +19,7 @@
     "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/LINK.png",
     "name": "ChainLink Token",
     "symbol": "LINK"
   },
@@ -43,7 +43,7 @@
     "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
     "chainId": 100,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/USDT.png",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -59,7 +59,7 @@
     "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
     "chainId": 100,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },
