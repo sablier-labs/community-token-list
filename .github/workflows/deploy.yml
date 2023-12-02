@@ -2,8 +2,13 @@ name: "Deploy and Pin"
 
 on:
   push:
+    branches:
+      - "main"
+  workflow_dispatch:
 
 jobs:
+  test:
+    uses: "./.github/workflows/tests.yml"
   deploy:
     runs-on: "ubuntu-latest"
     steps:
