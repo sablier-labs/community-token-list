@@ -48,12 +48,20 @@
     "symbol": "USDT"
   },
   {
-    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "chainId": 10,
     "decimals": 6,
     "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USD Coin",
     "symbol": "USDC"
+  },
+  {
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "Bridged USD Coin",
+    "symbol": "USDC.e"
   },
   {
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
