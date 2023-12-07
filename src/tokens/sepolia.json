@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x776b6fC2eD15D6Bb5Fc32e0c89DE68683118c62A",
+    "chainId": 11155111,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  }
+]
