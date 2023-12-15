@@ -1624,5 +1624,29 @@
     "logoURI": "https://files.sablier.com/tokens/MICKEY.png",
     "name": "Mickey Meme",
     "symbol": "MICKEY"
+  },
+  {
+    "address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://files.sablier.com/tokens/LUMERIN.png",
+    "name": "Lumerin",
+    "symbol": "LMR"
+  },
+  {
+    "address": "0xf59257E961883636290411c11ec5Ae622d19455e",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/FLOOR.png",
+    "name": "Floor",
+    "symbol": "FLOOR"
+  },
+  {
+    "address": "0x1E241521f4767853B376C2Fe795a222a07D588eE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/UNIT.png",
+    "name": "Uni Terminal",
+    "symbol": "UNIT"
   }
 ]
