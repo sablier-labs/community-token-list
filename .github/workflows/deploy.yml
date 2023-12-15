@@ -10,6 +10,7 @@ jobs:
   test:
     uses: "./.github/workflows/tests.yml"
   deploy:
+    needs: "test"
     runs-on: "ubuntu-latest"
     steps:
       - name: "Setup: checkout the repo"
