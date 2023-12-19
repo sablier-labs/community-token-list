@@ -34,7 +34,7 @@ jobs:
         with:
           path: "build/sablier-community.tokenlist.json"
           service: "infura"
-          pinName: "tokenlist2"
+          pinName: "tokenlist"
           infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
           infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
 
