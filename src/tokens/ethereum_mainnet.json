@@ -400,6 +400,14 @@
     "symbol": "ELFI"
   },
   {
+    "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://epochisland.io/wp-content/uploads/2020/12/E2.png",
+    "name": "Epoch Island",
+    "symbol": "EPOCH"
+  },
+  {
     "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
     "chainId": 1,
     "decimals": 18,
@@ -430,6 +438,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png",
     "name": "FARM",
     "symbol": "FARM"
+  },
+  {
+    "address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
+    "name": "Feisty Doge NFT",
+    "symbol": "NFD"
   },
   {
     "address": "0x4dd28568D05f09b02220b09C2cb307bFd837cb95",
