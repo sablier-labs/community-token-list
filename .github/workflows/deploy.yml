@@ -1,10 +1,10 @@
 name: "Deploy and Pin"
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - "main"
-  workflow_dispatch:
 
 jobs:
   test:
@@ -14,7 +14,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - name: "Setup: checkout the repo"
-        uses: "actions/checkout@v3"
+        uses: "actions/checkout@v4"
 
       - name: "Dependencies: setup node"
         uses: "actions/setup-node@v3"

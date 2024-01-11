@@ -8,15 +8,15 @@ jobs:
   test:
     runs-on: "ubuntu-latest"
     steps:
-      - uses: "actions/checkout@v3"
+      - uses: "actions/checkout@v4"
 
-      - name: "Dependencies: setup node"
+      - name: "Install Node.js"
         uses: "actions/setup-node@v3"
         with:
           cache: "yarn"
           node-version: "lts/*"
 
-      - name: "Dependencies: install"
+      - name: "Install Node.js dependecies"
         run: "yarn install --frozen-lockfile"
 
       - name: "Test: run test suite"
