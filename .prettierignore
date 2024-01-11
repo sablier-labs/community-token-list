@@ -1,7 +1,13 @@
 # directories
-.yarn
-**/build
-**/node_modules
+build
+node_modules
 
 # files
+*.env
+*.log
+.DS_Store
+.pnp.*
+bun.lockb
+package-lock.json
+pnpm-lock.yaml
 yarn.lock

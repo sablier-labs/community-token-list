@@ -8,16 +8,14 @@ jobs:
   test:
     runs-on: "ubuntu-latest"
     steps:
-      - uses: "actions/checkout@v4"
+      - name: "Check out the repo"
+        uses: "actions/checkout@v4"
 
-      - name: "Install Node.js"
-        uses: "actions/setup-node@v3"
-        with:
-          cache: "yarn"
-          node-version: "lts/*"
+      - name: "Install Bun"
+        uses: "oven-sh/setup-bun@v1"
 
       - name: "Install Node.js dependecies"
-        run: "yarn install --frozen-lockfile"
+        run: "bun install --frozen-lockfile"
 
-      - name: "Test: run test suite"
-        run: "yarn test"
+      - name: "Run test suite"
+        run: "bun run test"
