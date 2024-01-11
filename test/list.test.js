@@ -33,7 +33,14 @@ describe("buildList", function () {
 
   it("contains no duplicate symbols", function () {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = ["bank", "slp", "flx", "ichi", "rdnt", "usdc"];
+    const approvedDuplicateSymbols = [
+      "bank",
+      "slp",
+      "flx",
+      "ichi",
+      "rdnt",
+      "usdc",
+    ];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
@@ -58,7 +65,7 @@ describe("buildList", function () {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       let name = token.name;
-      if(approvedDuplicateNames.includes(name)){
+      if (approvedDuplicateNames.includes(name)) {
         continue;
       } else {
         const key = `${token.chainId}-${token.name.toLowerCase()}`;
