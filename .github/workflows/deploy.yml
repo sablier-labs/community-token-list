@@ -13,24 +13,21 @@ jobs:
     needs: "test"
     runs-on: "ubuntu-latest"
     steps:
-      - name: "Setup: checkout the repo"
+      - name: "Check out the repo"
         uses: "actions/checkout@v4"
 
-      - name: "Dependencies: setup node"
-        uses: "actions/setup-node@v3"
-        with:
-          cache: "yarn"
-          node-version: "lts/*"
+      - name: "Install Bun"
+        uses: "oven-sh/setup-bun@v1"
 
-      - name: "Dependencies: install"
-        run: "yarn install --immutable"
+      - name: "Install Node.js dependecies"
+        run: "bun install --frozen-lockfile"
 
-      - name: "List: build project"
-        run: "yarn build"
+      - name: "Build project"
+        run: "bun run build"
 
       - name: "IPFS: upload bundle and pin"
-        id: upload
-        uses: aquiladev/ipfs-action@master
+        id: "upload"
+        uses: "aquiladev/ipfs-action@master"
         with:
           path: "build/sablier-community.tokenlist.json"
           service: "infura"
@@ -38,16 +35,16 @@ jobs:
           infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
           infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
 
-      - name: "IPFS: hash summary"
+      - name: "IPFS hash summary"
         run: |
           echo "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
             steps.upload.outputs.hash }})"
 
-      - name: "Cloudflare: update DNS with latest IPFS hash"
+      - name: "Update Cloudflare DNS with latest IPFS hash"
         env:
+          CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
           CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
-        uses: sablier-labs/action-cloudflare-web3-gateway@main
+        uses: "sablier-labs/action-cloudflare-web3-gateway@main"
         with:
           cid: ${{ steps.upload.outputs.hash }}
