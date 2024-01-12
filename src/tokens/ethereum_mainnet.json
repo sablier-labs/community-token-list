@@ -1664,5 +1664,13 @@
     "logoURI": "https://files.sablier.com/tokens/UNIT.png",
     "name": "Uni Terminal",
     "symbol": "UNIT"
+  },
+  {
+    "address": "0x3005003BDA885deE7c74182e5FE336e9E3Df87bB",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://lenx.finance/_next/image?url=%2Fimages%2Fxd.png&w=64&q=75",
+    "name": "XD Token",
+    "symbol": "XD"
   }
 ]
