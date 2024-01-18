@@ -72,6 +72,14 @@
     "symbol": "RDNT"
   },
   {
+    "address": "0x6dD51520825b170c32ef322eaDcbd53594929a8a",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x6dD51520825b170c32ef322eaDcbd53594929a8a/logo.png",
+    "name": "Rosa",
+    "symbol": "ROSA"
+  },
+  {
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
     "chainId": 42161,
     "decimals": 6,
