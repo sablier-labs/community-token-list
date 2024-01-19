@@ -728,6 +728,14 @@
     "symbol": "KNC"
   },
   {
+    "address": "0xd4568D313FA2d5C6EBA37C9f30F6FB8D1C552ddd",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd4568D313FA2d5C6EBA37C9f30F6FB8D1C552ddd/logo.png",
+    "name": "Ledgity Token",
+    "symbol": "LDY"
+  },
+  {
     "address": "0xA6586E19EF681b1AC0ED3D46413D199a555dBB95",
     "chainId": 1,
     "decimals": 18,
