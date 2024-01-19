@@ -1144,14 +1144,6 @@
     "symbol": "REP"
   },
   {
-    "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png",
-    "name": "ROOK",
-    "symbol": "ROOK"
-  },
-  {
     "address": "0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA",
     "chainId": 1,
     "decimals": 18,
