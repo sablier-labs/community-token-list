@@ -1672,5 +1672,13 @@
     "logoURI": "https://lenx.finance/_next/image?url=%2Fimages%2Fxd.png&w=64&q=75",
     "name": "XD Token",
     "symbol": "XD"
+  },
+  {
+    "address": "0x3bd7d4F524D09F4e331577247A048D56e4b67a7F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/5IRE.png",
+    "name": "5ire Token",
+    "symbol": "5IRE"
   }
 ]
