@@ -1674,6 +1674,14 @@
     "symbol": "UNIT"
   },
   {
+    "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB7037457de15fed6cbEcc0C62d5D610834b958Ec/logo.png",
+    "name": "Whirl Token",
+    "symbol": "WHIRL"
+  },
+  {
     "address": "0x3005003BDA885deE7c74182e5FE336e9E3Df87bB",
     "chainId": 1,
     "decimals": 18,
