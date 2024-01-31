@@ -731,7 +731,7 @@
     "address": "0xd4568D313FA2d5C6EBA37C9f30F6FB8D1C552ddd",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd4568D313FA2d5C6EBA37C9f30F6FB8D1C552ddd/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/LDY.png",
     "name": "Ledgity Token",
     "symbol": "LDY"
   },
