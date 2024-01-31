@@ -984,6 +984,14 @@
     "symbol": "PSP"
   },
   {
+    "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCfFCFDAda28ab44D5440301470dCD410E75C4765/logo.png",
+    "name": "Parifi",
+    "symbol": "PRF"
+  },
+  {
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
     "chainId": 1,
     "decimals": 18,
