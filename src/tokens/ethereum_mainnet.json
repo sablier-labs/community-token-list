@@ -760,6 +760,14 @@
     "symbol": "LPT"
   },
   {
+    "address": "0x686f2404e77Ab0d9070a46cdfb0B7feCDD2318b0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LORDS.png",
+    "name": "Lords",
+    "symbol": "LORDS"
+  },
+  {
     "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "chainId": 1,
     "decimals": 18,
