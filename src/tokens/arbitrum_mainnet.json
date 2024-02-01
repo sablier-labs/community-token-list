@@ -32,6 +32,14 @@
     "symbol": "DAI"
   },
   {
+    "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EMC.png",
+    "name": "EdgeMatrix Computing network",
+    "symbol": "EMC"
+  },
+  {
     "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
     "chainId": 42161,
     "decimals": 18,
