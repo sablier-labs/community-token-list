@@ -987,7 +987,7 @@
     "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCfFCFDAda28ab44D5440301470dCD410E75C4765/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/PRF.png",
     "name": "Parifi",
     "symbol": "PRF"
   },
@@ -1677,7 +1677,7 @@
     "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB7037457de15fed6cbEcc0C62d5D610834b958Ec/logo.png",
+    "logoURI": "https://files.sablier.com/tokens/WHIRL.png",
     "name": "Whirl Token",
     "symbol": "WHIRL"
   },
