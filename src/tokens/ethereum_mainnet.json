@@ -1376,6 +1376,14 @@
     "symbol": "TKST"
   },
   {
+    "address": "0xdE8CD13B812BcD82218754A740b27E76ec1e86aD",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TRESTLE.png",
+    "name": "Trestle",
+    "symbol": "TRESTLE"
+  },
+  {
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "chainId": 1,
     "decimals": 18,
