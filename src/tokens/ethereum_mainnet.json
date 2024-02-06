@@ -1706,6 +1706,14 @@
     "symbol": "VITA"
   },
   {
+    "address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VITA-FAST.png",
+    "name": "Molecules of Korolchuk IP-NFT",
+    "symbol": "VITA-FAST"
+  },
+  {
     "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
     "chainId": 1,
     "decimals": 18,
