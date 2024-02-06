@@ -1698,6 +1698,14 @@
     "symbol": "UNIT"
   },
   {
+    "address": "0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VITA.png",
+    "name": "VitaDAO Token",
+    "symbol": "VITA"
+  },
+  {
     "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
     "chainId": 1,
     "decimals": 18,
