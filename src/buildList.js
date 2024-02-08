@@ -6,8 +6,8 @@ const base_mainnet = require("./tokens/base_mainnet.json");
 const bsc_mainnet = require("./tokens/bsc_mainnet.json");
 const ethereum_mainnet = require("./tokens/ethereum_mainnet.json");
 const gnosis_mainnet = require("./tokens/gnosis_mainnet.json");
-const goerli = require("./tokens/goerli.json");
 const optimism_mainnet = require("./tokens/optimism_mainnet.json");
+const lightlink_mainnet = require("./tokens/lightlink_mainnet.json");
 const polygon_mainnet = require("./tokens/polygon_mainnet.json");
 const ronin_mainnet = require("./tokens/ronin_mainnet.json");
 const ronin_testnet = require("./tokens/ronin_testnet.json");
@@ -35,8 +35,8 @@ module.exports = function buildList() {
       ...arbitrum_mainnet,
       ...base_mainnet,
       ...bsc_mainnet,
-      ...goerli,
       ...gnosis_mainnet,
+      ...lightlink_mainnet,
       ...optimism_mainnet,
       ...polygon_mainnet,
       ...ronin_mainnet,

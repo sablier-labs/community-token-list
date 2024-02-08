@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+    "chainId": 1890,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC.e"
+  },
+  {
+    "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+    "chainId": 1890,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI.e"
+  },
+  {
+    "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+    "chainId": 1890,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  }
+]
