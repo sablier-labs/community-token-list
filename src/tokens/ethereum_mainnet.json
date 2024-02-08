@@ -1080,6 +1080,14 @@
     "symbol": "D2D"
   },
   {
+    "address": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PRIMEETH.png",
+    "name": "Prime Staked ETH",
+    "symbol": "primeETH"
+  },
+  {
     "address": "0x81dBc1c8e40C3095071949Eda9800C2209a7279A",
     "chainId": 1,
     "decimals": 18,
