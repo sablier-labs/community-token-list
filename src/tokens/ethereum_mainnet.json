@@ -376,6 +376,14 @@
     "symbol": "DONUT"
   },
   {
+    "address": "0x943Af2ece93118B973c95c2F698EE9D15002e604",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DUEL.png",
+    "name": "GameGPT",
+    "symbol": "DUEL"
+  },
+  {
     "address": "0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c",
     "chainId": 1,
     "decimals": 18,
