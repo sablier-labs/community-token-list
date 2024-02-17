@@ -1,11 +1,11 @@
 [
   {
-    "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+    "address": "0x24CAE6D1738522551371ca6536F227c727184eD8",
     "chainId": 1890,
-    "decimals": 6,
-    "logoURI": "https://files.sablier.com/tokens/USDC.png",
-    "name": "USD Coin",
-    "symbol": "USDC.e"
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/AMP_LL.png",
+    "name": "Amped Finance Token",
+    "symbol": "AMP"
   },
   {
     "address": "0x49F65C3FfC6e45104ff5cB00e6030C626157a90b",
@@ -14,6 +14,22 @@
     "logoURI": "https://files.sablier.com/tokens/DAI.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI.e"
+  },
+  {
+    "address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
+    "chainId": 1890,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LIGHTLINK.png",
+    "name": "LightLink",
+    "symbol": "LL.e"
+  },
+  {
+    "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+    "chainId": 1890,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC.e"
   },
   {
     "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",

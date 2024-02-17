@@ -34,6 +34,7 @@ describe("buildList", function () {
   it("contains no duplicate symbols", function () {
     // manual override to approve certain tokens with duplicate symbols
     const approvedDuplicateSymbols = [
+      "amp",
       "bank",
       "slp",
       "flx",

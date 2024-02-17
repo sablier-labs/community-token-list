@@ -1760,5 +1760,13 @@
     "logoURI": "https://files.sablier.com/tokens/5IRE.png",
     "name": "5ire Token",
     "symbol": "5IRE"
+  },
+  {
+    "address": "0x0921799CB1d702148131024d18fCdE022129Dc73",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LIGHTLINK.png",
+    "name": "LightLink",
+    "symbol": "LL"
   }
 ]
