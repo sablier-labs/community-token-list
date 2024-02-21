@@ -1240,6 +1240,14 @@
     "symbol": "SHIB"
   },
   {
+    "address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SLN.png",
+    "name": "Smart Layer Network",
+    "symbol": "SLN"
+  },
+  {
     "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
     "chainId": 1,
     "decimals": 18,
