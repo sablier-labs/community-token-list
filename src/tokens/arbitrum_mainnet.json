@@ -88,6 +88,14 @@
     "symbol": "ROSA"
   },
   {
+    "address": "0xd79Bb960Dc8a206806c3a428b31bCA49934d18D7",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/ROSNET.png",
+    "name": "Rosnet",
+    "symbol": "ROSNET"
+  },
+  {
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
     "chainId": 42161,
     "decimals": 6,
