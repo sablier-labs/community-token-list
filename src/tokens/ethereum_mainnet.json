@@ -1776,5 +1776,21 @@
     "logoURI": "https://files.sablier.com/tokens/LIGHTLINK.png",
     "name": "LightLink",
     "symbol": "LL"
+  },
+  {
+    "address": "0xB36cF340a35f9860D0Bb59AFb0355580f0000DAD",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PADRE.png",
+    "name": "Padre",
+    "symbol": "PADRE"
+  },
+  {
+    "address": "0x1c92c0295807F1f7C0726cf51A1D26298563F14A",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CRACER.png",
+    "name": "Coinracer: Reloaded",
+    "symbol": "CRACER"
   }
 ]

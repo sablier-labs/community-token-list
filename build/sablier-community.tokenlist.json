@@ -1,6 +1,6 @@
 {
   "name": "Sablier Community Default",
-  "timestamp": "2024-02-17T12:03:40.733Z",
+  "timestamp": "2024-03-06T18:36:06.739Z",
   "version": {
     "major": 5,
     "minor": 2,
@@ -510,6 +510,14 @@
           }
         }
       }
+    },
+    {
+      "address": "0x1c92c0295807F1f7C0726cf51A1D26298563F14A",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/CRACER.png",
+      "name": "Coinracer: Reloaded",
+      "symbol": "CRACER"
     },
     {
       "address": "0xaa61D5dec73971CD4a026ef2820bB87b4a4Ed8d6",
@@ -1508,7 +1516,7 @@
       "address": "0x0921799CB1d702148131024d18fCdE022129Dc73",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://files.sablier.com/tokens/LightLink.png",
+      "logoURI": "https://files.sablier.com/tokens/LIGHTLINK.png",
       "name": "LightLink",
       "symbol": "LL"
     },
@@ -1962,6 +1970,14 @@
       }
     },
     {
+      "address": "0xB36cF340a35f9860D0Bb59AFb0355580f0000DAD",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/PADRE.png",
+      "name": "Padre",
+      "symbol": "PADRE"
+    },
+    {
       "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
       "chainId": 1,
       "decimals": 18,
@@ -2392,6 +2408,21 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183/logo.png",
       "name": "Shroom.Finance",
       "symbol": "SHROOM"
+    },
+    {
+      "address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/SLN.png",
+      "name": "Smart Layer Network Token",
+      "symbol": "SLN",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x3a65C4cBd896c3681C471EBa8dA44828c8912043"
+          }
+        }
+      }
     },
     {
       "address": "0xc7FF546c6CbC87Ad9f6F557db5A0df5c742cA440",
@@ -6571,7 +6602,7 @@
       "address": "0x24CAE6D1738522551371ca6536F227c727184eD8",
       "chainId": 1890,
       "decimals": 18,
-      "logoURI": "https://files.sablier.com/tokens/AMP.png",
+      "logoURI": "https://files.sablier.com/tokens/AMP_LL.png",
       "name": "Amped Finance Token",
       "symbol": "AMP"
     },
@@ -6587,7 +6618,7 @@
       "address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
       "chainId": 1890,
       "decimals": 18,
-      "logoURI": "https://files.sablier.com/tokens/LightLink.png",
+      "logoURI": "https://files.sablier.com/tokens/LIGHTLINK.png",
       "name": "LightLink",
       "symbol": "LL.e"
     },
@@ -6767,6 +6798,14 @@
           }
         }
       }
+    },
+    {
+      "address": "0x7233062d88133B5402D39D62BFa23a1b6c8d0898",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/FORT.png",
+      "name": "Citadel",
+      "symbol": "FORT"
     },
     {
       "address": "0xde0D2ee637D3e4Fd02bc99508CA5e94dd7055766",
@@ -7346,6 +7385,14 @@
           }
         }
       }
+    },
+    {
+      "address": "0x903CA00944D0b51e50D9F4fC96167c89F211542A",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/FIN.png",
+      "name": "Poolshark",
+      "symbol": "FIN"
     },
     {
       "address": "0xc628534100180582E43271448098cb2c185795BD",
@@ -7943,6 +7990,22 @@
       "symbol": "ROSA"
     },
     {
+      "address": "0xd79Bb960Dc8a206806c3a428b31bCA49934d18D7",
+      "chainId": 42161,
+      "decimals": 9,
+      "logoURI": "https://files.sablier.com/tokens/ROSNET.png",
+      "name": "Rosnet",
+      "symbol": "ROSNET"
+    },
+    {
+      "address": "0xe47ba52f326806559c1deC7ddd997F6957d0317D",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/SHELL.png",
+      "name": "Shell",
+      "symbol": "SHELL"
+    },
+    {
       "address": "0x5033833c9fe8B9d3E09EEd2f73d2aaF7E3872fd1",
       "chainId": 42161,
       "decimals": 18,
@@ -7953,6 +8016,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+          }
+        }
+      }
+    },
+    {
+      "address": "0x3a65C4cBd896c3681C471EBa8dA44828c8912043",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/SLN.png",
+      "name": "Smart Layer Network Token",
+      "symbol": "SLN",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14"
           }
         }
       }
@@ -8046,6 +8124,14 @@
           }
         }
       }
+    },
+    {
+      "address": "0xb56C29413AF8778977093B9B4947efEeA7136C36",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/TORQ.png",
+      "name": "Torque",
+      "symbol": "TORQ"
     },
     {
       "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
@@ -8363,6 +8449,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
       "name": "Binance USD",
       "symbol": "BUSD.e"
+    },
+    {
+      "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/CLY.png",
+      "name": "Colony Token",
+      "symbol": "CLY"
     },
     {
       "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
@@ -8755,6 +8849,14 @@
       "symbol": "WOO.e"
     },
     {
+      "address": "0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/XAV.png",
+      "name": "Xave Token",
+      "symbol": "XAV"
+    },
+    {
       "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
       "chainId": 43114,
       "decimals": 18,
@@ -8768,6 +8870,30 @@
           }
         }
       }
+    },
+    {
+      "address": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/GLORY.png",
+      "name": "GLORY",
+      "symbol": "GLORY"
+    },
+    {
+      "address": "0x4300000000000000000000000000000000000003",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/USDB.png",
+      "name": "USDB",
+      "symbol": "USDB"
+    },
+    {
+      "address": "0x4300000000000000000000000000000000000004",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://files.sablier.com/tokens/WETH.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
     },
     {
       "address": "0x79379c0e09a41d7978f883a56246290ee9a8c4d3",

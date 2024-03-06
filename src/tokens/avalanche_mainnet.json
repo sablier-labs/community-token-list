@@ -190,5 +190,21 @@
     "logoURI": "https://files.sablier.com/tokens/WETH.e.png",
     "name": "Bridged Wrapped Ether",
     "symbol": "WETH.e"
+  },
+  {
+    "address": "0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/XAV.png",
+    "name": "Xave Token",
+    "symbol": "XAV"
+  },
+  {
+    "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CLY.png",
+    "name": "Colony Token",
+    "symbol": "CLY"
   }
 ]

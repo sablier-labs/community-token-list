@@ -40,6 +40,14 @@
     "symbol": "EMC"
   },
   {
+    "address": "0x903CA00944D0b51e50D9F4fC96167c89F211542A",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FIN.png",
+    "name": "Poolshark",
+    "symbol": "FIN"
+  },
+  {
     "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
     "chainId": 42161,
     "decimals": 18,
@@ -94,6 +102,14 @@
     "logoURI": "https://files.sablier.com/tokens/ROSNET.png",
     "name": "Rosnet",
     "symbol": "ROSNET"
+  },
+  {
+    "address": "0xe47ba52f326806559c1deC7ddd997F6957d0317D",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SHELL.png",
+    "name": "Shell",
+    "symbol": "SHELL"
   },
   {
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",

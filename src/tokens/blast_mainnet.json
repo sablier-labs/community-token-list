@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/GLORY.png",
+    "name": "GLORY",
+    "symbol": "GLORY"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000003",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/USDB.png",
+    "name": "USDB",
+    "symbol": "USDB"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000004",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  }
+]

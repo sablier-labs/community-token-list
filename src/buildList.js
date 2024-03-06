@@ -3,6 +3,7 @@ const { version } = require("../package.json");
 const arbitrum_mainnet = require("./tokens/arbitrum_mainnet.json");
 const avalanche_mainnet = require("./tokens/avalanche_mainnet.json");
 const base_mainnet = require("./tokens/base_mainnet.json");
+const blast_mainnet = require("./tokens/blast_mainnet.json");
 const bsc_mainnet = require("./tokens/bsc_mainnet.json");
 const ethereum_mainnet = require("./tokens/ethereum_mainnet.json");
 const gnosis_mainnet = require("./tokens/gnosis_mainnet.json");
@@ -34,6 +35,7 @@ module.exports = function buildList() {
       ...avalanche_mainnet,
       ...arbitrum_mainnet,
       ...base_mainnet,
+      ...blast_mainnet,
       ...bsc_mainnet,
       ...gnosis_mainnet,
       ...lightlink_mainnet,

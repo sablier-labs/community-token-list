@@ -230,5 +230,13 @@
     "logoURI": "https://weave.financial/wp-content/uploads/2021/08/weave-symbol.png",
     "name": "Weave Token",
     "symbol": "WEAVE"
+  },
+  {
+    "address": "0x78353861e96a4A3D757BC7EF6C0dd4F667e6274B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PECLAND.png",
+    "name": "PECland",
+    "symbol": "PECL"
   }
 ]

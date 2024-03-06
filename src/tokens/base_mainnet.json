@@ -46,5 +46,13 @@
     "logoURI": "https://files.sablier.com/tokens/CAT.png",
     "name": "SocioCat",
     "symbol": "CAT"
+  },
+  {
+    "address": "0x7233062d88133B5402D39D62BFa23a1b6c8d0898",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FORT.png",
+    "name": "Citadel",
+    "symbol": "FORT"
   }
 ]
