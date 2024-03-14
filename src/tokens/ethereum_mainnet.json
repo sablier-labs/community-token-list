@@ -1304,6 +1304,14 @@
     "symbol": "stETH"
   },
   {
+    "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/STOS.png",
+    "name": "Stratos Token",
+    "symbol": "STOS"
+  },
+  {
     "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
     "chainId": 1,
     "decimals": 18,
