@@ -224,6 +224,14 @@
     "symbol": "CHAI"
   },
   {
+    "address": "0xBb3D7F42C58Abd83616Ad7C8C72473Ee46df2678",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CHAT.png",
+    "name": "VectorChat.ai",
+    "symbol": "CHAT"
+  },
+  {
     "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
     "chainId": 1,
     "decimals": 18,
