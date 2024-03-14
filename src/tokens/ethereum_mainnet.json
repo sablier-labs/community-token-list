@@ -848,6 +848,14 @@
     "symbol": "MM"
   },
   {
+    "address": "0x8C282C35B5E1088bb208991c151182A782637699",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MONAI.png",
+    "name": "Monai",
+    "symbol": "MONAI"
+  },
+  {
     "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
     "chainId": 1,
     "decimals": 18,
