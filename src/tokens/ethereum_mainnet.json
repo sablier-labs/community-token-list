@@ -1184,6 +1184,14 @@
     "symbol": "RLY"
   },
   {
+    "address": "0x8B12BD54CA9B2311960057C8F3C88013e79316E3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/REACH.png",
+    "name": "Reach",
+    "symbol": "REACH"
+  },
+  {
     "address": "0x0E58ED58E150dba5fd8e5D4A49F54C7e1E880124",
     "chainId": 1,
     "decimals": 18,
