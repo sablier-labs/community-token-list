@@ -400,6 +400,14 @@
     "symbol": "DONGO"
   },
   {
+    "address": "0xf94e7d0710709388bCe3161C32B4eEA56d3f91CC",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DSYNC.png",
+    "name": "Destra Network",
+    "symbol": "DSYNC"
+  },
+  {
     "address": "0x943Af2ece93118B973c95c2F698EE9D15002e604",
     "chainId": 1,
     "decimals": 18,
