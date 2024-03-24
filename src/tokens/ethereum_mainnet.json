@@ -392,6 +392,14 @@
     "symbol": "DONUT"
   },
   {
+    "address": "0x8c213AE332274e6314Bf4cF989604e7f61162967",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/DONGO.png",
+    "name": "DONGO AI",
+    "symbol": "DONGO"
+  },
+  {
     "address": "0x943Af2ece93118B973c95c2F698EE9D15002e604",
     "chainId": 1,
     "decimals": 18,
