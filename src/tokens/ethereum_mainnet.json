@@ -1848,5 +1848,13 @@
     "logoURI": "https://files.sablier.com/tokens/CRACER.png",
     "name": "Coinracer: Reloaded",
     "symbol": "CRACER"
+  },
+  {
+    "address": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SALD.png",
+    "name": "Salad",
+    "symbol": "SALD"
   }
 ]

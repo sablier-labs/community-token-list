@@ -12,5 +12,7 @@ assignees: ""
 - Token Name (from contract):
 - Token Decimals (from contract):
 - Token Symbol (from contract):
+- Token Icon (e.g. link to png, e.g. 200x200px):
+- Chain:
 - Official project link:
 - CoinGecko/CoinMarketCap token page:

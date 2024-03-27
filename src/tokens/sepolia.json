@@ -6,5 +6,13 @@
     "logoURI": "https://files.sablier.com/tokens/DAI.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
+  },
+  {
+    "address": "0x34a62c23261F6a84A40614a68ADDF41943F5d6C6",
+    "chainId": 11155111,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SALD.png",
+    "name": "Salad",
+    "symbol": "SALD"
   }
 ]
