@@ -1864,5 +1864,13 @@
     "logoURI": "https://files.sablier.com/tokens/SDAI.png",
     "name": "Savings Dai",
     "symbol": "SDAI"
+  },
+  {
+    "address": "0xab814ce69E15F6B9660A3B184c0B0C97B9394A6b",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/NEURON.png",
+    "name": "CerebrumDAO Token",
+    "symbol": "NEURON"
   }
 ]
