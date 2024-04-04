@@ -238,5 +238,21 @@
     "logoURI": "https://files.sablier.com/tokens/PECLAND.png",
     "name": "PECland",
     "symbol": "PECL"
+  },
+  {
+    "address": "0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/GAFI.png",
+    "name": "GameFi",
+    "symbol": "GAFI"
+  },
+  {
+    "address": "0x886640149E31E1430FA74Cc39725431eb82ddFB2",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FORWARD.png",
+    "name": "Forward",
+    "symbol": "$FORWARD"
   }
 ]

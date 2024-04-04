@@ -94,5 +94,13 @@
     "logoURI": "https://files.sablier.com/tokens/PSP.png",
     "name": "ParaSwap",
     "symbol": "PSP"
+  },
+  {
+    "address": "0x0a7B751FcDBBAA8BB988B9217ad5Fb5cfe7bf7A0",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ITP.png",
+    "name": "Infinite Trading Protocol",
+    "symbol": "ITP"
   }
 ]
