@@ -1880,5 +1880,13 @@
     "logoURI": "https://files.sablier.com/tokens/QRDO.png",
     "name": "Qredo Token",
     "symbol": "QRDO"
+  },
+  {
+    "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RIVUS.png",
+    "name": "RivusDAO",
+    "symbol": "RIVUS"
   }
 ]

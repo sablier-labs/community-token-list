@@ -414,5 +414,13 @@
     "logoURI": "https://files.sablier.com/tokens/PSP.png",
     "name": "ParaSwap",
     "symbol": "PSP"
+  },
+  {
+    "address": "0x7C6C69bafBE40B2C76a25dcdF9854C77f086e2C6",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/OVAL3.png",
+    "name": "OVAL3",
+    "symbol": "OVL3"
   }
 ]
