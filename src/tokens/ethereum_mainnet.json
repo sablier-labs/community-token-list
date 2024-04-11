@@ -848,6 +848,14 @@
     "symbol": "MTA"
   },
   {
+    "address": "0x1C610b51B0BccE4A708e2c91d4DDa1f1a8d7e0aD",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/MERU.png",
+    "name": "Meru AI",
+    "symbol": "MERU"
+  },
+  {
     "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
     "chainId": 1,
     "decimals": 18,
