@@ -422,5 +422,13 @@
     "logoURI": "https://files.sablier.com/tokens/OVAL3.png",
     "name": "OVAL3",
     "symbol": "OVL3"
+  },
+  {
+    "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BONSAI.png",
+    "name": "Bonsai Token",
+    "symbol": "BONSAI"
   }
 ]
