@@ -1901,9 +1901,9 @@
     "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
     "chainId": 1,
     "decimals": 8,
-    "logoURI": "https://files.sablier.com/tokens/QRDO.png",
-    "name": "Qredo Token",
-    "symbol": "QRDO"
+    "logoURI": "https://files.sablier.com/tokens/OPEN.png",
+    "name": "Open Custody (fka. QRDO)",
+    "symbol": "OPEN"
   },
   {
     "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
