@@ -40,6 +40,14 @@
     "symbol": "AKITA"
   },
   {
+    "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/AUDD.png",
+    "name": "AUDD",
+    "symbol": "AUDD"
+  },
+  {
     "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
     "chainId": 1,
     "decimals": 18,
