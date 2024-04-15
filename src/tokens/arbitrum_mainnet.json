@@ -166,5 +166,13 @@
     "logoURI": "https://files.sablier.com/tokens/WAGMI.png",
     "name": "Wagmi",
     "symbol": "WAGMI"
+  },
+  {
+    "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
+    "name": "Molten",
+    "symbol": "MOLTEN"
   }
 ]
