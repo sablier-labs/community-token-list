@@ -1912,5 +1912,13 @@
     "logoURI": "https://files.sablier.com/tokens/RIVUS.png",
     "name": "RivusDAO",
     "symbol": "RIVUS"
+  },
+  {
+    "address": "0x69457A1C9Ec492419344DA01Daf0DF0e0369d5D0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FJO.png",
+    "name": "Fjord Foundry",
+    "symbol": "FJO"
   }
 ]
