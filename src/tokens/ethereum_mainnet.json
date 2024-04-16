@@ -1920,5 +1920,13 @@
     "logoURI": "https://files.sablier.com/tokens/FJO.png",
     "name": "Fjord Foundry",
     "symbol": "FJO"
+  },
+  {
+    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SAFE.png",
+    "name": "Safe Token",
+    "symbol": "SAFE"
   }
 ]
