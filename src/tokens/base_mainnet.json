@@ -102,5 +102,13 @@
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
+  },
+  {
+    "address": "0x7130dC4F14C7F0F6A58162FA92ed0308E373bb51",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FUKU.png",
+    "name": "Fuku Base",
+    "symbol": "FUKU"
   }
 ]
