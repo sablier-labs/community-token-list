@@ -1928,5 +1928,13 @@
     "logoURI": "https://files.sablier.com/tokens/SAFE.png",
     "name": "Safe Token",
     "symbol": "SAFE"
+  },
+  {
+    "address": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/XAR.png",
+    "name": "Arcana Network",
+    "symbol": "XAR"
   }
 ]
