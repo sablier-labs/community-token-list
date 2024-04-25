@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+    "chainId": 81457,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EARLY.png",
+    "name": "Early Token",
+    "symbol": "EARLY"
+  },
+  {
     "address": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
     "chainId": 81457,
     "decimals": 18,
