@@ -14,6 +14,7 @@ const ronin_mainnet = require("./tokens/ronin_mainnet.json");
 const ronin_testnet = require("./tokens/ronin_testnet.json");
 const scroll_testnet = require("./tokens/scroll_mainnet.json");
 const sepolia = require("./tokens/sepolia.json");
+const zksync_mainnet = require("./tokens/zksync_mainnet.json");
 
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
@@ -45,6 +46,7 @@ module.exports = function buildList() {
       ...ronin_testnet,
       ...scroll_testnet,
       ...sepolia,
+      ...zksync_mainnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
