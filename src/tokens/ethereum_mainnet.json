@@ -424,6 +424,24 @@
     "symbol": "DUEL"
   },
   {
+    "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "8453": {
+          "tokenAddress": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C"
+        },
+        "10": {
+          "tokenAddress": "0xc871cCf95024eFa2CbcE69B5B775D2a1DcF49c1B"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/GROW.png",
+    "name": "ValleyDAO",
+    "symbol": "GROW"
+  },
+  {
     "address": "0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c",
     "chainId": 1,
     "decimals": 18,
