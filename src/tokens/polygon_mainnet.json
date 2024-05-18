@@ -80,6 +80,14 @@
     "symbol": "COMP"
   },
   {
+    "address": "0x50AA659E6aB263B77d61Ff44cF4A1090141e7111",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TOS.png",
+    "name": "Cryptos",
+    "symbol": "TOS"
+  },
+  {
     "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
     "chainId": 137,
     "decimals": 18,
