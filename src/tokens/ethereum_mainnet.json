@@ -825,6 +825,14 @@
     "symbol": "LETSGO"
   },
   {
+    "address": "0x7F5E1A2424EBdd141b0Df15F974Ddcb87751A012",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LLM.png",
+    "name": "LLM",
+    "symbol": "LLM"
+  },
+  {
     "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
     "chainId": 1,
     "decimals": 18,
