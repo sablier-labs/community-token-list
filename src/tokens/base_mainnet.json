@@ -134,5 +134,13 @@
     "logoURI": "https://files.sablier.com/tokens/HIGHER.png",
     "name": "higher",
     "symbol": "HIGHER"
+  },
+  {
+    "address": "0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RWAX.png",
+    "name": "Rwax Token",
+    "symbol": "RWAX"
   }
 ]
