@@ -969,6 +969,14 @@
     "symbol": "NATION"
   },
   {
+    "address": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/NEURAL.png",
+    "name": "NeuralAI",
+    "symbol": "NEURAL"
+  },
+  {
     "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
     "chainId": 1,
     "decimals": 18,
