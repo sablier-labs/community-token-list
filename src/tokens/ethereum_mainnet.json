@@ -192,6 +192,14 @@
     "symbol": "BEPRO"
   },
   {
+    "address": "0x4cB1e6c430Bb4b874869Fd6049ed07aE975b02f1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SWIPES.png",
+    "name": "BNDR",
+    "symbol": "SWIPES"
+  },
+  {
     "address": "0x4E672e34B6db16dD5307a6bFD4f343998Aac55E1",
     "chainId": 1,
     "decimals": 18,
