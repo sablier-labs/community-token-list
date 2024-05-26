@@ -1241,6 +1241,14 @@
     "symbol": "RDNT"
   },
   {
+    "address": "0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RFKJ.png",
+    "name": "Independence Token",
+    "symbol": "RFKJ"
+  },
+  {
     "address": "0x47BE779De87de6580d0548cde80710a93c502405",
     "chainId": 1,
     "decimals": 18,
