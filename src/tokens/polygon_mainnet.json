@@ -232,6 +232,14 @@
     "symbol": "jCHF"
   },
   {
+    "address": "0x2B867A0f2C67D13f19178E2fe37a8F3769E1BeA7",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LUST.png",
+    "name": "LunarStorm",
+    "symbol": "LUST"
+  },
+  {
     "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
     "chainId": 137,
     "decimals": 18,
