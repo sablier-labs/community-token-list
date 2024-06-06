@@ -1907,6 +1907,14 @@
     "symbol": "VITA"
   },
   {
+    "address": "0x7b66E84Be78772a3afAF5ba8c1993a1B5D05F9C2",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VITARNA.png",
+    "name": "IPToken",
+    "symbol": "VITARNA"
+  },
+  {
     "address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
     "chainId": 1,
     "decimals": 18,
