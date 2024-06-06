@@ -80,6 +80,14 @@
     "symbol": "QI"
   },
   {
+    "address": "0x763a716dD74a79d037E57f993fe3047271879bc1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/QODA.png",
+    "name": "Qoda Token",
+    "symbol": "QODA"
+  },
+  {
     "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
     "chainId": 42161,
     "decimals": 18,
