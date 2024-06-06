@@ -473,6 +473,14 @@
     "symbol": "DVG"
   },
   {
+    "address": "0x974D796E0Bea47038f39C3F98b1aA2c5240b5495",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EAVE.png",
+    "name": "EaveAI",
+    "symbol": "EAVE"
+  },
+  {
     "address": "0x92915c346287DdFbcEc8f86c8EB52280eD05b3A3",
     "chainId": 1,
     "decimals": 18,
