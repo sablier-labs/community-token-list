@@ -182,5 +182,13 @@
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
+  },
+  {
+    "address": "0x999FAF0AF2fF109938eeFE6A7BF91CA56f0D07e1",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LDY.png",
+    "name": "Ledgity Token",
+    "symbol": "LDY"
   }
 ]

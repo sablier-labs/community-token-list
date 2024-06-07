@@ -262,5 +262,21 @@
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
+  },
+  {
+    "address": "0x991b4ce57864060115700D6FC05c7780346a15Ac",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/Y8U.png",
+    "name": "Y8U.ai",
+    "symbol": "Y8U"
+  },
+  {
+    "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/XEN.png",
+    "name": "XEN Crypto",
+    "symbol": "bXEN"
   }
 ]

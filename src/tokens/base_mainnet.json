@@ -91,7 +91,7 @@
     "address": "0x524A481f7f48EBbbeD7773aDCFa821880c537128",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/0X.png",
+    "logoURI": "https://files.sablier.com/tokens/ZEROX.png",
     "name": "0x",
     "symbol": "0x"
   },
@@ -142,5 +142,13 @@
     "logoURI": "https://files.sablier.com/tokens/RWAX.png",
     "name": "Rwax Token",
     "symbol": "RWAX"
+  },
+  {
+    "address": "0xcdE172dc5ffC46D228838446c57C1227e0B82049",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BOOMER.png",
+    "name": "Boomer",
+    "symbol": "BOOMER"
   }
 ]

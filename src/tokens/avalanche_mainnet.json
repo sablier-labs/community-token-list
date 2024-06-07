@@ -214,5 +214,13 @@
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
+  },
+  {
+    "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MEAT.png",
+    "name": "Meat",
+    "symbol": "MEAT"
   }
 ]
