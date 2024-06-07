@@ -454,5 +454,13 @@
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
+  },
+  {
+    "address": "0x37ed1625E73Fc20Ff2eC1c07533ddecbB9542d47",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/STADX.png",
+    "name": "STADX",
+    "symbol": "STADX"
   }
 ]
