@@ -222,5 +222,13 @@
     "logoURI": "https://files.sablier.com/tokens/MEAT.png",
     "name": "Meat",
     "symbol": "MEAT"
+  },
+  {
+    "address": "0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/NAI.png",
+    "name": "Nuklai Token",
+    "symbol": "NAI"
   }
 ]
