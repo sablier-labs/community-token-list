@@ -150,5 +150,29 @@
     "logoURI": "https://files.sablier.com/tokens/BOOMER.png",
     "name": "Boomer",
     "symbol": "BOOMER"
+  },
+  {
+    "address": "0xFc60AA1fFCA50Ce08b3cDeC9626c0Bb9E9b09BeC",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VIS.png",
+    "name": "Envision",
+    "symbol": "VIS"
+  },
+  {
+    "address": "0xDdf98aad8180c3E368467782CD07AE2E3E8d36A5",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/AM.png",
+    "name": "animated",
+    "symbol": "AM"
+  },
+  {
+    "address": "0x80f6bcedd3d4fa1035285affa30e38f464db3895",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BET.png",
+    "name": "BetBase",
+    "symbol": "BET"
   }
 ]

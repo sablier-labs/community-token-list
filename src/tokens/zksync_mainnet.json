@@ -14,5 +14,13 @@
     "logoURI": "https://files.sablier.com/tokens/WBTC.png",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
+  },
+  {
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]

@@ -38,5 +38,13 @@
     "logoURI": "https://files.sablier.com/tokens/WETH.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x04E4929B89fc1483B6C6839c4455AbE1C1Caa811",
+    "chainId": 1890,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ELTK.png",
+    "name": "Elektrik",
+    "symbol": "ELTK.e"
   }
 ]
