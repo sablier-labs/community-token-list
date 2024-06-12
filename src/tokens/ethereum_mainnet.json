@@ -2057,5 +2057,13 @@
     "logoURI": "https://files.sablier.com/tokens/WTF.png",
     "name": "DaVinci",
     "symbol": "WTF"
+  },
+  {
+    "address": "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/XZK.png",
+    "name": "Mystiko Token",
+    "symbol": "XZK"
   }
 ]
