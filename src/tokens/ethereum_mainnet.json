@@ -673,14 +673,6 @@
     "symbol": "GTC"
   },
   {
-    "address": "0xF9a76af0bf7a8D4718fb7956a6873eAA64bbD0D9",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/HACHI.png",
-    "name": "Akita DAO",
-    "symbol": "HACHI"
-  },
-  {
     "address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
     "chainId": 1,
     "decimals": 18,
