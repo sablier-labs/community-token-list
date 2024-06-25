@@ -2051,6 +2051,14 @@
     "symbol": "WTF"
   },
   {
+    "address": "0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/XEON.png",
+    "name": "Xeon Protocol",
+    "symbol": "XEON"
+  },
+  {
     "address": "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0",
     "chainId": 1,
     "decimals": 18,
