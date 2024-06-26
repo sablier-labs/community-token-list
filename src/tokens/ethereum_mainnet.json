@@ -1915,6 +1915,14 @@
     "symbol": "VITA-FAST"
   },
   {
+    "address": "0x9eF3da23C304d88F856F2928B0BE17D9F5d0752F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MUL.png",
+    "name": "Multipool",
+    "symbol": "MUL"
+  },
+  {
     "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
     "chainId": 1,
     "decimals": 18,
