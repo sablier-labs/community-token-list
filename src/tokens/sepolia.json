@@ -14,5 +14,13 @@
     "logoURI": "https://files.sablier.com/tokens/SALD.png",
     "name": "Salad",
     "symbol": "SALD"
+  },
+  {
+    "address": "0xc14a63103A61d8f76c7EdB972a2Ce26423dE58b3",
+    "chainId": 11155111,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png",
+    "name": "Omni Network",
+    "symbol": "OMNI"
   }
 ]
