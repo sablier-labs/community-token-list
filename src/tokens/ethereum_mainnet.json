@@ -439,6 +439,14 @@
     "symbol": "DSYNC"
   },
   {
+    "address": "0xFd03723a9A3AbE0562451496a9a394D2C4bad4ab",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DYAD.png",
+    "name": "DYAD Stable",
+    "symbol": "DYAD"
+  },
+  {
     "address": "0x943Af2ece93118B973c95c2F698EE9D15002e604",
     "chainId": 1,
     "decimals": 18,
