@@ -423,6 +423,14 @@
     "symbol": "DONUT"
   },
   {
+    "address": "0x97a9a15168c22b3c137e6381037e1499c8ad0978",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DOP.png",
+    "name": "Data Ownership Protocol",
+    "symbol": "DOP"
+  },
+  {
     "address": "0x8c213AE332274e6314Bf4cF989604e7f61162967",
     "chainId": 1,
     "decimals": 9,
