@@ -198,5 +198,13 @@
     "logoURI": "https://files.sablier.com/tokens/LDY.png",
     "name": "Ledgity Token",
     "symbol": "LDY"
+  },
+  {
+    "address": "0xcC0Abb65c344639Ee78D76cd507027e5C1bb8135",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WEAVE.png",
+    "name": "Weave",
+    "symbol": "WEAVE"
   }
 ]

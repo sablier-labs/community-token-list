@@ -462,5 +462,13 @@
     "logoURI": "https://files.sablier.com/tokens/STADX.png",
     "name": "STADX",
     "symbol": "STADX"
+  },
+  {
+    "address": "0x0566C506477cD2d8dF4e0123512dBc344bD9D111",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MLC.png",
+    "name": "MyLovelyCoin",
+    "symbol": "MLC"
   }
 ]
