@@ -817,6 +817,14 @@
     "symbol": "JPEG"
   },
   {
+    "address": "0xf3768D6e78E65FC64b8F12ffc824452130BD5394",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/KEROSENE.png",
+    "name": "Kerosene",
+    "symbol": "KEROSENE"
+  },
+  {
     "address": "0xe8D17542dfe79Ff4FBd4b850f2d39DC69c4489a2",
     "chainId": 1,
     "decimals": 9,
