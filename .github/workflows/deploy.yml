@@ -13,34 +13,33 @@ jobs:
     needs: "test"
     runs-on: "ubuntu-latest"
     steps:
-      - name: "Check out the repo"
+      - name: "Preflight: checkout"
         uses: "actions/checkout@v4"
 
-      - name: "Install Bun"
+      - name: "Deps: install bun"
         uses: "oven-sh/setup-bun@v1"
 
-      - name: "Install Node.js dependecies"
+      - name: "Deps: install node modules"
         run: "bun install --frozen-lockfile"
 
-      - name: "Build project"
+      - name: "Run: build project"
         run: "bun run build"
 
       - name: "IPFS: upload bundle and pin"
-        id: "upload"
-        uses: "aquiladev/ipfs-action@master"
+        id: upload
+        uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
         with:
+          pin-name: Uniswap Default Token List
           path: "build/sablier-community.tokenlist.json"
-          service: "infura"
-          pinName: "tokenlist"
-          infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
-          infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
+          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
+          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
-      - name: "IPFS hash summary"
+      - name: "IPFS: hash summary"
         run: |
           echo "Successfully deployed on IPFS: [${{ steps.upload.outputs.hash }}](https://cloudflare-ipfs.com/ipfs/${{
             steps.upload.outputs.hash }})"
 
-      - name: "Update Cloudflare DNS with latest IPFS hash"
+      - name: "Cloudflare: update DNS with latest IPFS hash"
         env:
           CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}

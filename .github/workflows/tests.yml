@@ -8,14 +8,14 @@ jobs:
   test:
     runs-on: "ubuntu-latest"
     steps:
-      - name: "Check out the repo"
+      - name: "Preflight: checkout the repo"
         uses: "actions/checkout@v4"
 
-      - name: "Install Bun"
+      - name: "Deps: install bun"
         uses: "oven-sh/setup-bun@v1"
 
-      - name: "Install Node.js dependecies"
+      - name: "Deps: install node modules"
         run: "bun install --frozen-lockfile"
 
-      - name: "Run test suite"
+      - name: "Run: test suite"
         run: "bun run test"
