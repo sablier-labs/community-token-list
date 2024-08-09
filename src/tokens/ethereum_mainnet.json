@@ -415,6 +415,24 @@
     "symbol": "DNT"
   },
   {
+    "address": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2",
+    "chainId": 1,
+    "decimals": 8,
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x050c24dbf1eec17babe5fc585f06116a259cc77a"
+        },
+        "8453": {
+          "tokenAddress": "0x12418783e860997eb99e8aCf682DF952F721cF62"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/DLCBTC.png",
+    "name": "dlcBTC",
+    "symbol": "DLCBTC"
+  },
+  {
     "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
     "chainId": 1,
     "decimals": 18,
