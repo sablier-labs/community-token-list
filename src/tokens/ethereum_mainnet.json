@@ -1387,6 +1387,14 @@
     "symbol": "REP"
   },
   {
+    "address": "0x055999B83f9cADE9E3988A0f34Ef72817566800D",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RTB.png",
+    "name": "Roundtable",
+    "symbol": "RTB"
+  },
+  {
     "address": "0x120a3879da835A5aF037bB2d1456beBd6B54d4bA",
     "chainId": 1,
     "decimals": 18,
