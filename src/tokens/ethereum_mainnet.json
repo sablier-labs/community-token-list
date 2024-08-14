@@ -603,6 +603,14 @@
     "symbol": "FLOAT"
   },
   {
+    "address": "0x43Df01681966D5339702E96eF039E481b9DA20c1",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FU.png",
+    "name": "FU Money",
+    "symbol": "FU"
+  },
+  {
     "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
     "chainId": 1,
     "decimals": 18,
