@@ -64,6 +64,14 @@
     "symbol": "FIN"
   },
   {
+    "address": "0x3269a3C00AB86c753856fD135d97b87FACB0d848",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FFM.png",
+    "name": "Florence Finance Medici",
+    "symbol": "FFM"
+  },
+  {
     "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
     "chainId": 42161,
     "decimals": 18,
