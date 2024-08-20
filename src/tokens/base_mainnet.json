@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x3C281A39944a2319aA653D81Cfd93Ca10983D234",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BUILD.png",
+    "name": "BUILD",
+    "symbol": "BUILD"
+  },
+  {
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "chainId": 8453,
     "decimals": 6,
