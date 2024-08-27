@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+    "chainId": 4689,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "ioUSDC"
+  },
+  {
+    "address": "0xc7b93720f73b037394ce00f954f849ed484a3dea",
+    "chainId": 4689,
+    "decimals": 8,
+    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
+    "name": "Wrapped Bitcoin",
+    "symbol": "ioWBTC"
+  },
+  {
+    "address": "0x1cbad85aa66ff3c12dc84c5881886eeb29c1bb9b",
+    "chainId": 4689,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "ioDAI"
+  }
+]

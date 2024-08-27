@@ -1,0 +1,34 @@
+[
+  {
+    "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "chainId": 59144,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "Bridged USDC",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+    "chainId": 59144,
+    "decimals": 8,
+    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/DAI.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  }
+]
