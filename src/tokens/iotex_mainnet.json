@@ -22,5 +22,13 @@
     "logoURI": "https://files.sablier.com/tokens/DAI.png",
     "name": "Dai Stablecoin",
     "symbol": "ioDAI"
+  },
+  {
+    "address": "0x0258866edaf84d6081df17660357ab20a07d0c80",
+    "chainId": 4689,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
+    "name": "Wrapped Ether",
+    "symbol": "ioWETH"
   }
 ]
