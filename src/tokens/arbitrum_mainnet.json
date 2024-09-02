@@ -216,6 +216,14 @@
     "symbol": "LDY"
   },
   {
+    "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SYNO.png",
+    "name": "Synonym Finance",
+    "symbol": "SYNO"
+  },
+  {
     "address": "0xcC0Abb65c344639Ee78D76cd507027e5C1bb8135",
     "chainId": 42161,
     "decimals": 18,
