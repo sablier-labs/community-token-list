@@ -1459,6 +1459,14 @@
     "symbol": "SHIB"
   },
   {
+    "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SHFL.png",
+    "name": "Shuffle",
+    "symbol": "SHFL"
+  },
+  {
     "address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
     "chainId": 1,
     "decimals": 18,
