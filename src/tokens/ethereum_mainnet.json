@@ -875,6 +875,14 @@
     "symbol": "kMPL"
   },
   {
+    "address": "0x7b0DF1Cd724Ec34eC9Bc4Bd19749b01AfB490761",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/KOIN.png",
+    "name": "Kittekoin",
+    "symbol": "KOIN"
+  },
+  {
     "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
     "chainId": 1,
     "decimals": 18,
