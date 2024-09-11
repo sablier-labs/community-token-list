@@ -216,6 +216,14 @@
     "symbol": "LDY"
   },
   {
+    "address": "0x83e5Ecd192eAc043B0674A16EEDf96176726A159",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RED.png",
+    "name": "Redacted",
+    "symbol": "RED"
+  },
+  {
     "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
     "chainId": 42161,
     "decimals": 18,
