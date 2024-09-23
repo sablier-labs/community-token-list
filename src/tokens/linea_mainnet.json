@@ -30,5 +30,13 @@
     "logoURI": "https://files.sablier.com/tokens/DAI.png",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
+  },
+  {
+    "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CROAK.png",
+    "name": "CROAK",
+    "symbol": "CROAK"
   }
 ]
