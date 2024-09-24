@@ -1014,6 +1014,28 @@
     "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
     "chainId": 1,
     "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        },
+        "137": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        },
+        "42161": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        },
+        "43114": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        },
+        "56": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        },
+        "8453": {
+          "tokenAddress": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1"
+        }
+      }
+    },
     "logoURI": "https://files.sablier.com/tokens/MOLTEN.png",
     "name": "Molten",
     "symbol": "MOLTEN"
