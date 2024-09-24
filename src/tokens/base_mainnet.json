@@ -184,6 +184,14 @@
     "symbol": "AM"
   },
   {
+    "address": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SOCIAL.png",
+    "name": "Phavercoin",
+    "symbol": "SOCIAL"
+  },
+  {
     "address": "0x80f6bcedd3d4fa1035285affa30e38f464db3895",
     "chainId": 8453,
     "decimals": 18,

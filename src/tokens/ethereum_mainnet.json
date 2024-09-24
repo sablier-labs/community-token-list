@@ -2013,6 +2013,21 @@
     "symbol": "MUL"
   },
   {
+    "address": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "8453": {
+          "tokenAddress": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/SOCIAL.png",
+    "name": "Phavercoin",
+    "symbol": "SOCIAL"
+  },
+  {
     "address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
     "chainId": 1,
     "decimals": 18,
