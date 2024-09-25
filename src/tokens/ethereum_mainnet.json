@@ -2124,7 +2124,7 @@
   {
     "address": "0x4c04897259d015452E4F3fD55c58052E5401b673",
     "chainId": 1,
-    "decimals": 18,
+    "decimals": 8,
     "logoURI": "https://files.sablier.com/tokens/OCP.png",
     "name": "OCP",
     "symbol": "OCP"
