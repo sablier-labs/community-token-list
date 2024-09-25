@@ -22,5 +22,21 @@
     "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png",
     "name": "Omni Network",
     "symbol": "OMNI"
+  },
+  {
+    "address": "0xaa8e23fb1079ea71e0a56f48a2aa51851d8433d0",
+    "chainId": 11155111,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png",
+    "name": "USDT",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+    "chainId": 11155111,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png",
+    "name": "USDC",
+    "symbol": "USDC"
   }
 ]
