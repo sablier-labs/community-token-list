@@ -8,6 +8,14 @@
     "symbol": "BUILD"
   },
   {
+    "address": "0xD2237D9fE0c36721220e4bD88aa85b55ffDA0E84",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://files.sablier.com/tokens/COIM.png",
+    "name": "CoinMath",
+    "symbol": "COIM"
+  },
+  {
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "chainId": 8453,
     "decimals": 6,
