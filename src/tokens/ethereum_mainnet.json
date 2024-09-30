@@ -391,6 +391,14 @@
     "symbol": "DEXTF"
   },
   {
+    "address": "0xF9Ca9523E5b5A42C3018C62B084Db8543478C400",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/LAKE.png",
+    "name": "Data Lake Token",
+    "symbol": "LAKE"
+  },
+  {
     "address": "0xc40F23A3E9613E012944f7957edCe97899Fa920d",
     "chainId": 1,
     "decimals": 18,
