@@ -8,11 +8,11 @@ assignees: ""
 
 **Please provide the following information for your token.**
 
-- Token Address (HAS to be [checksummed](https://ethsum.netlify.app/)):
+- Token Address (**HAS** to be [checksummed](https://ethsum.netlify.app/)):
 - Token Name (from contract):
 - Token Decimals (from contract):
 - Token Symbol (from contract):
-- Token Icon (e.g. link to png, e.g. 200x200px):
+- Token Icon (**HAS** to be in PNG, under 200x200):
 - Chain:
 - Official project link:
 - CoinGecko/CoinMarketCap token page:
