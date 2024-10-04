@@ -206,5 +206,13 @@
     "logoURI": "https://files.sablier.com/tokens/BET.png",
     "name": "BetBase",
     "symbol": "BET"
+  },
+  {
+    "address": "0xc734635CD30E882037C3f3De1EbCCF9fA9D27D9F",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BET.png",
+    "name": "LyvelyToken",
+    "symbol": "LVLY"
   }
 ]
