@@ -2178,6 +2178,14 @@
     "symbol": "SAFE"
   },
   {
+    "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SUSDS.png",
+    "name": "Savings USDS",
+    "symbol": "SUSDS"
+  },
+  {
     "address": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
     "chainId": 1,
     "decimals": 18,
