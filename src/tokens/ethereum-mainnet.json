@@ -2186,6 +2186,14 @@
     "symbol": "SUSDS"
   },
   {
+    "address": "0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TRIBL.png",
+    "name": "Tribal Token",
+    "symbol": "TRIBL"
+  },
+  {
     "address": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
     "chainId": 1,
     "decimals": 18,
