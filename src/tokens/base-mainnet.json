@@ -216,6 +216,14 @@
     "symbol": "LVLY"
   },
   {
+    "address": "0x314d7f9e2f55B430ef656FBB98A7635D43a2261E",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/NAYM.png",
+    "name": "Naym",
+    "symbol": "NAYM"
+  },
+  {
     "address": "0xF56B3b3972F2f154555a0b62FF5A22b7b2A3C90B",
     "chainId": 8453,
     "decimals": 18,
