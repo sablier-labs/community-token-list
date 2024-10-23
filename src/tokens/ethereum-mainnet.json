@@ -2154,6 +2154,24 @@
     "symbol": "OPEN"
   },
   {
+    "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce"
+        },
+        "100": {
+          "tokenAddress": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/REG.png",
+    "name": "RealToken Ecosystem Governance",
+    "symbol": "REG"
+  },
+  {
     "address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
     "chainId": 1,
     "decimals": 18,

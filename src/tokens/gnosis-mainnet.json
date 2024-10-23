@@ -40,6 +40,14 @@
     "symbol": "GNO"
   },
   {
+    "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/REG.png",
+    "name": "RealToken Ecosystem Governance",
+    "symbol": "REG"
+  },
+  {
     "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
     "chainId": 100,
     "decimals": 6,

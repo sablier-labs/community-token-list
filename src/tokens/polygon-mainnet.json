@@ -456,6 +456,14 @@
     "symbol": "MOLTEN"
   },
   {
+    "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/REG.png",
+    "name": "RealToken Ecosystem Governance",
+    "symbol": "REG"
+  },
+  {
     "address": "0x37ed1625E73Fc20Ff2eC1c07533ddecbB9542d47",
     "chainId": 137,
     "decimals": 18,
