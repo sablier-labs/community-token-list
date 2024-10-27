@@ -208,6 +208,14 @@
     "symbol": "BET"
   },
   {
+    "address": "0x9a33406165f562E16C3abD82fd1185482E01b49a",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TALENT.png",
+    "name": "Talent Protocol",
+    "symbol": "TALENT"
+  },
+  {
     "address": "0xc734635CD30E882037C3f3De1EbCCF9fA9D27D9F",
     "chainId": 8453,
     "decimals": 18,
