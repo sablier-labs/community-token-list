@@ -11,6 +11,8 @@ const iotexMainnet = require("./tokens/iotex-mainnet.json");
 const optimismMainnet = require("./tokens/optimism-mainnet.json");
 const lightlinkMainnet = require("./tokens/lightlink-mainnet.json");
 const lineaMainnet = require("./tokens/linea-mainnet.json");
+const morphMainnet = require("./tokens/morph-mainnet.json");
+const modeMainnet = require("./tokens/mode-mainnet.json");
 const polygonMainnet = require("./tokens/polygon-mainnet.json");
 const roninMainnet = require("./tokens/ronin-mainnet.json");
 const roninTestnet = require("./tokens/ronin-testnet.json");
@@ -44,6 +46,8 @@ module.exports = function buildList() {
       ...iotexMainnet,
       ...lightlinkMainnet,
       ...lineaMainnet,
+      ...modeMainnet,
+      ...morphMainnet,
       ...optimismMainnet,
       ...polygonMainnet,
       ...roninMainnet,
