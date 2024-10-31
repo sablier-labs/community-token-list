@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000802",
+    "chainId": 5845,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TNT.png",
+    "name": "Tangle Network Token",
+    "symbol": "TNT"
+  }
+]
