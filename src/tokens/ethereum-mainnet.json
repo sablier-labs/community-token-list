@@ -2035,6 +2035,14 @@
     "symbol": "VITARNA"
   },
   {
+    "address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/NANI.png",
+    "name": "NANI",
+    "symbol": "⌘"
+  },
+  {
     "address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
     "chainId": 1,
     "decimals": 18,
