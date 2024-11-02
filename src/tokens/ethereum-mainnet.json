@@ -2003,6 +2003,14 @@
     "symbol": "LMR"
   },
   {
+    "address": "0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/TIG.png",
+    "name": "The Innovation Game",
+    "symbol": "TIG"
+  },
+  {
     "address": "0xf59257E961883636290411c11ec5Ae622d19455e",
     "chainId": 1,
     "decimals": 9,
