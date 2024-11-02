@@ -2027,6 +2027,14 @@
     "symbol": "VITA"
   },
   {
+    "address": "0x1E762e1FAc176bbB341656035daf5601b1C69Be5",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WEL.png",
+    "name": "Welshare Health Token",
+    "symbol": "WEL"
+  },
+  {
     "address": "0x7b66E84Be78772a3afAF5ba8c1993a1B5D05F9C2",
     "chainId": 1,
     "decimals": 18,
