@@ -1097,6 +1097,21 @@
     "symbol": "NEURAL"
   },
   {
+    "address": "0x84342e932797FC62814189f01F0Fb05F52519708",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0x84342e932797FC62814189f01F0Fb05F52519708"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/NHT.png",
+    "name": "Neighbourhoods",
+    "symbol": "NHT"
+  },
+  {
     "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
     "chainId": 1,
     "decimals": 18,
