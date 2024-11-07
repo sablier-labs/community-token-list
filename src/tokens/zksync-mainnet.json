@@ -22,5 +22,13 @@
     "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ZK.png",
+    "name": "zkSync",
+    "symbol": "ZK"
   }
 ]
