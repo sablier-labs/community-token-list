@@ -246,5 +246,13 @@
     "logoURI": "https://files.sablier.com/tokens/ZAP.png",
     "name": "ZAP",
     "symbol": "ZAP"
+  },
+  {
+    "address": "0xFc60AA1fFCA50Ce08b3cDeC9626c0Bb9E9b09BeC",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VIS.png",
+    "name": "Envision",
+    "symbol": "VIS"
   }
 ]
