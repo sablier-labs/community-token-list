@@ -3,6 +3,7 @@ const { version } = require("../package.json");
 const arbitrumMainnet = require("./tokens/arbitrum-mainnet.json");
 const avalancheMainnet = require("./tokens/avalanche-mainnet.json");
 const baseMainnet = require("./tokens/base-mainnet.json");
+const baseSepolia = require("./tokens/base-sepolia.json");
 const blastMainnet = require("./tokens/blast-mainnet.json");
 const bscMainnet = require("./tokens/bsc-mainnet.json");
 const ethereumMainnet = require("./tokens/ethereum-mainnet.json");
@@ -41,6 +42,7 @@ module.exports = function buildList() {
       ...avalancheMainnet,
       ...arbitrumMainnet,
       ...baseMainnet,
+      ...baseSepolia,
       ...blastMainnet,
       ...bscMainnet,
       ...gnosisMainnet,
