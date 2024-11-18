@@ -35,9 +35,9 @@
     "address": "0x050c24dbf1eec17babe5fc585f06116a259cc77a",
     "chainId": 42161,
     "decimals": 8,
-    "logoURI": "https://files.sablier.com/tokens/DLCBTC.png",
-    "name": "dlcBTC",
-    "symbol": "DLCBTC"
+    "logoURI": "https://files.sablier.com/tokens/IBTC.png",
+    "name": "iBTC",
+    "symbol": "IBTC"
   },
   {
     "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",

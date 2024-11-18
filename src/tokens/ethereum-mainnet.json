@@ -452,9 +452,9 @@
         }
       }
     },
-    "logoURI": "https://files.sablier.com/tokens/DLCBTC.png",
-    "name": "dlcBTC",
-    "symbol": "DLCBTC"
+    "logoURI": "https://files.sablier.com/tokens/IBTC.png",
+    "name": "iBTC",
+    "symbol": "IBTC"
   },
   {
     "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
