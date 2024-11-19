@@ -19,6 +19,7 @@ const roninMainnet = require("./tokens/ronin-mainnet.json");
 const roninTestnet = require("./tokens/ronin-testnet.json");
 const scrollTestnet = require("./tokens/scroll-mainnet.json");
 const sepolia = require("./tokens/sepolia.json");
+const superseedMainnet = require("./tokens/superseed-mainnet.json");
 const tangleMainnet = require("./tokens/tangle-mainnet.json");
 const zksyncMainnet = require("./tokens/zksync-mainnet.json");
 
@@ -57,6 +58,7 @@ module.exports = function buildList() {
       ...roninTestnet,
       ...scrollTestnet,
       ...sepolia,
+      ...superseedMainnet,
       ...tangleMainnet,
       ...zksyncMainnet,
     ]
