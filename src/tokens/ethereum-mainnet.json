@@ -1464,6 +1464,14 @@
     "symbol": "RVST"
   },
   {
+    "address": "0xb933f9220459Bba16cd911a95b2Dab41DB598E97",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RNG.png",
+    "name": "Renegade",
+    "symbol": "RNG"
+  },
+  {
     "address": "0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA",
     "chainId": 1,
     "decimals": 18,
