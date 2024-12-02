@@ -58,7 +58,7 @@
   {
     "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
     "chainId": 1,
-    "decimals": 18,
+    "decimals": 2,
     "logoURI": "https://files.sablier.com/tokens/EURS.png",
     "name": "STASIS EURS Token",
     "symbol": "EURS"
@@ -202,7 +202,7 @@
   {
     "address": "0x4cB1e6c430Bb4b874869Fd6049ed07aE975b02f1",
     "chainId": 1,
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://files.sablier.com/tokens/SWIPES.png",
     "name": "BNDR",
     "symbol": "SWIPES"
@@ -505,24 +505,6 @@
     "symbol": "DUEL"
   },
   {
-    "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
-    "chainId": 1,
-    "decimals": 18,
-    "extensions": {
-      "bridgeInfo": {
-        "10": {
-          "tokenAddress": "0xc871cCf95024eFa2CbcE69B5B775D2a1DcF49c1B"
-        },
-        "8453": {
-          "tokenAddress": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C"
-        }
-      }
-    },
-    "logoURI": "https://files.sablier.com/tokens/GROW.png",
-    "name": "ValleyDAO",
-    "symbol": "GROW"
-  },
-  {
     "address": "0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c",
     "chainId": 1,
     "decimals": 18,
@@ -805,7 +787,7 @@
   {
     "address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
     "chainId": 1,
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png",
     "name": "Ichi (Legacy)",
     "symbol": "ICHI"
@@ -1674,7 +1656,7 @@
   {
     "address": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
     "chainId": 1,
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/THEOS.png",
     "name": "THEOS",
     "symbol": "THEOS"
@@ -1794,7 +1776,7 @@
   {
     "address": "0xB893A8049f250b57eFA8C62D51527a22404D7c9A",
     "chainId": 1,
-    "decimals": 6,
+    "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png",
     "name": "American Shiba",
     "symbol": "USHIBA"
@@ -1932,7 +1914,7 @@
   {
     "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
     "chainId": 1,
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo.png",
     "name": "Wrapped UST Token",
     "symbol": "UST"
@@ -2024,14 +2006,6 @@
     "logoURI": "https://files.sablier.com/tokens/LUMERIN.png",
     "name": "Lumerin",
     "symbol": "LMR"
-  },
-  {
-    "address": "0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/TIG.png",
-    "name": "The Innovation Game",
-    "symbol": "TIG"
   },
   {
     "address": "0xf59257E961883636290411c11ec5Ae622d19455e",

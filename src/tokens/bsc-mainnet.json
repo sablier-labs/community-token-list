@@ -98,7 +98,7 @@
   {
     "address": "0x7ad7242A99F21aa543F9650A56D141C57e4F6081",
     "chainId": 56,
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://files.sablier.com/tokens/JADE.png",
     "name": "Jade Protocol",
     "symbol": "JADE"

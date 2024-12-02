@@ -160,14 +160,6 @@
     "symbol": "USDC"
   },
   {
-    "address": "0x416494bD4FbEe227313b76a07A1e859928D7bA47",
-    "chainId": 43114,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/USDCe-TIC-SLP.e.png",
-    "name": "USDCe-TIC SLP",
-    "symbol": "USDCe-TIC-SLP.e"
-  },
-  {
     "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
     "chainId": 43114,
     "decimals": 18,
@@ -218,7 +210,7 @@
   {
     "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
     "chainId": 43114,
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://files.sablier.com/tokens/MEAT.png",
     "name": "Meat",
     "symbol": "MEAT"
