@@ -8,20 +8,20 @@ env:
   BLAST_MAINNET_RPC_URL: "https://blast-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   BSC_MAINNET_RPC_URL: "https://bsc-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   ETHEREUM_MAINNET_RPC_URL: "https://mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
-  GNOSIS_MAINNET_RPC_URL: ${{ secrets.GNOSIS_MAINNET_RPC_URL }}
-  IOTEX_MAINNET_RPC_URL: ${{ secrets.IOTEX_MAINNET_RPC_URL }}
-  LIGHTLINK_MAINNET_RPC_URL: ${{ secrets.LIGHTLINK_MAINNET_RPC_URL }}
+  GNOSIS_MAINNET_RPC_URL: "https://gnosis.drpc.org"
+  IOTEX_MAINNET_RPC_URL: "https://rpc.ankr.com/iotex"
+  LIGHTLINK_MAINNET_RPC_URL: "https://replicator.phoenix.lightlink.io/rpc/v1"
   LINEA_MAINNET_RPC_URL: "https://linea-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
-  MODE_MAINNET_RPC_URL: ${{ secrets.MODE_MAINNET_RPC_URL }}
-  MORPH_MAINNET_RPC_URL: ${{ secrets.MORPH_MAINNET_RPC_URL }}
+  MODE_MAINNET_RPC_URL: "https://mode.drpc.org"
+  MORPH_MAINNET_RPC_URL: "https://rpc-quicknode.morphl2.io"
   OPTIMISM_MAINNET_RPC_URL: "https://optimism-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   POLYGON_MAINNET_RPC_URL: "https://polygon-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
-  RONIN_MAINNET_RPC_URL: ${{ secrets.RONIN_MAINNET_RPC_URL }}
-  RONIN_TESTNET_RPC_URL: ${{ secrets.RONIN_TESTNET_RPC_URL }}
+  RONIN_MAINNET_RPC_URL: "https://ronin.drpc.org"
+  RONIN_TESTNET_RPC_URL: "https://saigon-testnet.roninchain.com/rpc"
   SCROLL_MAINNET_RPC_URL: "https://scroll-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   SEPOLIA_RPC_URL: "https://sepolia.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
-  SUPERSEED_MAINNET_RPC_URL: ${{ secrets.SUPERSEED_MAINNET_RPC_URL }}
-  TANGLE_MAINNET_RPC_URL: ${{ secrets.TANGLE_MAINNET_RPC_URL }}
+  SUPERSEED_MAINNET_RPC_URL: "https://mainnet.superseed.xyz"
+  TANGLE_MAINNET_RPC_URL: "https://rpc.tangle.tools"
   ZKSYNC_MAINNET_RPC_URL: "https://zksync-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
 
 on:
