@@ -50,7 +50,7 @@ for file in src/tokens/*.json; do
         "id": 1
       }')
 
-    # Get token decimals (base-16) from curl response
+    # Get token decimals (base-16) from curl response, exit if response is not valid
     if ! actual_decimals=$(echo $response | jq -r '.result'); then
       echo -e "\e[31m🔴 $response"
       exit 1
