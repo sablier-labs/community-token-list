@@ -38,13 +38,5 @@
     "logoURI": "https://files.sablier.com/tokens/USDC.png",
     "name": "USDC",
     "symbol": "USDC"
-  },
-  {
-    "address": "0x82AF3812418D2c60A5e41093dE5D5130e895b3e8",
-    "chainId": 11155111,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/MIKA.png",
-    "name": "MIKA",
-    "symbol": "MIKA"
   }
 ]
