@@ -8,6 +8,14 @@
     "symbol": "BUILD"
   },
   {
+    "address": "0xc73dC7aE7A4fa40517aAfa941AE1ee436B91a12c",
+    "chainId": 8453,
+    "decimals": 4,
+    "logoURI": "https://files.sablier.com/tokens/BUZ.png",
+    "name": "Buz Economy",
+    "symbol": "BUZ"
+  },
+  {
     "address": "0xD2237D9fE0c36721220e4bD88aa85b55ffDA0E84",
     "chainId": 8453,
     "decimals": 8,
