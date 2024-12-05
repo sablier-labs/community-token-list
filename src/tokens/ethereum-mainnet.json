@@ -2287,5 +2287,13 @@
     "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png",
     "name": "Omni Network",
     "symbol": "OMNI"
+  },
+  {
+    "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ZRS.png",
+    "name": "Zaros Finance",
+    "symbol": "ZRS"
   }
 ]
