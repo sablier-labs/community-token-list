@@ -152,6 +152,14 @@
     "symbol": "FUKU"
   },
   {
+    "address": "0x4B69EA52F8cb02b53613Fa1E24F2579176C44C57",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RAZZ.png",
+    "name": "fun Consigliere",
+    "symbol": "RAZZ"
+  },
+  {
     "address": "0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
     "chainId": 8453,
     "decimals": 18,
