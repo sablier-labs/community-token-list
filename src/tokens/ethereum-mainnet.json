@@ -48,6 +48,14 @@
     "symbol": "AUDD"
   },
   {
+    "address": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/AUTOS.png",
+    "name": "CryptoAutos",
+    "symbol": "AUTOS"
+  },
+  {
     "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
     "chainId": 1,
     "decimals": 18,
