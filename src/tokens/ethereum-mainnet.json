@@ -383,6 +383,14 @@
     "symbol": "CYDX"
   },
   {
+    "address": "0x2282c726F54c93193E6b8E5BF1B82303DC11D36e",
+    "chainId": 1,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/DAY.png",
+    "name": "Dayhub",
+    "symbol": "DAY"
+  },
+  {
     "address": "0x537A9095b78517597b5f2058EDcd6E1978095909",
     "chainId": 1,
     "decimals": 4,
