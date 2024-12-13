@@ -7,6 +7,7 @@ env:
   BASE_SEPOLIA_RPC_URL: "https://base-sepolia.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   BLAST_MAINNET_RPC_URL: "https://blast-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   BSC_MAINNET_RPC_URL: "https://bsc-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
+  CHILIZ_MAINNET_RPC_URL: "https://chiliz.publicnode.com"
   ETHEREUM_MAINNET_RPC_URL: "https://mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   GNOSIS_MAINNET_RPC_URL: "https://gnosis.drpc.org"
   IOTEX_MAINNET_RPC_URL: "https://rpc.ankr.com/iotex"
