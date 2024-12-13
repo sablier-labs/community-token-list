@@ -6,6 +6,7 @@ const baseMainnet = require("./tokens/base-mainnet.json");
 const baseSepolia = require("./tokens/base-sepolia.json");
 const blastMainnet = require("./tokens/blast-mainnet.json");
 const bscMainnet = require("./tokens/bsc-mainnet.json");
+const chilizMainnet = require("./tokens/chiliz-mainnet.json");
 const ethereumMainnet = require("./tokens/ethereum-mainnet.json");
 const gnosisMainnet = require("./tokens/gnosis-mainnet.json");
 const iotexMainnet = require("./tokens/iotex-mainnet.json");
@@ -46,6 +47,7 @@ module.exports = function buildList() {
       ...baseSepolia,
       ...blastMainnet,
       ...bscMainnet,
+      ...chilizMainnet,
       ...gnosisMainnet,
       ...iotexMainnet,
       ...lightlinkMainnet,
