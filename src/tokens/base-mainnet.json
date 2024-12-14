@@ -8,6 +8,14 @@
     "symbol": "ANZ"
   },
   {
+    "address": "0xF25B7DD973e30Dcf219fbED7bD336b9ab5A05DD9",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BRAINS.png",
+    "name": "$BRAINS",
+    "symbol": "BRAINS"
+  },
+  {
     "address": "0x3C281A39944a2319aA653D81Cfd93Ca10983D234",
     "chainId": 8453,
     "decimals": 18,
