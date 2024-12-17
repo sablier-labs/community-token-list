@@ -238,5 +238,13 @@
     "logoURI": "https://files.sablier.com/tokens/WEAVE.png",
     "name": "Weave",
     "symbol": "WEAVE"
+  },
+  {
+    "address": "0xA533f744B179F2431f5395978e391107DC76e103",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EPMX.png",
+    "name": "Early Primex",
+    "symbol": "ePMX"
   }
 ]
