@@ -2196,10 +2196,10 @@
     "decimals": 18,
     "extensions": {
       "bridgeInfo": {
-        "137": {
+        "100": {
           "tokenAddress": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce"
         },
-        "100": {
+        "137": {
           "tokenAddress": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce"
         }
       }
@@ -2311,5 +2311,13 @@
     "logoURI": "https://files.sablier.com/tokens/ZRS.png",
     "name": "Zaros Finance",
     "symbol": "ZRS"
+  },
+  {
+    "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FLUID.png",
+    "name": "Fluid",
+    "symbol": "FLUID"
   }
 ]
