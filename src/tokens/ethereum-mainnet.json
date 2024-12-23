@@ -625,6 +625,14 @@
     "symbol": "FU"
   },
   {
+    "address": "0x675B68AA4d9c2d3BB3F0397048e62E6B7192079c",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/FUEL.png",
+    "name": "Fuel Network",
+    "symbol": "FUEL"
+  },
+  {
     "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
     "chainId": 1,
     "decimals": 18,
