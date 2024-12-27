@@ -737,6 +737,21 @@
     "symbol": "GDT"
   },
   {
+    "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
+    "chainId": 1,
+    "decimals": 8,
+    "logoURI": "https://files.sablier.com/tokens/GX.png",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1"
+        }
+      }
+    },
+    "name": "Grindery X",
+    "symbol": "GX"
+  },
+  {
     "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "chainId": 1,
     "decimals": 18,

@@ -168,6 +168,14 @@
     "symbol": "GC"
   },
   {
+    "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/GX.png",
+    "name": "Grindery X",
+    "symbol": "GX"
+  },
+  {
     "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
     "chainId": 137,
     "decimals": 4,
