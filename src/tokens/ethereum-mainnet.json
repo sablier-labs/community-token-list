@@ -739,7 +739,7 @@
   {
     "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
     "chainId": 1,
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://files.sablier.com/tokens/GX.png",
     "extensions": {
       "bridgeInfo": {
