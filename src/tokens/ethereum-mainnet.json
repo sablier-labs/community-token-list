@@ -1325,6 +1325,21 @@
     "symbol": "DOUGH"
   },
   {
+    "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+    "chainId": 1,
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x330bD769382cFc6d50175903434CCC8D206DCAE5"
+        }
+      }
+    },
+    "logoURI": "https://files.sablier.com/tokens/PNK.png",
+    "name": "Pinakion",
+    "symbol": "PNK"
+  },
+  {
     "address": "0x0198f46f520F33cd4329bd4bE380a25a90536CD5",
     "chainId": 1,
     "decimals": 18,
