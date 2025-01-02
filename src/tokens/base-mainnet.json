@@ -232,6 +232,14 @@
     "symbol": "SOCIAL"
   },
   {
+    "address": "0x25e1c298F100d7C600E9e44d46788C1Ebbd4f69B",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/P.png",
+    "name": "Pike Token",
+    "symbol": "P"
+  },
+  {
     "address": "0x80f6bcedd3d4fa1035285affa30e38f464db3895",
     "chainId": 8453,
     "decimals": 18,
