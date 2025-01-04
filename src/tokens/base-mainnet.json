@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xb18c609796848C723eAcaDC0BE5b71Ceb2289a48",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ATA.png",
+    "name": "ATA by Virtuals",
+    "symbol": "ATA"
+  },
+  {
     "address": "0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
     "chainId": 8453,
     "decimals": 18,
