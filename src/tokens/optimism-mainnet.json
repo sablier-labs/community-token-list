@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xB5090D514BcacA7daFB7E52763658844121f346d",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BNRY.png",
+    "name": "Binary Coin",
+    "symbol": "BNRY"
+  },
+  {
     "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
     "chainId": 10,
     "decimals": 18,
