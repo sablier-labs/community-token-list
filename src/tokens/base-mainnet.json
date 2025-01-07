@@ -304,6 +304,14 @@
     "symbol": "NAYM"
   },
   {
+    "address": "0xef0fd52e65DdcDc201E2055a94D2aBff6fF10a7a",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WANDER.png",
+    "name": "WanderCoin",
+    "symbol": "WANDER"
+  },
+  {
     "address": "0xF56B3b3972F2f154555a0b62FF5A22b7b2A3C90B",
     "chainId": 8453,
     "decimals": 18,
