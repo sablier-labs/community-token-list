@@ -318,5 +318,21 @@
     "logoURI": "https://files.sablier.com/tokens/ZAP.png",
     "name": "ZAP",
     "symbol": "ZAP"
+  },
+  {
+    "address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://aixcbcapital.com/wp-content/uploads/2025/01/logo-128.png",
+    "name": "aixCB by Virtuals",
+    "symbol": "AIXCB"
+  },
+  {
+    "address": "0x000096630066820566162C94874A776532705231",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/IDRISS.png",
+    "name": "IDRISS",
+    "symbol": "IDRISS"
   }
 ]

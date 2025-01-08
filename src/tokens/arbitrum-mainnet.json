@@ -254,5 +254,13 @@
     "logoURI": "https://files.sablier.com/tokens/EPMX.png",
     "name": "Early Primex",
     "symbol": "ePMX"
+  },
+  {
+    "address": "0x93FA0B88C0C78e45980Fa74cdd87469311b7B3E4",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/XBG.png",
+    "name": "XBorg",
+    "symbol": "XBG"
   }
 ]
