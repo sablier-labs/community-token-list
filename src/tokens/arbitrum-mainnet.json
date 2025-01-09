@@ -256,6 +256,14 @@
     "symbol": "ePMX"
   },
   {
+    "address": "0x0721b3C9f19cfeF1d622C918DcD431960f35E060",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/SYNTH.png",
+    "name": "SYNTHR",
+    "symbol": "SYNTH"
+  },
+  {
     "address": "0x93FA0B88C0C78e45980Fa74cdd87469311b7B3E4",
     "chainId": 42161,
     "decimals": 18,
