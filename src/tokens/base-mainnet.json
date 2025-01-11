@@ -334,5 +334,13 @@
     "logoURI": "https://files.sablier.com/tokens/IDRISS.png",
     "name": "IDRISS",
     "symbol": "IDRISS"
+  },
+  {
+    "address": "0xf5C83eA805e5aeFf5De24C7Da23eF246C2BF8Ec7",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/MONSTA.png",
+    "name": "Based Monsta",
+    "symbol": "MONSTA"
   }
 ]
