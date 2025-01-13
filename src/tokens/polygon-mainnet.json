@@ -24,6 +24,14 @@
     "symbol": "ART"
   },
   {
+    "address": "0x44e3ae622c1570Dc6E492aDB8DE92d01cA923d26",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
+    "name": "Aryze",
+    "symbol": "RYZE"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 137,
     "decimals": 18,

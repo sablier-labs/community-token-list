@@ -8,6 +8,14 @@
     "symbol": "ARB"
   },
   {
+    "address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
+    "name": "Aryze",
+    "symbol": "RYZE"
+  },
+  {
     "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
     "chainId": 42161,
     "decimals": 6,

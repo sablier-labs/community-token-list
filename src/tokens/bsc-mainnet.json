@@ -16,6 +16,14 @@
     "symbol": "AXS"
   },
   {
+    "address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
+    "name": "Aryze",
+    "symbol": "RYZE"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 56,
     "decimals": 18,
