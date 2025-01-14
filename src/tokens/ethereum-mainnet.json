@@ -1855,6 +1855,21 @@
     "symbol": "USDC"
   },
   {
+    "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/USDS.png",
+    "extensions": {
+      "bridgeInfo": {
+        "8453": {
+          "tokenAddress": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc"
+        }
+      }
+    },
+    "name": "USDS Stablecoin",
+    "symbol": "USDS"
+  },
+  {
     "address": "0xB893A8049f250b57eFA8C62D51527a22404D7c9A",
     "chainId": 1,
     "decimals": 9,
