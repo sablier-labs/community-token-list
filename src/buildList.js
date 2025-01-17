@@ -41,7 +41,6 @@ module.exports = function buildList() {
     keywords: ["sablier", "default"],
     tokens: [
       ...ethereumMainnet,
-      ...abstractMainnet,
       ...avalancheMainnet,
       ...arbitrumMainnet,
       ...baseMainnet,
