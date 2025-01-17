@@ -1,6 +1,5 @@
 const { version } = require("../package.json");
 
-const abstractMainnet = require("./tokens/abstract-mainnet.json");
 const arbitrumMainnet = require("./tokens/arbitrum-mainnet.json");
 const avalancheMainnet = require("./tokens/avalanche-mainnet.json");
 const baseMainnet = require("./tokens/base-mainnet.json");
