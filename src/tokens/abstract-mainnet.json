@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+    "chainId": 2741,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDT.png",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+    "chainId": 2741,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e"
+  },
+  {
+    "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
+    "chainId": 2741,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  }
+]
