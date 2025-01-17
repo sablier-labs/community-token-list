@@ -41,6 +41,7 @@ describe("buildList", function () {
       "ichi",
       "rdnt",
       "usdc",
+      "usds"
     ];
 
     const map = {};
