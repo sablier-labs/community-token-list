@@ -1535,6 +1535,14 @@
     "symbol": "RNG"
   },
   {
+    "address": "0xF2478a732E5232AcD0acEF5e410e230b49b35a12",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://files.sablier.com/tokens/ROUGE.png",
+    "name": "Rouge Studio",
+    "symbol": "ROUGE"
+  },
+  {
     "address": "0x1a2d7C2b22a0b6Ce314dCbC30aC236303303defA",
     "chainId": 1,
     "decimals": 18,
