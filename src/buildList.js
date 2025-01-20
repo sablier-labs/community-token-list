@@ -1,5 +1,6 @@
 const { version } = require("../package.json");
 
+const abstractMainnet = require("./tokens/abstract-mainnet.json");
 const arbitrumMainnet = require("./tokens/arbitrum-mainnet.json");
 const avalancheMainnet = require("./tokens/avalanche-mainnet.json");
 const baseMainnet = require("./tokens/base-mainnet.json");
@@ -41,6 +42,7 @@ module.exports = function buildList() {
     keywords: ["sablier", "default"],
     tokens: [
       ...ethereumMainnet,
+      ...abstractMainnet,
       ...avalancheMainnet,
       ...arbitrumMainnet,
       ...baseMainnet,
