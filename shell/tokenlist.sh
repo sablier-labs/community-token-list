@@ -20,13 +20,18 @@ for file in src/tokens/*.json; do
   # Extract the filename and replace '-' with '_'
   network=$(basename "$file" .json | tr '-' '_' | tr '[:lower:]' '[:upper:]')
 
-  echo -n "Decimals for $network tokens list: "
+  echo -n "$network tokens list: "
 
   # Construct the RPC URL variable name from filename
   rpc_url_var="${network}_RPC_URL"
 
-  # Load the RPC URL from the environment variable
-  rpc_url=${!rpc_url_var}
+  # Load the RPC URL from the environment variable or default to empty string if not found
+  rpc_url=${!rpc_url_var:-}
+
+  if [ -z "$rpc_url" ]; then
+    echo -e "🟡 missing RPC endpoint."
+    continue
+  fi
 
   # Loop through JSON objects and extract address and token decimals
   echo "$json_objects" | jq -c '.[]' | while read -r row; do 
