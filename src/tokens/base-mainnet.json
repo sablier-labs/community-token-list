@@ -8,6 +8,14 @@
     "symbol": "ATA"
   },
   {
+    "address": "0x79dacb99a8698052a9898e81fdf883c29efb93cb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ACOLYT.png",
+    "name": "Acolyte by Virtuals",
+    "symbol": "ACOLYT"
+  },
+  {
     "address": "0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
     "chainId": 8453,
     "decimals": 18,
