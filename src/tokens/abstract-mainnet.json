@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
+    "chainId": 2741,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
+    "chainId": 2741,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x0709F39376dEEe2A2dfC94A58EdEb2Eb9DF012bD",
+    "chainId": 2741,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDT.png",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  }
+]
