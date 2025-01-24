@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x02D4f76656C2B4f58430e91f8ac74896c9281Cb9",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/AIP.png",
+    "name": "Pett AI",
+    "symbol": "AIP"
+  },
+  {
     "address": "0xb18c609796848C723eAcaDC0BE5b71Ceb2289a48",
     "chainId": 8453,
     "decimals": 18,
