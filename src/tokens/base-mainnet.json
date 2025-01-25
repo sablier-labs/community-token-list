@@ -366,5 +366,13 @@
     "logoURI": "https://files.sablier.com/tokens/USDS.png",
     "name": "USDS Stablecoin",
     "symbol": "USDS"
+  },
+  {
+    "address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VEIL.png",
+    "name": "Veil Token",
+    "symbol": "VEIL"
   }
 ]
