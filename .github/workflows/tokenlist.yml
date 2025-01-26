@@ -22,7 +22,6 @@ env:
   SCROLL_MAINNET_RPC_URL: "https://scroll-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   SEPOLIA_RPC_URL: "https://sepolia.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   SUPERSEED_MAINNET_RPC_URL: "https://mainnet.superseed.xyz"
-  TANGLE_MAINNET_RPC_URL: "https://rpc.tangle.tools"
   ZKSYNC_MAINNET_RPC_URL: "https://zksync-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
 
 on:
