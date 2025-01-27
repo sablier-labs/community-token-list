@@ -43,7 +43,6 @@
     "address": "0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/ALT.png",
     "extensions": {
       "bridgeInfo": {
         "56": {
@@ -51,6 +50,7 @@
         }
       }
     },
+    "logoURI": "https://files.sablier.com/tokens/ALT.png",
     "name": "AltLayer",
     "symbol": "ALT"
   },
@@ -58,26 +58,26 @@
     "address": "0x44e3ae622c1570Dc6E492aDB8DE92d01cA923d26",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
     "extensions": {
       "bridgeInfo": {
         "137": {
           "tokenAddress": "0x44e3ae622c1570Dc6E492aDB8DE92d01cA923d26"
         },
-        "56": {
-          "tokenAddress": "0x7712da72127d5dD213B621497D6E4899d5989e5C"
-        },
         "42161": {
           "tokenAddress": "0x7712da72127d5dD213B621497D6E4899d5989e5C"
         },
-        "81457": {
-          "tokenAddress": "0xFFB9330A2bec43A23c46c83d4F4c0A6bb449F353"
+        "56": {
+          "tokenAddress": "0x7712da72127d5dD213B621497D6E4899d5989e5C"
         },
         "59144": {
           "tokenAddress": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8"
+        },
+        "81457": {
+          "tokenAddress": "0xFFB9330A2bec43A23c46c83d4F4c0A6bb449F353"
         }
       }
     },
+    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
     "name": "Aryze",
     "symbol": "RYZE"
   },
@@ -782,7 +782,6 @@
     "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/GX.png",
     "extensions": {
       "bridgeInfo": {
         "137": {
@@ -790,6 +789,7 @@
         }
       }
     },
+    "logoURI": "https://files.sablier.com/tokens/GX.png",
     "name": "Grindery X",
     "symbol": "GX"
   },
@@ -1881,7 +1881,6 @@
     "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
     "chainId": 1,
     "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/USDS.png",
     "extensions": {
       "bridgeInfo": {
         "8453": {
@@ -1889,6 +1888,7 @@
         }
       }
     },
+    "logoURI": "https://files.sablier.com/tokens/USDS.png",
     "name": "USDS Stablecoin",
     "symbol": "USDS"
   },
@@ -2422,5 +2422,13 @@
     "logoURI": "https://files.sablier.com/tokens/FLUID.png",
     "name": "Fluid",
     "symbol": "FLUID"
+  },
+  {
+    "address": "0xde6AcEAF7F2dCEB3d425643C5F85351f2B38FcdE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/HQ.png",
+    "name": "Metaverse HQ",
+    "symbol": "HQ"
   }
 ]
