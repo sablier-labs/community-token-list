@@ -1,6 +1,7 @@
 name: "CI Tokenlist"
 
 env:
+  ABSTRACT_MAINNET_RPC_URL: "https://api.mainnet.abs.xyz"
   ARBITRUM_MAINNET_RPC_URL: "https://arbitrum-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   AVALANCHE_MAINNET_RPC_URL: "https://avalanche-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   BASE_MAINNET_RPC_URL: "https://base-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
