@@ -374,5 +374,13 @@
     "logoURI": "https://files.sablier.com/tokens/VEIL.png",
     "name": "Veil Token",
     "symbol": "VEIL"
+  },
+  {
+    "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/VVV.png",
+    "name": "Venice Token",
+    "symbol": "VVV"
   }
 ]
