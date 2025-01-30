@@ -2430,5 +2430,13 @@
     "logoURI": "https://files.sablier.com/tokens/HQ.png",
     "name": "Metaverse HQ",
     "symbol": "HQ"
+  },
+  {
+    "address": "0x0B3EAEAd748facDb9d943d3407011f16Eb17D0Cf",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PMX.png",
+    "name": "Primex Finance",
+    "symbol": "PMX"
   }
 ]
