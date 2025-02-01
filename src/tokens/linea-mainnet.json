@@ -54,5 +54,13 @@
     "logoURI": "https://files.sablier.com/tokens/CROAK.png",
     "name": "CROAK",
     "symbol": "CROAK"
+  },
+  {
+    "address": "0x464946f3f004b37014D272d6195aC131Eb54B94d",
+    "chainId": 59144,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/CARROT.png",
+    "name": "Carrot",
+    "symbol": "CARROT"
   }
 ]
