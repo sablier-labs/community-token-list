@@ -2438,5 +2438,13 @@
     "logoURI": "https://files.sablier.com/tokens/PMX.png",
     "name": "Primex Finance",
     "symbol": "PMX"
+  },
+  {
+    "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/BIO.png",
+    "name": "BIO",
+    "symbol": "BIO"
   }
 ]
