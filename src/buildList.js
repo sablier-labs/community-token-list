@@ -5,6 +5,7 @@ const arbitrumMainnet = require("./tokens/arbitrum-mainnet.json");
 const avalancheMainnet = require("./tokens/avalanche-mainnet.json");
 const baseMainnet = require("./tokens/base-mainnet.json");
 const baseSepolia = require("./tokens/base-sepolia.json");
+const berachainMainnet = require("./tokens/berachain-mainnet.json");
 const blastMainnet = require("./tokens/blast-mainnet.json");
 const bscMainnet = require("./tokens/bsc-mainnet.json");
 const chilizMainnet = require("./tokens/chiliz-mainnet.json");
@@ -47,6 +48,7 @@ module.exports = function buildList() {
       ...arbitrumMainnet,
       ...baseMainnet,
       ...baseSepolia,
+      ...berachainMainnet,
       ...blastMainnet,
       ...bscMainnet,
       ...chilizMainnet,
