@@ -30,5 +30,13 @@
     "logoURI": "https://files.sablier.com/tokens/ZK.png",
     "name": "zkSync",
     "symbol": "ZK"
+  },
+  {
+    "address": "0x5d0d7BCa050e2E98Fd4A5e8d3bA823B49f39868d",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ZYFI.png",
+    "name": "Zyfi Token",
+    "symbol": "ZFI"
   }
 ]
