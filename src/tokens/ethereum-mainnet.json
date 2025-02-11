@@ -2446,5 +2446,13 @@
     "logoURI": "https://files.sablier.com/tokens/BIO.png",
     "name": "BIO",
     "symbol": "BIO"
+  },
+  {
+    "address": "0x2a414884a549ef5716bc1a4e648d3dc03f08b2cf",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/PERQ.png",
+    "name": "PERQ",
+    "symbol": "PERQ"
   }
 ]
