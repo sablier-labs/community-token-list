@@ -10,6 +10,7 @@ const blastMainnet = require("./tokens/blast-mainnet.json");
 const bscMainnet = require("./tokens/bsc-mainnet.json");
 const chilizMainnet = require("./tokens/chiliz-mainnet.json");
 const ethereumMainnet = require("./tokens/ethereum-mainnet.json");
+const ethereumSepolia = require("./tokens/ethereum-sepolia.json");
 const gnosisMainnet = require("./tokens/gnosis-mainnet.json");
 const iotexMainnet = require("./tokens/iotex-mainnet.json");
 const optimismMainnet = require("./tokens/optimism-mainnet.json");
@@ -21,7 +22,6 @@ const polygonMainnet = require("./tokens/polygon-mainnet.json");
 const roninMainnet = require("./tokens/ronin-mainnet.json");
 const roninTestnet = require("./tokens/ronin-testnet.json");
 const scrollTestnet = require("./tokens/scroll-mainnet.json");
-const sepolia = require("./tokens/sepolia.json");
 const superseedMainnet = require("./tokens/superseed-mainnet.json");
 const tangleMainnet = require("./tokens/tangle-mainnet.json");
 const zksyncMainnet = require("./tokens/zksync-mainnet.json");
@@ -52,6 +52,7 @@ module.exports = function buildList() {
       ...blastMainnet,
       ...bscMainnet,
       ...chilizMainnet,
+      ...ethereumSepolia,
       ...gnosisMainnet,
       ...iotexMainnet,
       ...lightlinkMainnet,
@@ -63,7 +64,6 @@ module.exports = function buildList() {
       ...roninMainnet,
       ...roninTestnet,
       ...scrollTestnet,
-      ...sepolia,
       ...superseedMainnet,
       ...tangleMainnet,
       ...zksyncMainnet,
