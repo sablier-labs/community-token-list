@@ -7,7 +7,7 @@
 
 set -euo pipefail
 
-# Source variables from .env file if it exists.
+# Source variables from .env file if it exists
 if [ -f .env ]; then
   export $(grep -v '^#' .env | xargs)
   source <(envsubst < .env)

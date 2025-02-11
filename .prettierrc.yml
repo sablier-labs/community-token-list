@@ -2,11 +2,7 @@ bracketSpacing: true
 jsonRecursiveSort: true #https://github.com/Gudahtt/prettier-plugin-sort-json#json-recursive-sort
 printWidth: 80
 proseWrap: "always"
-semi: true
-singleQuote: false
-tabWidth: 2
 trailingComma: "all"
-useTabs: false
 
 overrides:
   - files: ["*.md", "*.yml"]
