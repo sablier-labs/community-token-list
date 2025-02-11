@@ -1,11 +1,10 @@
 [
-    {
-      "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
-      "chainId": 80094,
-      "decimals": 18,
-      "logoURI": "https://files.sablier.com/tokens/weETH.png",
-      "name": "Wrapped eEther",
-      "symbol": "weETH"
-    }
-  ]
-  
+  {
+    "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+    "chainId": 80094,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/weETH.png",
+    "name": "Wrapped eEther",
+    "symbol": "weETH"
+  }
+]

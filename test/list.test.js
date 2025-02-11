@@ -36,12 +36,12 @@ describe("buildList", function () {
     const approvedDuplicateSymbols = [
       "amp",
       "bank",
-      "slp",
       "flx",
       "ichi",
       "rdnt",
+      "slp",
       "usdc",
-      "usds"
+      "usds",
     ];
 
     const map = {};

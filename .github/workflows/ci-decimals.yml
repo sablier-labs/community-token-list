@@ -1,4 +1,4 @@
-name: "CI Tokenlist"
+name: "Continuous Integration: Decimals"
 
 env:
   ABSTRACT_MAINNET_RPC_URL: "https://api.mainnet.abs.xyz"
@@ -36,12 +36,17 @@ on:
     - cron: "0 3 * * 0" # at 3:00am UTC every Sunday
 
 jobs:
-  check-tokenlist:
+  check-decimals:
     runs-on: "ubuntu-latest"
     steps:
       - name: "Check out the repo"
         uses: "actions/checkout@v4"
 
-      - name: "Check decimals for tokens list"
-        run: ./shell/tokenlist.sh
-        shell: bash
+      - name: "Check token decimals"
+        run: "./scripts/check-decimals.sh"
+        shell: "bash"
+
+      - name: "Add summary"
+        run: |
+          echo "## CI Decimals result" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Passed" >> $GITHUB_STEP_SUMMARY
