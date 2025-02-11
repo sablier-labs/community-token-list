@@ -33,16 +33,7 @@ describe("buildList", function () {
 
   it("contains no duplicate symbols", function () {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = [
-      "amp",
-      "bank",
-      "flx",
-      "ichi",
-      "rdnt",
-      "slp",
-      "usdc",
-      "usds",
-    ];
+    const approvedDuplicateSymbols = ["amp", "bank", "flx", "ichi", "rdnt", "slp", "usdc", "usds"];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
@@ -51,10 +42,7 @@ describe("buildList", function () {
         continue;
       } else {
         const key = `${token.chainId}-${symbol}`;
-        expect(typeof map[key]).to.equal(
-          "undefined",
-          `duplicate symbol: ${symbol}   ${key} ${token.address}`,
-        );
+        expect(typeof map[key]).to.equal("undefined", `duplicate symbol: ${symbol}   ${key} ${token.address}`);
         map[key] = true;
       }
     }
@@ -71,10 +59,7 @@ describe("buildList", function () {
         continue;
       } else {
         const key = `${token.chainId}-${token.name.toLowerCase()}`;
-        expect(typeof map[key]).to.equal(
-          "undefined",
-          `duplicate name: ${token.name}`,
-        );
+        expect(typeof map[key]).to.equal("undefined", `duplicate name: ${token.name}`);
         map[key] = true;
       }
     }
@@ -82,9 +67,7 @@ describe("buildList", function () {
 
   it("all addresses are valid and checksummed", function () {
     for (let token of defaultTokenList.tokens) {
-      expect(getAddress(token.address).toLowerCase()).to.eq(
-        token.address.toLowerCase(),
-      );
+      expect(getAddress(token.address).toLowerCase()).to.eq(token.address.toLowerCase());
     }
   });
 
