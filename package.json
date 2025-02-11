@@ -14,15 +14,12 @@
     "@uniswap/token-lists": "^1.0.0-beta.33",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
+    "dts-cli": "^1.4.0",
     "mocha": "^8.0.1",
     "prettier": "^2.8.8",
     "prettier-plugin-sort-json": "2.0.0",
-    "@uniswap/token-list-bridge-utils": "git@github.com:razgraf/sablier-token-list-bridge-utils.git",
-    "dts-cli": "^1.4.0"
+    "@uniswap/token-list-bridge-utils": "git@github.com:razgraf/sablier-token-list-bridge-utils.git"
   },
-  "files": [
-    "build/sablier-community.tokenlist.json"
-  ],
   "homepage": "https://github.com/sablier-labs/default-token-list#readme",
   "keywords": [
     "ethereum",
@@ -34,7 +31,6 @@
     "token-community-list"
   ],
   "license": "GPL-3.0-or-later",
-  "main": "build/sablier-community.tokenlist.json",
   "repository": "github.com/sablier-labs/community-token-list",
   "scripts": {
     "build": "rm -rf build && mkdir -p build && node src/write.js > build/sablier-community.tokenlist.json",
