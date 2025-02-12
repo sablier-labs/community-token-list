@@ -18,7 +18,7 @@
     "mocha": "^8.0.1",
     "prettier": "^2.8.8",
     "prettier-plugin-sort-json": "2.0.0",
-    "@uniswap/token-list-bridge-utils": "git@github.com:razgraf/sablier-token-list-bridge-utils.git"
+    "@uniswap/token-list-bridge-utils": "2.6.0"
   },
   "homepage": "https://github.com/sablier-labs/default-token-list#readme",
   "keywords": [
