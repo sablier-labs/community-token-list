@@ -120,6 +120,14 @@
     "symbol": "JADE"
   },
   {
+    "address": "0x2aC892caE423FeE5e4d45F7e1C713Cf141A9ec9E",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/HANURAM.png",
+    "name": "HANURAM",
+    "symbol": "HANURAM"
+  },
+  {
     "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
     "chainId": 56,
     "decimals": 18,
