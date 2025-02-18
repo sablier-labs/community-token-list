@@ -24,6 +24,7 @@ const roninTestnet = require("./tokens/ronin-testnet.json");
 const scrollTestnet = require("./tokens/scroll-mainnet.json");
 const superseedMainnet = require("./tokens/superseed-mainnet.json");
 const tangleMainnet = require("./tokens/tangle-mainnet.json");
+const xdcMainnet = require("./tokens/xdc-mainnet.json");
 const zksyncMainnet = require("./tokens/zksync-mainnet.json");
 
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
@@ -66,6 +67,7 @@ module.exports = function buildList() {
       ...scrollTestnet,
       ...superseedMainnet,
       ...tangleMainnet,
+      ...xdcMainnet,
       ...zksyncMainnet,
     ]
       // sort them by symbol for easy readability

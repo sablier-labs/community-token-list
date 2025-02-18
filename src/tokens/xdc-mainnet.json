@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+    "chainId": 50,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WXDC.png",
+    "name": "Wrapped XDC",
+    "symbol": "WXDC"
+  }
+]
