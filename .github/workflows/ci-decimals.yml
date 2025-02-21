@@ -12,6 +12,7 @@ env:
   CHILIZ_MAINNET_RPC_URL: "https://chiliz.publicnode.com"
   ETHEREUM_MAINNET_RPC_URL: "https://mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   ETHEREUM_SEPOLIA_RPC_URL: "https://sepolia.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
+  FORM_MAINNET_RPC_URL: "https://form.calderachain.xyz/http"
   GNOSIS_MAINNET_RPC_URL: "https://gnosis.drpc.org"
   IOTEX_MAINNET_RPC_URL: "https://rpc.ankr.com/iotex"
   LIGHTLINK_MAINNET_RPC_URL: "https://replicator.phoenix.lightlink.io/rpc/v1"
@@ -24,6 +25,7 @@ env:
   RONIN_TESTNET_RPC_URL: "https://saigon-testnet.roninchain.com/rpc"
   SCROLL_MAINNET_RPC_URL: "https://scroll-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
   SUPERSEED_MAINNET_RPC_URL: "https://mainnet.superseed.xyz"
+  XDC_MAINNET_RPC_URL: "https://rpc.xinfin.network"
   ZKSYNC_MAINNET_RPC_URL: "https://zksync-mainnet.infura.io/v3/${{ secrets.API_KEY_INFURA }}"
 
 on:

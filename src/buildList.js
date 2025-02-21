@@ -12,6 +12,7 @@ const chilizMainnet = require("./tokens/chiliz-mainnet.json");
 const ethereumMainnet = require("./tokens/ethereum-mainnet.json");
 const ethereumSepolia = require("./tokens/ethereum-sepolia.json");
 const gnosisMainnet = require("./tokens/gnosis-mainnet.json");
+const formMainnet = require("./tokens/form-mainnet.json");
 const iotexMainnet = require("./tokens/iotex-mainnet.json");
 const optimismMainnet = require("./tokens/optimism-mainnet.json");
 const lightlinkMainnet = require("./tokens/lightlink-mainnet.json");
@@ -54,6 +55,7 @@ module.exports = function buildList() {
       ...bscMainnet,
       ...chilizMainnet,
       ...ethereumSepolia,
+      ...formMainnet,
       ...gnosisMainnet,
       ...iotexMainnet,
       ...lightlinkMainnet,

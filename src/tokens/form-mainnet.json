@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xFBf489bb4783D4B1B2e7D07ba39873Fb8068507D",
+    "chainId": 478,
+    "decimals": 6,
+    "logoURI": "https://files.sablier.com/tokens/USDC.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0xb1b812b664c28E1bA1d35De925Ae88b7Bc7cdCF5",
+    "chainId": 478,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/WETH.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
+  }
+]
