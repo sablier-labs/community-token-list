@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xba8cd87120aca631f59231f9fd6c5469bbee3440",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/ITP.png",
+    "name": "Infinite Trading Protocol",
+    "symbol": "ITP"
+  },
+  {
     "address": "0x02D4f76656C2B4f58430e91f8ac74896c9281Cb9",
     "chainId": 8453,
     "decimals": 18,
