@@ -587,6 +587,24 @@
     "symbol": "EEFI"
   },
   {
+    "address": "0x26aAd156Ba8eFA501b32B42Ffcdc8413F90e9C99",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EDU.png",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xB03E3b00BaF9954bF1604d09A4dbd5Cf88E1f695"
+        },
+				"56": {
+					"tokenAddress": "0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639"
+				}
+      }
+    },
+    "name": "Open Campus",
+    "symbol": "EDU"
+  },
+  {
     "address": "0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d",
     "chainId": 1,
     "decimals": 18,

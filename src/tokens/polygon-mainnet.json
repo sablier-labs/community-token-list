@@ -1,506 +1,514 @@
 [
-  {
-    "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
-    "name": "Aave Token",
-    "symbol": "AAVE"
-  },
-  {
-    "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/AMP.png",
-    "name": "Amp",
-    "symbol": "AMP"
-  },
-  {
-    "address": "0xD7F3aaC7557c213b035C19Bd89bd693396accCD6",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/ART.png",
-    "name": "Artizen",
-    "symbol": "ART"
-  },
-  {
-    "address": "0x44e3ae622c1570Dc6E492aDB8DE92d01cA923d26",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/RYZE.png",
-    "name": "Aryze",
-    "symbol": "RYZE"
-  },
-  {
-    "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/pWBAN.png",
-    "name": "Wrapped Banano",
-    "symbol": "pWBAN"
-  },
-  {
-    "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/BANK.png",
-    "name": "BANK",
-    "symbol": "BANK"
-  },
-  {
-    "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/BUSD.png",
-    "name": "Binance USD",
-    "symbol": "BUSD"
-  },
-  {
-    "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/BNB.png",
-    "name": "BNB",
-    "symbol": "BNB"
-  },
-  {
-    "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/LINK.png",
-    "name": "ChainLink Token",
-    "symbol": "LINK"
-  },
-  {
-    "address": "0xf35a85C493c49f19bCC176E718865b148958a130",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/CBL.png",
-    "name": "CherryBlossom",
-    "symbol": "CBL"
-  },
-  {
-    "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/COMP.png",
-    "name": "Compound",
-    "symbol": "COMP"
-  },
-  {
-    "address": "0x50AA659E6aB263B77d61Ff44cF4A1090141e7111",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/TOS.png",
-    "name": "Cryptos",
-    "symbol": "TOS"
-  },
-  {
-    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png",
-    "name": "CRV",
-    "symbol": "CRV"
-  },
-  {
-    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI"
-  },
-  {
-    "address": "0xfdF80c001f182E76894DEA7dD10e52D9Fb0F9715",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/DANK.png",
-    "name": "Dank Token",
-    "symbol": "DANK"
-  },
-  {
-    "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292/logo.png",
-    "name": "dHedge",
-    "symbol": "DHT"
-  },
-  {
-    "address": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/DUSD.png",
-    "name": "dHedge Stablecoin Yield",
-    "symbol": "DUSD"
-  },
-  {
-    "address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/ETHA.png",
-    "name": "ETHA",
-    "symbol": "ETHA"
-  },
-  {
-    "address": "0x525b43A49bE2Ed530e3516C22bd7ECbcF1586AD4",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/FS.png",
-    "name": "FantomStarter",
-    "symbol": "FS"
-  },
-  {
-    "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/FTM.png",
-    "name": "Fantom Token",
-    "symbol": "FTM"
-  },
-  {
-    "address": "0x10b1c123183E191E8e2d5B209323DE51c655e384",
-    "chainId": 137,
-    "decimals": 9,
-    "logoURI": "https://files.sablier.com/tokens/FFWOOL.png",
-    "name": "FFWOOL",
-    "symbol": "FFWOOL"
-  },
-  {
-    "address": "0xD8D9Ce0E4574028EA265cf4eB71d051337979d5A",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/GC.png",
-    "name": "Golden Council",
-    "symbol": "GC"
-  },
-  {
-    "address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/GX.png",
-    "name": "Grindery X",
-    "symbol": "GX"
-  },
-  {
-    "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
-    "chainId": 137,
-    "decimals": 4,
-    "logoURI": "https://files.sablier.com/tokens/GCR.png",
-    "name": "GCR",
-    "symbol": "GCR"
-  },
-  {
-    "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/GRT.png",
-    "name": "Graph Token",
-    "symbol": "GRT"
-  },
-  {
-    "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6/logo.png",
-    "name": "Ichi",
-    "symbol": "ICHI"
-  },
-  {
-    "address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/jGBP.png",
-    "name": "Jarvis Synthetic British Pound",
-    "symbol": "jGBP"
-  },
-  {
-    "address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/jCAD.png",
-    "name": "Jarvis Synthetic Canadian Dollar",
-    "symbol": "jCAD"
-  },
-  {
-    "address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/jEUR.png",
-    "name": "Jarvis Synthetic Euro",
-    "symbol": "jEUR"
-  },
-  {
-    "address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/jSGD.png",
-    "name": "Jarvis Synthetic Singapore Dollar",
-    "symbol": "jSGD"
-  },
-  {
-    "address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/jCHF.png",
-    "name": "Jarvis Synthetic Swiss Franc",
-    "symbol": "jCHF"
-  },
-  {
-    "address": "0x2B867A0f2C67D13f19178E2fe37a8F3769E1BeA7",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/LUST.png",
-    "name": "LunarStorm",
-    "symbol": "LUST"
-  },
-  {
-    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "name": "Mai Stablecoin",
-    "symbol": "MAI"
-  },
-  {
-    "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/MKR.png",
-    "name": "Maker",
-    "symbol": "MKR"
-  },
-  {
-    "address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/MTA.png",
-    "name": "Meta",
-    "symbol": "MTA"
-  },
-  {
-    "address": "0x747033ea841324d3e8295bc31CcdBeC58E76165f",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/METAS.png",
-    "name": "Metas",
-    "symbol": "METAS"
-  },
-  {
-    "address": "0xE840B73E5287865EEc17d250bFb1536704B43B21",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/mUSD.png",
-    "name": "mStable USD",
-    "symbol": "mUSD"
-  },
-  {
-    "address": "0xedD4d0080EAb2D7db66b409c124c6A8D964B0555",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/pETHUSDC.png",
-    "name": "Pods Option Put ETH:USDC 2500",
-    "symbol": "pETHUSDC"
-  },
-  {
-    "address": "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/OUSG.png",
-    "name": "Ondo Short-Term US Gov Bond Fund",
-    "symbol": "OUSG"
-  },
-  {
-    "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
-    "name": "Qi Dao",
-    "symbol": "QI"
-  },
-  {
-    "address": "0x63a81936F9B9081Fac97506188e7ed9c7359ca9E",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/SHF.png",
-    "name": "Super Human Fathers",
-    "symbol": "SHF"
-  },
-  {
-    "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
-  },
-  {
-    "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png",
-    "name": "Synthetix Network Token",
-    "symbol": "SNX"
-  },
-  {
-    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-    "chainId": 137,
-    "decimals": 6,
-    "logoURI": "https://files.sablier.com/tokens/USDT.png",
-    "name": "Tether USD",
-    "symbol": "USDT"
-  },
-  {
-    "address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/THETA.png",
-    "name": "Theta Token",
-    "symbol": "THETA"
-  },
-  {
-    "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/TUSD.png",
-    "name": "TrueUSD",
-    "symbol": "TUSD"
-  },
-  {
-    "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/UFI.png",
-    "name": "PureFi",
-    "symbol": "UFI"
-  },
-  {
-    "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png",
-    "name": "Uniswap",
-    "symbol": "UNI"
-  },
-  {
-    "address": "0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/UDT.png",
-    "name": "Unlock Discount Token",
-    "symbol": "UDT"
-  },
-  {
-    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-    "chainId": 137,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
-    "name": "USD Coin",
-    "symbol": "USDC"
-  },
-  {
-    "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/VERSE.png",
-    "name": "Verse",
-    "symbol": "VERSE"
-  },
-  {
-    "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-    "chainId": 137,
-    "decimals": 8,
-    "logoURI": "https://files.sablier.com/tokens/WBTC.png",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC"
-  },
-  {
-    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "name": "Wrapped Ether",
-    "symbol": "WETH"
-  },
-  {
-    "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "symbol": "wstETH"
-  },
-  {
-    "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
-    "name": "Wrapped MATIC",
-    "symbol": "WMATIC"
-  },
-  {
-    "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/PSP.png",
-    "name": "ParaSwap",
-    "symbol": "PSP"
-  },
-  {
-    "address": "0x7C6C69bafBE40B2C76a25dcdF9854C77f086e2C6",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/OVAL3.png",
-    "name": "OVAL3",
-    "symbol": "OVL3"
-  },
-  {
-    "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/BONSAI.png",
-    "name": "Bonsai Token",
-    "symbol": "BONSAI"
-  },
-  {
-    "address": "0x84342e932797FC62814189f01F0Fb05F52519708",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/NHT.png",
-    "name": "Neighbourhoods",
-    "symbol": "NHT"
-  },
-  {
-    "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/REG.png",
-    "name": "RealToken Ecosystem Governance",
-    "symbol": "REG"
-  },
-  {
-    "address": "0x37ed1625E73Fc20Ff2eC1c07533ddecbB9542d47",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/STADX.png",
-    "name": "STADX",
-    "symbol": "STADX"
-  },
-  {
-    "address": "0x0566C506477cD2d8dF4e0123512dBc344bD9D111",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/MLC.png",
-    "name": "MyLovelyCoin",
-    "symbol": "MLC"
-  },
-  {
-    "address": "0x0B3EAEAd748facDb9d943d3407011f16Eb17D0Cf",
-    "chainId": 137,
-    "decimals": 18,
-    "logoURI": "https://files.sablier.com/tokens/PMX.png",
-    "name": "Primex Finance",
-    "symbol": "PMX"
-  }
+	{
+		"address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
+		"name": "Aave Token",
+		"symbol": "AAVE"
+	},
+	{
+		"address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/AMP.png",
+		"name": "Amp",
+		"symbol": "AMP"
+	},
+	{
+		"address": "0xD7F3aaC7557c213b035C19Bd89bd693396accCD6",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/ART.png",
+		"name": "Artizen",
+		"symbol": "ART"
+	},
+	{
+		"address": "0x44e3ae622c1570Dc6E492aDB8DE92d01cA923d26",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/RYZE.png",
+		"name": "Aryze",
+		"symbol": "RYZE"
+	},
+	{
+		"address": "0xB03E3b00BaF9954bF1604d09A4dbd5Cf88E1f695",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/EDU.png",
+		"name": "Open Campus",
+		"symbol": "EDU"
+	},
+	{
+		"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/pWBAN.png",
+		"name": "Wrapped Banano",
+		"symbol": "pWBAN"
+	},
+	{
+		"address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/BANK.png",
+		"name": "BANK",
+		"symbol": "BANK"
+	},
+	{
+		"address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/BUSD.png",
+		"name": "Binance USD",
+		"symbol": "BUSD"
+	},
+	{
+		"address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/BNB.png",
+		"name": "BNB",
+		"symbol": "BNB"
+	},
+	{
+		"address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/LINK.png",
+		"name": "ChainLink Token",
+		"symbol": "LINK"
+	},
+	{
+		"address": "0xf35a85C493c49f19bCC176E718865b148958a130",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/CBL.png",
+		"name": "CherryBlossom",
+		"symbol": "CBL"
+	},
+	{
+		"address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/COMP.png",
+		"name": "Compound",
+		"symbol": "COMP"
+	},
+	{
+		"address": "0x50AA659E6aB263B77d61Ff44cF4A1090141e7111",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/TOS.png",
+		"name": "Cryptos",
+		"symbol": "TOS"
+	},
+	{
+		"address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png",
+		"name": "CRV",
+		"symbol": "CRV"
+	},
+	{
+		"address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
+		"name": "Dai Stablecoin",
+		"symbol": "DAI"
+	},
+	{
+		"address": "0xfdF80c001f182E76894DEA7dD10e52D9Fb0F9715",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/DANK.png",
+		"name": "Dank Token",
+		"symbol": "DANK"
+	},
+	{
+		"address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292/logo.png",
+		"name": "dHedge",
+		"symbol": "DHT"
+	},
+	{
+		"address": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/DUSD.png",
+		"name": "dHedge Stablecoin Yield",
+		"symbol": "DUSD"
+	},
+	{
+		"address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/ETHA.png",
+		"name": "ETHA",
+		"symbol": "ETHA"
+	},
+	{
+		"address": "0x525b43A49bE2Ed530e3516C22bd7ECbcF1586AD4",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/FS.png",
+		"name": "FantomStarter",
+		"symbol": "FS"
+	},
+	{
+		"address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/FTM.png",
+		"name": "Fantom Token",
+		"symbol": "FTM"
+	},
+	{
+		"address": "0x10b1c123183E191E8e2d5B209323DE51c655e384",
+		"chainId": 137,
+		"decimals": 9,
+		"logoURI": "https://files.sablier.com/tokens/FFWOOL.png",
+		"name": "FFWOOL",
+		"symbol": "FFWOOL"
+	},
+	{
+		"address": "0xD8D9Ce0E4574028EA265cf4eB71d051337979d5A",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/GC.png",
+		"name": "Golden Council",
+		"symbol": "GC"
+	},
+	{
+		"address": "0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/GX.png",
+		"name": "Grindery X",
+		"symbol": "GX"
+	},
+	{
+		"address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
+		"chainId": 137,
+		"decimals": 4,
+		"logoURI": "https://files.sablier.com/tokens/GCR.png",
+		"name": "GCR",
+		"symbol": "GCR"
+	},
+	{
+		"address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/GRT.png",
+		"name": "Graph Token",
+		"symbol": "GRT"
+	},
+	{
+		"address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6/logo.png",
+		"name": "Ichi",
+		"symbol": "ICHI"
+	},
+	{
+		"address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/jGBP.png",
+		"name": "Jarvis Synthetic British Pound",
+		"symbol": "jGBP"
+	},
+	{
+		"address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/jCAD.png",
+		"name": "Jarvis Synthetic Canadian Dollar",
+		"symbol": "jCAD"
+	},
+	{
+		"address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/jEUR.png",
+		"name": "Jarvis Synthetic Euro",
+		"symbol": "jEUR"
+	},
+	{
+		"address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/jSGD.png",
+		"name": "Jarvis Synthetic Singapore Dollar",
+		"symbol": "jSGD"
+	},
+	{
+		"address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/jCHF.png",
+		"name": "Jarvis Synthetic Swiss Franc",
+		"symbol": "jCHF"
+	},
+	{
+		"address": "0x2B867A0f2C67D13f19178E2fe37a8F3769E1BeA7",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/LUST.png",
+		"name": "LunarStorm",
+		"symbol": "LUST"
+	},
+	{
+		"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+		"name": "Mai Stablecoin",
+		"symbol": "MAI"
+	},
+	{
+		"address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/MKR.png",
+		"name": "Maker",
+		"symbol": "MKR"
+	},
+	{
+		"address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/MTA.png",
+		"name": "Meta",
+		"symbol": "MTA"
+	},
+	{
+		"address": "0x747033ea841324d3e8295bc31CcdBeC58E76165f",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/METAS.png",
+		"name": "Metas",
+		"symbol": "METAS"
+	},
+	{
+		"address": "0xE840B73E5287865EEc17d250bFb1536704B43B21",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/mUSD.png",
+		"name": "mStable USD",
+		"symbol": "mUSD"
+	},
+	{
+		"address": "0xedD4d0080EAb2D7db66b409c124c6A8D964B0555",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/pETHUSDC.png",
+		"name": "Pods Option Put ETH:USDC 2500",
+		"symbol": "pETHUSDC"
+	},
+	{
+		"address": "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/OUSG.png",
+		"name": "Ondo Short-Term US Gov Bond Fund",
+		"symbol": "OUSG"
+	},
+	{
+		"address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
+		"name": "Qi Dao",
+		"symbol": "QI"
+	},
+	{
+		"address": "0x63a81936F9B9081Fac97506188e7ed9c7359ca9E",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/SHF.png",
+		"name": "Super Human Fathers",
+		"symbol": "SHF"
+	},
+	{
+		"address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png",
+		"name": "SushiToken",
+		"symbol": "SUSHI"
+	},
+	{
+		"address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png",
+		"name": "Synthetix Network Token",
+		"symbol": "SNX"
+	},
+	{
+		"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+		"chainId": 137,
+		"decimals": 6,
+		"logoURI": "https://files.sablier.com/tokens/USDT.png",
+		"name": "Tether USD",
+		"symbol": "USDT"
+	},
+	{
+		"address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/THETA.png",
+		"name": "Theta Token",
+		"symbol": "THETA"
+	},
+	{
+		"address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/TUSD.png",
+		"name": "TrueUSD",
+		"symbol": "TUSD"
+	},
+	{
+		"address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/UFI.png",
+		"name": "PureFi",
+		"symbol": "UFI"
+	},
+	{
+		"address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png",
+		"name": "Uniswap",
+		"symbol": "UNI"
+	},
+	{
+		"address": "0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/UDT.png",
+		"name": "Unlock Discount Token",
+		"symbol": "UDT"
+	},
+	{
+		"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+		"chainId": 137,
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
+		"name": "USD Coin",
+		"symbol": "USDC"
+	},
+	{
+		"address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/VERSE.png",
+		"name": "Verse",
+		"symbol": "VERSE"
+	},
+	{
+		"address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+		"chainId": 137,
+		"decimals": 8,
+		"logoURI": "https://files.sablier.com/tokens/WBTC.png",
+		"name": "Wrapped BTC",
+		"symbol": "WBTC"
+	},
+	{
+		"address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+		"name": "Wrapped Ether",
+		"symbol": "WETH"
+	},
+	{
+		"address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png",
+		"name": "Wrapped liquid staked Ether 2.0",
+		"symbol": "wstETH"
+	},
+	{
+		"address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+		"name": "Wrapped MATIC",
+		"symbol": "WMATIC"
+	},
+	{
+		"address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/PSP.png",
+		"name": "ParaSwap",
+		"symbol": "PSP"
+	},
+	{
+		"address": "0x7C6C69bafBE40B2C76a25dcdF9854C77f086e2C6",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/OVAL3.png",
+		"name": "OVAL3",
+		"symbol": "OVL3"
+	},
+	{
+		"address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/BONSAI.png",
+		"name": "Bonsai Token",
+		"symbol": "BONSAI"
+	},
+	{
+		"address": "0x84342e932797FC62814189f01F0Fb05F52519708",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/NHT.png",
+		"name": "Neighbourhoods",
+		"symbol": "NHT"
+	},
+	{
+		"address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/REG.png",
+		"name": "RealToken Ecosystem Governance",
+		"symbol": "REG"
+	},
+	{
+		"address": "0x37ed1625E73Fc20Ff2eC1c07533ddecbB9542d47",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/STADX.png",
+		"name": "STADX",
+		"symbol": "STADX"
+	},
+	{
+		"address": "0x0566C506477cD2d8dF4e0123512dBc344bD9D111",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/MLC.png",
+		"name": "MyLovelyCoin",
+		"symbol": "MLC"
+	},
+	{
+		"address": "0x0B3EAEAd748facDb9d943d3407011f16Eb17D0Cf",
+		"chainId": 137,
+		"decimals": 18,
+		"logoURI": "https://files.sablier.com/tokens/PMX.png",
+		"name": "Primex Finance",
+		"symbol": "PMX"
+	}
 ]

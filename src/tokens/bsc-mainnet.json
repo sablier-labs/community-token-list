@@ -32,6 +32,14 @@
     "symbol": "RYZE"
   },
   {
+    "address": "0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/EDU.png",
+    "name": "Open Campus",
+    "symbol": "EDU"
+  },
+  {
     "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
     "chainId": 56,
     "decimals": 18,
