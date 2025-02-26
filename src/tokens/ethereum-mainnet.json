@@ -2472,5 +2472,13 @@
     "logoURI": "https://files.sablier.com/tokens/PERQ.png",
     "name": "PERQ",
     "symbol": "PERQ"
+  },
+  {
+    "address": "0xE7deE4823EE18F1347F1Cf7997f70B94eFDe2E1F",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FORM.png",
+    "name": "Form",
+    "symbol": "FORM"
   }
 ]

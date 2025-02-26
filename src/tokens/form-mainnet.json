@@ -14,5 +14,13 @@
     "logoURI": "https://files.sablier.com/tokens/WETH.png",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x688da80Dfe2916c0a0Aa360323E52Aa5881AdB78",
+    "chainId": 478,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/FORM.png",
+    "name": "Form",
+    "symbol": "FORM"
   }
 ]
