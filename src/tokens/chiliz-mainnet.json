@@ -14,5 +14,13 @@
     "logoURI": "https://files.sablier.com/tokens/CHILIZ_INU.png",
     "name": "CHILIZ INU",
     "symbol": "CHZINU"
+  },
+  {
+    "address": "0x8c0b6ea89DABA6516df9437a60cA481501781606",
+    "chainId": 88888,
+    "decimals": 18,
+    "logoURI": "https://files.sablier.com/tokens/KAYEN.png",
+    "name": "Kayen Token",
+    "symbol": "KAYEN"
   }
 ]
